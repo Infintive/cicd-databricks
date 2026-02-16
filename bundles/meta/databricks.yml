@@ -1,5 +1,5 @@
 bundle:
-  name: meta_bundle
+  name: data_bundle
 
 include:
   - resources/schemas/*.yml
