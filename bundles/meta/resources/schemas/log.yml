@@ -1,0 +1,7 @@
+resources:
+  schemas:
+    log:
+      name: log
+      catalog_name: uc_meta_${var.CICD_ENV}
+      lifecycle:
+        prevent_destroy: false
