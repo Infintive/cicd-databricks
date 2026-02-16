@@ -2,6 +2,6 @@ resources:
   schemas:
     bronze:
       name: ${bundle.name}
-      catalog_name: inf_bronze_${var.env}
+      catalog_name: ${var.env}_bronze
       lifecycle:
         prevent_destroy: false
