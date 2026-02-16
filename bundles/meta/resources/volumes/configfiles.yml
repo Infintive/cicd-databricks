@@ -1,8 +1,0 @@
-  resources:
-    volumes:
-      configfiles:
-        catalog_name: uc_meta_${var.CICD_ENV}
-        schema_name: ${resources.schemas.config.name}
-        name: configfiles
-        lifecycle:
-          prevent_destroy: false

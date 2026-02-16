@@ -1,0 +1,29 @@
+bundle:
+  name: cities
+
+include:
+  - resources/schemas/*.yml
+  - resources/volumes/*.yml
+
+variables:
+  env:
+    description: The environment (dev, stg, prd)
+  development_mode:
+    description: The mode to run in when in development
+    default: production
+
+targets:
+
+  dev: &target_env
+    default: true
+    mode: ${var.development_mode}
+    workspace:
+      root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
+
+  stg: 
+    <<: *target_env
+    default: false
+
+  prd: 
+    <<: *target_env
+    default: false

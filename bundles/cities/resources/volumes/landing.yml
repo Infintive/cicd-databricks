@@ -1,0 +1,8 @@
+  resources:
+    volumes:
+      landing:
+        catalog_name: inf_bronze_${var.ENV}
+        schema_name: ${resources.schemas.bronze.name}
+        name: landing
+        lifecycle:
+          prevent_destroy: false
