@@ -1,0 +1,46 @@
+name: Deploy Databricks bundle
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: GitHub environment to use (dev/stg/prd)
+        required: true
+        default: dev
+      target:
+        description: Databricks bundle target (dev/stg/prd)
+        required: true
+        default: dev
+      bundle_env:
+        description: Bundle variable 'env' value
+        required: true
+        default: dev
+  push:
+    branches: ["main"]
+
+jobs:
+  deploy:
+    name: Deploy bundle
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment || 'dev' }}
+
+    env:
+      DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+      DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+      BUNDLE_TARGET: ${{ inputs.target || 'dev' }}
+      BUNDLE_ENV: ${{ inputs.bundle_env || 'dev' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Databricks CLI
+        uses: databricks/setup-cli@v2
+
+      - name: Validate bundle
+        working-directory: bundles/geography
+        run: databricks bundle validate -t "$BUNDLE_TARGET" --var env="$BUNDLE_ENV"
+
+      - name: Deploy bundle
+        working-directory: bundles/geography
+        run: databricks bundle deploy -t "$BUNDLE_TARGET" --var env="$BUNDLE_ENV"
