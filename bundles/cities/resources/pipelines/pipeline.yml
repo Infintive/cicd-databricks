@@ -1,15 +1,15 @@
 resources:
   pipelines:
     pipeline:
-      name: pipeline
+      name: ${var.bundle_name}_pipeline
       libraries:
         - glob:
             include: ../../src/pipeline/transformations/**
       serverless: true
       catalog: ${var.env}_bronze
-      schema: dev_tyler_tracey_cities
-      root_path: ../src/pipeline
+      schema: ${var.schemas.bronze.name}
+      root_path: ../../src/pipeline
       configuration:
         catalog_name: ${var.env}_bronze
-        schema_name: dev_tyler_tracey_cities
+        schema_name: ${var.schemas.bronze.name}
         volume_name: ${resources.volumes.landing.name}

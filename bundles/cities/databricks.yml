@@ -1,5 +1,5 @@
 bundle:
-  name: cities
+  name: geography
 
 include:
   - resources/*/*.yml
