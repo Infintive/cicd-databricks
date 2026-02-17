@@ -7,9 +7,9 @@ resources:
             include: ../../src/pipeline/transformations/**
       serverless: true
       catalog: ${var.env}_bronze
-      schema: ${workspace.current_user.short_name}
+      schema: dev_tyler_tracey_cities
       root_path: ../src/pipeline
       configuration:
         catalog_name: ${var.env}_bronze
-        schema_name: ${workspace.current_user.short_name}
+        schema_name: dev_tyler_tracey_cities
         volume_name: ${resources.volumes.landing.name}
