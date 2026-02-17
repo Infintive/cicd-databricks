@@ -2,8 +2,8 @@ bundle:
   name: cities
 
 include:
-  - resources/schemas/*.yml
-  - resources/volumes/*.yml
+  - resources/*/*.yml
+  - resources/*.yml
 
 variables:
   env:
