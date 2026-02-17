@@ -1,7 +1,0 @@
-resources:
-  schemas:
-    gold:
-      name: ${bundle.name}
-      catalog_name: ${var.env}_gold
-      lifecycle:
-        prevent_destroy: false

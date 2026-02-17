@@ -1,7 +1,0 @@
-resources:
-  schemas:
-    silver:
-      name: ${bundle.name}
-      catalog_name: ${var.env}_silver
-      lifecycle:
-        prevent_destroy: false
