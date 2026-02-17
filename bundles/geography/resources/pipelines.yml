@@ -4,11 +4,11 @@ resources:
       name: ${bundle.name}_pipeline
       libraries:
         - glob:
-            include: ../../src/pipeline/transformations/**
+            include: ../../src/transformations/**
       serverless: true
       catalog: ${var.env}_bronze
       schema: ${resources.schemas.bronze.name}
-      root_path: ../../src/pipeline
+      root_path: ../../src
       configuration:
         catalog_name: ${var.env}_bronze
         schema_name: ${resources.schemas.bronze.name}
