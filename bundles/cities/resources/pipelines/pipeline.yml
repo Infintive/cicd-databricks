@@ -4,8 +4,8 @@ resources:
       name: pipeline
       libraries:
         - glob:
-            include: ../src/pipeline/transformations/**
+            include: ../../src/pipeline/transformations/**
       serverless: true
       catalog: ${var.env}_bronze
       schema: ${workspace.current_user.short_name}
-      root_path: ../src/pipeline
+      root_path: ../../src/pipeline/
