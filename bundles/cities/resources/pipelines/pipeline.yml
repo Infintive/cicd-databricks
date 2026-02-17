@@ -1,7 +1,7 @@
 resources:
   pipelines:
     pipeline:
-      name: ${var.bundle_name}_pipeline
+      name: ${bundle.name}_pipeline
       libraries:
         - glob:
             include: ../../src/pipeline/transformations/**
