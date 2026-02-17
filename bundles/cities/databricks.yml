@@ -12,6 +12,13 @@ variables:
   development_mode:
     description: The mode to run in when in development
     default: production
+  git_source:
+    description: The source of the git repository
+    type: complex
+    default:
+      git_url: https://github.com/Infintive/cicd-databricks
+      git_provider: github
+      git_branch: main
 
 targets:
 
