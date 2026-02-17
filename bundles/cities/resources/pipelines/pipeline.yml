@@ -9,3 +9,7 @@ resources:
       catalog: ${var.env}_bronze
       schema: ${workspace.current_user.short_name}
       root_path: ../src/pipeline
+      configuration:
+        catalog_name: ${var.env}_bronze
+        schema_name: ${workspace.current_user.short_name}
+        volume_name: ${resources.volumes.landing.name}

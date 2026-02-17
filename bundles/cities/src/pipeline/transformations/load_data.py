@@ -1,19 +1,11 @@
-from utilities import filecopy
-from pyspark import pipelines as dp
+import dlt
 
+catalog = spark.conf.get("catalog_name")
+schema = spark.conf.get("schema_name")
+volume = spark.conf.get("volume_name")
 
-# This file defines a sample transformation.
-# Edit the sample below or add new transformations
-# using "+ Add" in the file browser.
-
-@dp.table
-def sample_aggregation_pipleine():
-    return (
-        spark.read.table("sample_users_pipleine")
-        .withColumn("valid_email", utils.is_valid_email(col("email")))
-        .groupBy(col("user_type"))
-        .agg(
-            count("user_id").alias("total_count"),
-            count_if("valid_email").alias("count_valid_emails")
-        )
-    )
+@dlt.table
+def landing_table_from_volume():
+  return spark.readStream.format("cloudFiles") \
+    .option("cloudFiles.format", "csv") \
+    .load(f"/Volumes/{catalog}/{schema}/{volume}/")
