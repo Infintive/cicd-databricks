@@ -13,14 +13,14 @@ jobs:
   deploy:
     name: Deploy bundle
     runs-on: ubuntu-latest
-    environment: ${{ github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' }}
+    # environment: ${{ github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' }}
 
     env:
       DATABRICKS_AUTH_TYPE: oauth-m2m
       DATABRICKS_HOST: ${{ vars.DATABRICKS_HOST }}
       DATABRICKS_CLIENT_ID: ${{ secrets.DATABRICKS_CLIENT_ID }}
       DATABRICKS_CLIENT_SECRET: ${{ secrets.DATABRICKS_CLIENT_SECRET }}
-      ENVIRONMENT: ${{ inputs.environment || 'dev' }}
+      ENVIRONMENT: ${{ inputs.environment }}
 
     steps:
       - name: Checkout
