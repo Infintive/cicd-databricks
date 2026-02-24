@@ -1,20 +1,6 @@
 name: Deploy Databricks bundle
 
 on:
-  # workflow_dispatch:
-  #   inputs:
-  #     environment:
-  #       description: GitHub environment to use (dev/stg/prd)
-  #       required: true
-  #       default: dev
-  #     target:
-  #       description: Databricks bundle target (dev/stg/prd)
-  #       required: true
-  #       default: dev
-  #     bundle_env:
-  #       description: Bundle variable 'env' value
-  #       required: true
-  #       default: dev
   workflow_call:
     inputs:
       environment:
@@ -22,18 +8,6 @@ on:
         required: false
         type: string
         default: dev
-      # target:
-      #   description: Databricks bundle target (dev/stg/prd)
-      #   required: false
-      #   type: string
-      #   default: dev
-      # bundle_env:
-      #   description: Bundle variable 'env' value
-      #   required: false
-      #   type: string
-      #   default: dev
-  # push:
-  #   branches: ["main"]
 
 jobs:
   deploy:
@@ -47,7 +21,6 @@ jobs:
       DATABRICKS_CLIENT_ID: ${{ secrets.DATABRICKS_CLIENT_ID }}
       DATABRICKS_CLIENT_SECRET: ${{ secrets.DATABRICKS_CLIENT_SECRET }}
       ENVIRONMENT: ${{ inputs.environment || 'dev' }}
-      # BUNDLE_ENV: ${{ inputs.bundle_env || 'dev' }}
 
     steps:
       - name: Checkout

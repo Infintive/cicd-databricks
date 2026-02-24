@@ -1,12 +1,6 @@
 name: Build wheel
 
 on:
-  # workflow_dispatch:
-  #   inputs:
-  #     env:
-  #       description: Environment suffix for versioning (dev/stg/prd)
-  #       required: true
-  #       default: dev
   workflow_call:
     inputs:
       env:
@@ -14,14 +8,10 @@ on:
         required: false
         type: string
         default: dev
-  # push:
-  #   branches: ["main"]
-  # pull_request:
 
 jobs:
   build-wheel:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
