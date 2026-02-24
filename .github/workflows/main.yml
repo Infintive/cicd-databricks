@@ -1,7 +1,7 @@
 name: CI/CD Pipeline
 
-env:
-  DEPLOY_ENV: ${{ github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' }}
+# env:
+#   DEPLOY_ENV: ${{ github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' }}
 
 on:
   workflow_dispatch:
@@ -15,14 +15,13 @@ on:
 
 jobs:
   build-wheel:
-    name: ${{ env.DEPLOY_ENV }}-build-wheel
     uses: ./.github/workflows/build-wheel.yml
     with:
       environment: ${{ inputs.environment || 'dev' }}
     secrets: inherit
 
   deploy-bundle:
-    name: ${{ env.DEPLOY_ENV }}-deploy-bundle
+    # name: ${{ env.DEPLOY_ENV }}-deploy-bundle
     needs: build-wheel
     uses: ./.github/workflows/deploy-bundle.yml
     with:
