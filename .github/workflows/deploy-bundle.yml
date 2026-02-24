@@ -1,20 +1,20 @@
 name: Deploy Databricks bundle
 
 on:
-  workflow_dispatch:
-    inputs:
-      environment:
-        description: GitHub environment to use (dev/stg/prd)
-        required: true
-        default: dev
-      target:
-        description: Databricks bundle target (dev/stg/prd)
-        required: true
-        default: dev
-      bundle_env:
-        description: Bundle variable 'env' value
-        required: true
-        default: dev
+  # workflow_dispatch:
+  #   inputs:
+  #     environment:
+  #       description: GitHub environment to use (dev/stg/prd)
+  #       required: true
+  #       default: dev
+  #     target:
+  #       description: Databricks bundle target (dev/stg/prd)
+  #       required: true
+  #       default: dev
+  #     bundle_env:
+  #       description: Bundle variable 'env' value
+  #       required: true
+  #       default: dev
   workflow_call:
     inputs:
       environment:

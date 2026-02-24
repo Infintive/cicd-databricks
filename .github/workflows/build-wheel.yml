@@ -1,12 +1,12 @@
 name: Build wheel
 
 on:
-  workflow_dispatch:
-    inputs:
-      env:
-        description: Environment suffix for versioning (dev/stg/prd)
-        required: true
-        default: dev
+  # workflow_dispatch:
+  #   inputs:
+  #     env:
+  #       description: Environment suffix for versioning (dev/stg/prd)
+  #       required: true
+  #       default: dev
   workflow_call:
     inputs:
       env:
