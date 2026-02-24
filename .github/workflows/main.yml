@@ -22,6 +22,7 @@ jobs:
           }}" >> $GITHUB_OUTPUT
 
   build-wheel:
+    name: ${{ needs.resolve-env.outputs.environment }}-build-wheel
     needs: resolve-env
     uses: ./.github/workflows/build-wheel.yml
     with:
@@ -29,7 +30,7 @@ jobs:
     secrets: inherit
 
   deploy-bundle:
-    # name: ${{ env.DEPLOY_ENV }}-deploy-bundle
+    name: ${{ needs.resolve-env.outputs.environment }}-deploy-bundle
     needs: build-wheel
     uses: ./.github/workflows/deploy-bundle.yml
     with:
