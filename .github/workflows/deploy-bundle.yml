@@ -26,6 +26,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Print environment variables
+        run: |
+          echo "ENVIRONMENT=$ENVIRONMENT"
+          echo "DATABRICKS_HOST=$DATABRICKS_HOST"
+          echo "DATABRICKS_AUTH_TYPE=$DATABRICKS_AUTH_TYPE"
+
       - name: Set up Databricks CLI
         uses: databricks/setup-cli@main
         with:
@@ -35,6 +41,6 @@ jobs:
         working-directory: bundles/geography
         run: databricks bundle validate -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
 
-      - name: Deploy bundle
-        working-directory: bundles/geography
-        run: databricks bundle deploy -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
+      # - name: Deploy bundle
+      #   working-directory: bundles/geography
+      #   run: databricks bundle deploy -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
