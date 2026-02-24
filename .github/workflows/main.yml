@@ -1,25 +1,31 @@
 name: CI/CD Pipeline
 
-# env:
-#   DEPLOY_ENV: ${{ github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' }}
-
 on:
-  workflow_dispatch:
-    inputs:
-      environment:
-        description: GitHub environment to use (dev/stg/prd)
-        required: true
-        default: dev
   push:
     branches: [ dev, main ]
   release:
     types: [ published ]
 
 jobs:
+
+  resolve-env:
+    runs-on: ubuntu-latest
+    outputs:
+      environment: ${{ steps.set.outputs.environment }}
+    steps:
+      - id: set
+        run: |
+          echo "environment=${{ 
+            github.event_name == 'release' && github.event.release.target_commitish == 'main' && 'prd' ||
+            github.ref_name == 'main' && 'stg' ||
+            github.ref_name == 'dev' && 'dev'
+          }}" >> $GITHUB_OUTPUT
+
   build-wheel:
+    needs: resolve-env
     uses: ./.github/workflows/build-wheel.yml
     with:
-      environment: ${{ inputs.environment || 'dev' }}
+      environment: ${{ needs.resolve-env.outputs.environment }}
     secrets: inherit
 
   deploy-bundle:
@@ -27,5 +33,5 @@ jobs:
     needs: build-wheel
     uses: ./.github/workflows/deploy-bundle.yml
     with:
-      environment: ${{ inputs.environment || 'dev' }}
+      environment: ${{ needs.resolve-env.outputs.environment }}
     secrets: inherit
