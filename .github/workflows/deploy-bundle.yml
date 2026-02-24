@@ -32,8 +32,8 @@ on:
         required: false
         type: string
         default: dev
-  push:
-    branches: ["main"]
+  # push:
+  #   branches: ["main"]
 
 jobs:
   deploy:
