@@ -28,7 +28,7 @@ jobs:
     secrets: inherit
 
   deploy-bundle:
-    needs: build-wheel
+    needs: [ build-wheel, resolve-env ]
     uses: ./.github/workflows/deploy-bundle.yml
     with:
       environment: ${{ needs.resolve-env.outputs.environment }}
