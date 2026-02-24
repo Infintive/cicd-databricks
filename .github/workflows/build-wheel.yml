@@ -3,7 +3,7 @@ name: Build wheel
 on:
   workflow_call:
     inputs:
-      env:
+      environment:
         description: Environment suffix for versioning (dev/stg/prd)
         required: false
         type: string
@@ -39,7 +39,7 @@ jobs:
           echo "Computed version: $VERSION"
           poetry version "$VERSION"
         env:
-          INPUT_ENV: ${{ inputs.env }}
+          INPUT_ENV: ${{ inputs.environment }}
           BUILD_ENV: ${{ vars.BUILD_ENV }}
 
       - name: Build wheel with Poetry
