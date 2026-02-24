@@ -15,6 +15,23 @@ on:
         description: Bundle variable 'env' value
         required: true
         default: dev
+  workflow_call:
+    inputs:
+      environment:
+        description: GitHub environment to use (dev/stg/prd)
+        required: false
+        type: string
+        default: dev
+      target:
+        description: Databricks bundle target (dev/stg/prd)
+        required: false
+        type: string
+        default: dev
+      bundle_env:
+        description: Bundle variable 'env' value
+        required: false
+        type: string
+        default: dev
   push:
     branches: ["main"]
 

@@ -7,6 +7,13 @@ on:
         description: Environment suffix for versioning (dev/stg/prd)
         required: true
         default: dev
+  workflow_call:
+    inputs:
+      env:
+        description: Environment suffix for versioning (dev/stg/prd)
+        required: false
+        type: string
+        default: dev
   push:
     branches: ["main"]
   pull_request:
@@ -27,6 +34,8 @@ jobs:
       - name: Install Poetry
         run: python -m pip install --upgrade pip poetry
 
+      ## Compute version with format:
+      ## {base_version}.{env}{build_number}+{sanitized_branch_name}.{shortsha}
       - name: Compute version
         shell: bash
         run: |

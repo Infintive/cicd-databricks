@@ -1,0 +1,39 @@
+name: Build and deploy
+
+on:
+  workflow_dispatch:
+    inputs:
+      env:
+        description: Environment suffix for versioning (dev/stg/prd)
+        required: true
+        default: dev
+      environment:
+        description: GitHub environment to use (dev/stg/prd)
+        required: true
+        default: dev
+      target:
+        description: Databricks bundle target (dev/stg/prd)
+        required: true
+        default: dev
+      bundle_env:
+        description: Bundle variable 'env' value
+        required: true
+        default: dev
+  push:
+    branches: ["main"]
+
+jobs:
+  build-wheel:
+    uses: ./.github/workflows/build-wheel.yml
+    with:
+      env: ${{ inputs.env || 'dev' }}
+    secrets: inherit
+
+  deploy-bundle:
+    needs: build-wheel
+    uses: ./.github/workflows/deploy-bundle.yml
+    with:
+      environment: ${{ inputs.environment || 'dev' }}
+      target: ${{ inputs.target || 'dev' }}
+      bundle_env: ${{ inputs.bundle_env || 'dev' }}
+    secrets: inherit
