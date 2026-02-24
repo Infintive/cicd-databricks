@@ -32,6 +32,9 @@ jobs:
           echo "DATABRICKS_HOST=$DATABRICKS_HOST"
           echo "DATABRICKS_AUTH_TYPE=$DATABRICKS_AUTH_TYPE"
 
+      - name: Debug inputs
+        run: echo "inputs.environment=${{ inputs.environment }}"
+
       - name: Set up Databricks CLI
         uses: databricks/setup-cli@main
         with:
