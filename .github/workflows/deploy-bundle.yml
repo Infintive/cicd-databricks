@@ -25,7 +25,7 @@ jobs:
     environment: ${{ inputs.environment || 'dev' }}
 
     env:
-      DATABRICKS_AUTH_TYPE: oauth
+      DATABRICKS_AUTH_TYPE: oauth-m2m
       DATABRICKS_HOST: ${{ vars.DATABRICKS_HOST }}
       DATABRICKS_CLIENT_ID: ${{ secrets.DATABRICKS_CLIENT_ID }}
       DATABRICKS_CLIENT_SECRET: ${{ secrets.DATABRICKS_CLIENT_SECRET }}
