@@ -13,7 +13,7 @@ jobs:
   deploy:
     name: Deploy bundle
     runs-on: ubuntu-latest
-    environment: ${{ inputs.environment || 'dev' }}
+    environment: ${{ github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' }}
 
     env:
       DATABRICKS_AUTH_TYPE: oauth-m2m
