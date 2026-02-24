@@ -14,12 +14,11 @@ jobs:
       environment: ${{ steps.set.outputs.environment }}
     steps:
       - id: set
+        shell: bash
         run: |
-          echo "environment=${{ 
-            github.event_name == 'release' && github.event.release.target_commitish == 'main' && 'prd' ||
-            github.ref_name == 'main' && 'stg' ||
-            github.ref_name == 'dev' && 'dev'
-          }}" >> $GITHUB_OUTPUT
+          ENVIRONMENT="${{ github.event_name == 'release' && github.event.release.target_commitish == 'main' && 'prd' || github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' || 'dev' }}"
+          echo "Resolved environment=$ENVIRONMENT"
+          echo "environment=$ENVIRONMENT" >> "$GITHUB_OUTPUT"
 
   build-wheel:
     needs: resolve-env
