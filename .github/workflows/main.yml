@@ -21,10 +21,10 @@ jobs:
           echo "environment=$ENVIRONMENT" >> "$GITHUB_OUTPUT"
 
   build-wheel:
-    needs: resolve-env
+    # needs: resolve-env
     uses: ./.github/workflows/build-wheel.yml
-    with:
-      environment: ${{ needs.resolve-env.outputs.environment }}
+    # with:
+    #   environment: ${{ needs.resolve-env.outputs.environment }}
     secrets: inherit
 
   deploy-bundle:
