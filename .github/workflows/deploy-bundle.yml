@@ -5,7 +5,7 @@ on:
     inputs:
       environment:
         description: GitHub environment to use (dev/stg/prd)
-        required: false
+        required: true
         type: string
         default: dev
 
@@ -13,7 +13,7 @@ jobs:
   deploy:
     name: Deploy bundle
     runs-on: ubuntu-latest
-    # environment: ${{ github.ref_name == 'main' && 'stg' || github.ref_name == 'dev' && 'dev' }}
+    environment: ${{ inputs.environment }}
 
     env:
       DATABRICKS_AUTH_TYPE: oauth-m2m
