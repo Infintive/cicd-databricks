@@ -47,7 +47,7 @@ jobs:
           path: src/dist
 
       - name: Verify wheel artifact
-        run: ls -la src/
+        run: ls -la src/dist
 
       - name: Validate bundle
         working-directory: bundles/geography
