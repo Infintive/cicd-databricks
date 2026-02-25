@@ -46,6 +46,10 @@ jobs:
           name: wheel
           path: src/dist
 
+      - name: Normalize wheel filename
+        run: |
+          mv src/dist/*.whl src/dist/infinitive.whl
+
       - name: Verify wheel artifact
         run: ls -la src/dist
 
