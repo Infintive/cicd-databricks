@@ -44,7 +44,10 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: wheel
-          path: src/dist
+          path: src
+
+      - name: Verify wheel artifact
+        run: ls -la src/dist
 
       - name: Validate bundle
         working-directory: bundles/geography
