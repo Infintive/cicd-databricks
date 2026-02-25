@@ -1,7 +1,5 @@
-def hello() -> str:
-    """Return a friendly greeting."""
-    return "Hello, world!"
+"""Top-level package for infinitive."""
 
+from __future__ import annotations
 
-if __name__ == "__main__":
-    print(hello())
+__all__ = ["transform", "utils"]
