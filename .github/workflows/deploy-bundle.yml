@@ -44,7 +44,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: wheel
-          path: src
+          path: src/dist
 
       - name: Verify wheel artifact
         run: ls -la src/
