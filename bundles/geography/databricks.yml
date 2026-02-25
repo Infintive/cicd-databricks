@@ -12,7 +12,7 @@ sync:
 artifacts:
   infinitive:
     type: whl
-    path: src/dist/*.whl
+    path: dist/*.whl
 
 variables:
   env:
