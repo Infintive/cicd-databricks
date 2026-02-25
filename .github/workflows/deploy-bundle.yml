@@ -44,6 +44,6 @@ jobs:
         working-directory: bundles/geography
         run: databricks bundle validate -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
 
-      # - name: Deploy bundle
-      #   working-directory: bundles/geography
-      #   run: databricks bundle deploy -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
+      - name: Deploy bundle
+        working-directory: bundles/geography
+        run: databricks bundle deploy -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
