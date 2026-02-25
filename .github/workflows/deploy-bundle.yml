@@ -40,6 +40,12 @@ jobs:
         with:
           version: 0.288.0
 
+      - name: Download wheel artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: wheel
+          path: dist
+
       - name: Validate bundle
         working-directory: bundles/geography
         run: databricks bundle validate -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
