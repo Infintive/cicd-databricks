@@ -8,7 +8,7 @@ include:
 artifacts:
   infinitive:
     type: whl
-    path: ../src/dist/*.whl
+    path: ../../src/dist/dist/*.whl
 
 variables:
   env:
