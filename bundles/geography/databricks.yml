@@ -5,10 +5,14 @@ include:
   - resources/*/*.yml
   - resources/*.yml
 
+sync:
+  paths:
+    - ../../src/dist
+
 artifacts:
   infinitive:
     type: whl
-    path: ../../src/dist/dist/*.whl
+    path: src/dist/*.whl
 
 variables:
   env:
