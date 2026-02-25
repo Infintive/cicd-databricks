@@ -35,7 +35,8 @@ jobs:
           BRANCH_NAME="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
           SANITIZED_BRANCH=$(echo "$BRANCH_NAME" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+|-+$//g')
           SHORTSHA=$(echo "$GITHUB_SHA" | cut -c1-7)
-          VERSION="${BASE_VERSION}.dev${BUILD_NUMBER}+${SANITIZED_BRANCH}.${SHORTSHA}"
+          # VERSION="${BASE_VERSION}.dev${BUILD_NUMBER}+${SANITIZED_BRANCH}.${SHORTSHA}"
+          # VERSION="${BASE_VERSION}+${SANITIZED_BRANCH}.${ENV_NAME}.${SHORTSHA}"
           echo "Computed version: $VERSION"
           poetry version "$VERSION"
         env:
