@@ -5,6 +5,11 @@ include:
   - resources/*/*.yml
   - resources/*.yml
 
+artifacts:
+  infinitive:
+    type: whl
+    path: dist/*.whl
+
 variables:
   env:
     description: The environment (dev, stg, prd)
