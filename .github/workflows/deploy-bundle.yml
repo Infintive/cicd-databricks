@@ -46,13 +46,6 @@ jobs:
           name: wheel
           path: src/dist
 
-      # - name: Normalize wheel filename
-      #   run: |
-      #     mv src/dist/*.whl src/dist/infinitive.whl
-
-      - name: Verify wheel artifact
-        run: ls -la src/dist
-
       - name: Validate bundle
         working-directory: bundles/geography
         run: databricks bundle validate -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
