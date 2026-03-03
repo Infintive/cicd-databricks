@@ -1,465 +1,460 @@
-resort,city,state,peak_elevation,base_elevation,vertical_drop,skiable_acreage,total_trails,total_lifts,avg_annual_snowfall,lift_ticket
-Ski Bromont,Bromont,Quebec,1854,590,1264,450,141,9,190,54
-Apex Mountain Resort,Penticton,British Columbia,7197,5197,2000,1112,79,4,236,65
-Canyon Ski Area,Red Deer,Alberta,2950,2412,538,80,23,6,45,35
-Fernie Alpine Resort,Fernie,British Columbia,7000,3450,3550,2500,142,10,360,90
-Marble Mountain Ski Resort,Steady Brook,Newfoundland and Labrador,1791,33,1759,230,40,5,192,34
-White Hills Ski Resort,Clarenville,Newfoundland and Labrador,1227,482,745,55,27,2,100,38
-Ski Wentworth,Wentworth,Nova Scotia,990,715,815,150,20,3,150,35
-Mount Sima,Whitehorse,Yukon,3900,2857,1043,92,15,3,2057,37
-Shames Mountain,Terrace,British Columbia,3900,2300,1600,225,28,3,480,43
-Castle Mountain Resort [1],Pincher Creek,Alberta,7463,4630,2833,3592,94,6,354,71
-Bolton Valley [2],Waterbury,Vermont,3150,2100,1704,300,71,6,312,69
-Cooper [3],Leadville,Colorado,11700,10500,1200,470,60,5,260,70
-Grand Targhee Resort [4],Alta,Wyoming,10121,7851,2270,2602,99,5,500,98
-Stratton Mountain Resort [5],Winhall,Vermont,3875,1872,2003,670,99,11,171,125
-Mt. Rose Ski Tahoe,Reno,Nevada,9700,8260,1800,1200,60,8,396,135
-Soldier Mountain,Fairfield,Idaho,7177,5756,1400,1180,36,2,2057,45
-Pomerelle Mountain Resort,Albion,Idaho,9000,8000,1000,500,24,2,500,45
-Schweitzer,Sandpoint,Idaho,6400,4000,2400,2900,92,7,300,86
-Brundage Mountain,McCall,Idaho,7803,5882,1921,1920,46,5,320,73
-Bogus Basin,Boise,Idaho,7582,5800,1800,2600,78,7,200,64
-Sun Valley,Sun Valley,Idaho,9150,5750,3400,2563,121,18,22021,133
-Panorama Mountain Resort,Invermere,British Columbia,7792,3773,4019,2847,120,10,196,92
-Whitefish Mountain Resort,Kalispell,Montana,6817,4464,2353,3000,105,14,300,83
-Arizona Snowbowl,Flagstaff,Arizona,11500,9200,2300,777,40,7,260,99
-Telluride Ski Resort,Telluride,Colorado,13150,8725,4425,2000,147,18,309,149
-Arapahoe Basin,Keystone,Colorado,13050,10520,2530,1428,147,9,350,109
-Pajarito Mountain Ski Area [6],Los Alamos,New Mexico,10440,9000,1440,750,44,5,163,59
-Taos Ski Valley [7],Taos,New Mexico,12481,9200,3281,1294,110,14,300,110
-Ski Santa Fe [8],Santa Fe,New Mexico,12075,10350,1725,660,83,7,225,84
-Big Sky Resort,Bozeman,Montana,11166,6800,4350,5800,317,36,400,170
-Beartooth Basin Summer Ski Area,Red Lodge,Montana,10900,9900,1000,600,9,2,2057,45
-Jackson Hole Mountain Resort,Teton Village,Wyoming,10450,6311,4139,2500,133,15,459,140
-Loveland Ski Area,Georgetown,Colorado,13010,10800,2210,1800,94,11,422,89
-Revelstoke Mountain Resort,Revelstoke,British Columbia,7300,1680,5620,3121,75,5,413,119
-Mount Ashland Ski Area,Ashland,Oregon,7533,6383,1150,220,23,5,265,52
-Keystone Resort,Keystone,Colorado,12408,9280,3128,3148,131,20,235,169
-Breckenridge Ski Resort,Breckenridge,Colorado,12998,9600,3398,2908,187,34,353,189
-Palisades Tahoe [9],Truckee,California,9050,6200,2850,6400,277,43,450,169
-Mammoth Mountain,Mammoth Lakes,California,11053,7953,3100,3500,150,28,420,179
-Heavenly Mountain Resort [10],South Lake Tahoe,California,10067,7200,3500,4800,94,30,360,164
-Mount Shasta Ski Park,Mount Shasta,California,9200,7800,1435,425,32,4,275,69
-Boreal,Soda Springs,California,7700,7200,500,380,41,8,400,74
-Donner Ski Ranch,Norden,California,7781,7031,750,435,52,8,400,79
-Homewood,Homewood,California,7881,6223,1658,1260,60,7,400,139
-Kirkwood,Kirkwood,California,9800,7800,2000,2300,86,15,500,119
-Northstar California,Truckee,California,8610,6330,2280,2904,93,19,350,169
-Sierra-at-Tahoe,Twin Bridges,California,8852,6640,2212,2000,46,12,480,110
-Sugar Bowl,Norden,California,8383,6883,1500,1500,94,13,500,121
-Soda Springs,Soda Springs,California,7325,6673,652,200,15,2,400,50
-Tahoe Donner,Truckee,California,7350,6750,600,120,10,3,400,94
-Badger Pass,Yosemite National Park,California,8000,7200,800,90,10,5,300,59
-Bear Valley,Angels Camp,California,8500,6600,1900,1280,67,10,359,105
-Dodge Ridge,Sonora,California,8200,6600,1600,832,62,12,300,79
-June Mountain,June Lake,California,10090,7545,2590,500,35,7,250,119
-China Peak,Lakeshore,California,8709,7030,1673,1200,45,11,300,99
-Alta Sierra,Wofford Heights,California,7091,6491,600,20247,6,2,8058,65
-Buckhorn Ski and Snowboard Club,Three Points,California,7903,7203,680,40,5,2,180,64
-Bear Mountain,Big Bear Lake,California,8805,7104,1665,198,24,12,100,115
-Mount Baldy Ski Lifts,Mount Baldy,California,8600,6500,2100,800,26,4,170,99
-Mount Waterman,Three Points,California,8030,7000,1030,150,27,3,180,60
-Mountain High,Wrightwood,California,8200,6600,1600,290,59,13,13263,79
-Snow Summit,Big Bear Lake,California,8174,6965,1209,240,30,14,100,115
-Snow Valley Mountain Resort,Running Springs,California,7841,6800,1041,240,29,12,150,72
-Wolf Creek Ski Area,Pagosa Springs,Colorado,11904,10300,1604,1600,77,7,465,76
-Kicking Horse Resort,Golden,British Columbia,8218,3900,4314,3486,120,3,295,73
-Eldora Mountain Resort [11],Nederland,Colorado,10600,9400,1200,680,53,12,300,129
-Alyeska Resort [12],Girdwood,Alaska,3939,250,2500,1400,73,9,643,89
-Marmot Basin [13],Jasper,Alberta,8570,5570,3000,1675,86,8,160,105
-Lake Louise Mountain Resort [14],Lake Louise,Alberta,8650,5400,3250,4200,139,9,18069,84
-Big White Ski Resort [15],Kelowna,British Columbia,7606,4950,2656,2800,118,16,294,76
-Silver Star Mountain Resort [16],Vernon,British Columbia,6282,3789,2500,3269,128,12,275,81
-Whistler Blackcomb [17],Whistler,British Columbia,7494,2140,5280,8171,200,26,404,93
-Steamboat Springs [18],Steamboat Springs,Colorado,10568,6900,3668,2956,165,16,349,155
-Copper Mountain (Colorado) [19],Frisco,Colorado,12313,9712,2601,2450,126,22,282,190
-Vail Ski Resort,Vail,Colorado,11570,8120,3450,5289,195,31,354,275
-Beaver Creek,Avon,Colorado,11440,8100,3340,2082,167,24,325,275
-Winter Park Resort,Winter Park,Colorado,12060,9000,3060,3000,143,25,365,109
-Saddleback Maine,Farmington,Maine,4120,2120,2000,485,66,5,200,64
-Boyne Mountain,Boyne City,Michigan,1120,620,500,41,60,10,140,102
-Mountain Creek,Vernon Township,New Jersey,1480,440,1040,200,41,8,65,80
-Blue Mountain,Collingwood,Ontario,1483,741,742,250,34,15,109,67
-Mt Bachelor [20],Bend,Oregon,9065,5700,3365,4318,101,11,462,99
-Mount Hood Meadows [21],Portland,Oregon,7300,4523,2777,2150,85,11,430,79
-Mont-Sainte-Anne,Beaupré,Quebec,2625,575,2050,450,65,13,187,65
-Mont Tremblant Resort,Mont Tremblant,Quebec,2870,750,2120,627,95,14,156,70
-Le Massif,Petite-Rivière-Saint-François,Quebec,2645,118,2527,410,48,4,248,61
-Brian Head,Brian Head,Utah,11307,9600,1548,650,14,8,370,45
-Park City Mountain Resort[82],Park City,Utah,10000,6900,3100,7300,348,41,360,179
-Deer Valley,Park City,Utah,9570,6570,3000,2026,100,21,280,209
-Brighton Ski Resort [22],Salt Lake City,Utah,10500,8755,1745,1050,66,6,500,99
-Alta Ski Area [23],Salt Lake City,Utah,10550,8530,2020,2200,116,10,560,125
-Snowbird [24],Salt Lake City,Utah,10992,7760,3240,2500,85,13,500,145
-Smugglers' Notch,Jeffersonville,Vermont,3640,1030,2610,1000,78,16,288,82
-Windham Mountain,Windham,New York,3100,1500,1600,279,52,12,10087,98
-Hunter Mountain,Hunter,New York,3200,1600,1600,240,58,10,12089,91
-Killington Ski Resort,Killington,Vermont,4241,1165,3050,1509,155,21,250,125
-Okemo Mountain,Ludlow,Vermont,3344,1144,2200,632,119,19,200,119
-Stowe Mountain Resort,Stowe,Vermont,3719,1559,2160,485,116,13,333,139
-Sugarbush Resort,Warren,Vermont,4083,1483,2600,508,111,16,269,128
-Sugarloaf,Carrabassett Valley,Maine,4237,1417,2820,1153,154,14,200,105
-Snowshoe Mountain,Marlinton,West Virginia,4848,3348,1500,244,60,14,180,109
-Banff Sunshine [25],Banff,Alberta,8954,5440,3514,3358,107,12,360,82
-Mt. Norquay [26],Banff,Alberta,8040,5500,1650,190,28,5,120,59
-Grouse Mountain [27],North Vancouver,British Columbia,4039,899,1198,212,26,5,120,58
-Mount Seymour [28],North Vancouver,British Columbia,4150,935,1083,200,23,5,394,51
-Cypress Mountain [29],West Vancouver,British Columbia,4724,2985,2001,600,53,6,245,60
-Stevens Pass [30],Stevens Pass,Washington,5845,4061,1800,1125,37,10,450,111
-Sun Peaks Resort,Kamloops,British Columbia,6824,3930,2894,4270,135,12,237,74
-Crystal Mountain,Enumclaw,Washington,7012,3912,3100,2600,57,12,350,96
-Red Mountain Resort [31],Rossland [32],British Columbia,6807,3887,2919,4200,110,7,300,74
-Mt Baker [33],Glacier,Washington,5089,3500,1589,1000,31,10,641,63
-Whiteface Mountain,Lake Placid,New York,4650,1220,3430,314,87,11,168100,104
-Powder Mountain,Eden,Utah,9422102,6900,2205,8464102,167,9,500,95
-Sugar Mountain Resort [34],Banner Elk,North Carolina,5300,4100,1200,120,21,8,77,77
-Beech Mountain Resort [35],Beech Mountain,North Carolina,5506,4675,831,95,17,8,84,70
-Appalachian Ski Mountain [36],Blowing Rock,North Carolina,4000,3635,365,27,12,5,27,66
-Cataloochee Ski Area [37],Maggie Valley,North Carolina,5400,4660,740,50,18,5,24,72
-Sapphire Valley Ski Area [38],Sapphire,North Carolina,3400,3200,200,8,3,3,24,45
-Wolf Ridge Ski Resort [39],Mars Hill,North Carolina,4700,4000,700,65,15,4,65,65
-Aspen Highlands[110],Aspen,Colorado,11678,8040,3638,1010,144,5,300,74
-Aspen Mountain[112],Aspen,Colorado,11212,7945,3267,673,76,8,300,174
-Buttermilk[113],Aspen,Colorado,9900,7870,2030,435,44,8,200,174
-Snowmass[114],Aspen,Colorado,12510,8104,4406,3362,96,17,300,174
-Lee Canyon (Ski and Snowboard Resort)[115],Las Vegas,Nevada,11289,8510,860,385,27,3,161,79
-Terry Peak,Lead,South Dakota,7064,5930,1134,450,30,4,150,59
-Mount Snow [40],Dover,Vermont,3600,1900,1700,600,86,20,156,118
-Wintergreen,Charlottesville,Virginia,3515,2512,1003,129,26,5,35,94
-Angel Fire Resort [41],Angel Fire,New Mexico,10677,8600,2077,560,80,7,210,84
-Bridger Bowl,Bozeman,Montana,8700,6100,2600,2000,75,11,350,63
-Turner Mountain,Libby,Montana,5952,3842,2110,1000,22,1,200,38
-Discovery,Anaconda,Montana,8158,5770,2388,2200,67,8,150,52
-Great Divide,Helena,Montana,7210,5880,1330,1500,140,6,180,48
-Showdown,Great Falls,Montana,8200,6800,1400,640,36,4,240,49
-Maverick Mountain,Dillon,Montana,8820,6800,2020,350,24,2,200,45
-Lost Trail Powder Mountain,Hamilton,Montana,8200,6400,1800,1800,60,8,325,46
-Blacktail Mountain,Kalispell,Montana,6780,5340,1440,1000,26,4,250,42
-Bear Paw Ski Bowl,Havre,Montana,5280,4200,1080,80,11,2,140,20
-Red Lodge Mountain,Red Lodge,Montana,9416,7016,2400,1635,70,7,250,69
-Montana Snowbowl,Missoula,Montana,7600,5000,2600,950,39,4,300,52
-Teton Pass,Choteau,Montana,7200,6190,1010,114,26,2,250,45
-White Pass,Yakima,Washington,6500,4500,2000,1400,45,8,350,69
-49 Degrees North,Spokane,Washington,5774,3923,1851,2325,82,6,300,62
-Hurricane Ridge,Port Angeles,Washington,5500,4800,700,20247,10,3,400,37
-The Summit at Snoqualmie,North Bend,Washington,5420,2610,2280,1914,62,27,435,58
-Ski Bluewood,Dayton,Washington,5670,4454,1216,530,24,3,300,50
-Mount Spokane,Spokane,Washington,5889,3818,2071,1704,52,8,300,62
-Mission Ridge,Wenatchee,Washington,6820,4570,2250,2000,36,6,200,75
-Loup Loup Ski Bowl,Twisp,Washington,5280,4040,1240,550,10,3,150,55
-Echo Valley,Chelan,Washington,3900,3000,900,70,6,4,2057,30
-Badger Mountain,Waterville,Washington,3470,3145,325,10,5,3,120,10
-Leavenworth Ski Hill,Leavenworth,Washington,1706,1476,230,17,2,2,2057,22
-Meany Lodge,Easton,Washington,25692,3281,450,54,32,1,2057,40
-Sitzmark Lifts,Tonasket,Washington,4950,4300,650,20247,11,2,2057,45
-Mount Eyak,Cordova,Alaska,1200,400,800,100,10,2,350,30
-Moose Mountain,Fairbanks,Alaska,1985,685,1300,200,40,0,70,40
-Eaglecrest,Juneau,Alaska,2750,1130,1620,640,34,4,350,58
-Hilltop,Anchorage,Alaska,780,486,294,30,13,3,69,34
-Arctic Valley,Anchorage,Alaska,4000,2500,1500,320,24,3,250,40
-Mount Aurora Skiland,Fairbanks,Alaska,2435,1408,1027,530,46,2,2057,40
-White Pine,Pinedale,Wyoming,9500,8450,1050,350,27,2,150,50
-Snowy Range,Centennial,Wyoming,9663,8798,865,250,27,5,245,49
-Snow King,Jackson,Wyoming,7808,6237,1571,400,32,5,175,59
-Pine Creek,Cokeville,Wyoming,8200,6875,1325,370,30,2,150,45
-Hogadon,Casper,Wyoming,8000,7370,630,60,27,2,140,48
-Meadowlark Ski Lodge,Ten Sleep,Wyoming,9500,8500,1000,300,14,3,2057,48
-Sleeping Giant,Cody,Wyoming,7428,6619,810,184,49,3,310,42
-Elko Snobowl,Elko,Nevada,6988,6338,650,60,10,2,24,20
-Diamond Peak,Incline Village,Nevada,8540,6700,1840,655,30,6,225,99
-Great Bear Ski Valley,Sioux Falls,South Dakota,1530,1352,178,220,14,4,150,29
-Huff Hills,Mandan,North Dakota,2150,1725,425,20247,21,3,40,35
-Bottineau Winter Park,Bottineau,North Dakota,2450,2270,180,40,8,6,13,35
-Elk Ridge,Williams,Arizona,8150,7500,650,37,10,2,150,40
-Mount Lemmon Ski Valley,Tucson,Arizona,9157,8200,957,200,21,3,180,60
-Sunrise Park,Greer,Arizona,11100,9200,1900,800,65,9,250,78
-Sandia Peak,Albuquerque,New Mexico,10378,8678,1700,200,39,5,100,55
-Ski Apache,Ruidoso,New Mexico,11500,9600,1900,750,55,8,185,74
-Sipapu,Taos,New Mexico,9225,8200,1055,200,41,6,190,45
-Red River,Red River,New Mexico,10350,8750,1600,209,64,7,214,82
-Kelly Canyon,Idaho Falls,Idaho,6600,5600,1000,640,26,5,200,42
-Pebble Creek,Pocatello,Idaho,8560,6360,2200,1100,54,3,250,52
-Magic Mountain,Twin Falls,Idaho,7240,6540,700,120,11,4,230,33
-Blizzard Mountain,Arco,Idaho,6305,5595,710,20247,43,1,2057,64
-Rotarun,Hailey,Idaho,5895,5420,475,20247,12,1,2057,20
-Chipmunk Hill,Challis,Idaho,25692,3281,1173,30,1,1,2057,5
-Snowhaven,Grangeville,Idaho,5600,5200,400,40,9,2,60,19
-Tamarack,Boise,Idaho,7660,4900,2760,1100,45,6,300,71
-Cottonwood Butte,Cottonwood,Idaho,5730,4885,845,260,7,2,45,20
-Bald Mountain,Pierce,Idaho,4800,4000,800,140,16,2,100,20
-Silver Mountain,Coeur d'Alene,Idaho,6297,4100,2197,1600,67,8,300,58
-Mohawk Mountain,Cornwall,Connecticut,1600,960,640,107,25,8,24,67
-Powder Ridge,Middlefield,Connecticut,803,377,426,80,19,7,60,49
-Ski Sundown,Hartford,Connecticut,1075,450,625,70,16,5,45,62
-Mount Southington,Waterbury,Connecticut,525,100,425,51,14,7,80,62
-Yawgoo Valley,Exeter,Rhode Island,310,70,240,36,14,3,39,50
-Frost Fire,Walhalla,North Dakota,1400,1070,330,20247,10,3,2057,23
-Hidden Valley,Wildwood,Missouri,860,540,320,65,17,9,19,49
-Snow Creek,Weston,Missouri,1099,799,300,25,12,5,20,47
-Ober Gatlinburg,Gatlinburg,Tennessee,3300,2700,600,38,10,4,9,65
-Paoli Peaks,Paoili,Indiana,900,600,300,65,17,8,18,45
-Perfect North Slopes,Lawrenceburg,Indiana,800,400,400,100,23,11,23,52
-Alpine Valley,Chesterland,Ohio,1500,1260,240,72,11,5,120,44
-Boston Mills/Brandywine,Peninsula,Ohio,871,531,240,79,18,16,54,44
-Mad River,Bellafontaine,Ohio,1460,1160,300,144,23,12,36,49
-Snow Trails,Mansfield,Ohio,1475,1175,300,80,17,7,52,52
-Big Creek,Concord,Ohio,1466,1292,174,23,5,2,102,64
-Wisp Ski Resort,McHenry,Maryland,3115,2145,700,132,34,12,100,49
-Campgaw Mountain,Mahwah,New Jersey,726,450,276,23,12,5,45,41
-Mountain Creek,Vernon,New Jersey,1490,450,1040,167,46,9,65,80
-Cockaigne Resort,Cherry Creek,New York,2,1592,430,100,11,3,175,50
-Big Rock,Presque Isle,Maine,1590,670,920,60,27,3,100,40
-Big Squaw Mountain,Greenville,Maine,2920,1300,1620,1216,33,1,136,30
-Mount Jefferson,Lee,Maine,775,343,432,160,13,2,75,25
-New Hermon Mountain,Bangor,Maine,450,150,300,70,20,3,90,35
-Camden Snow Bowl,Camden,Maine,1080,235,845,100,17,3,50,33
-Powderhouse Hill,Portland,Maine,240,120,120,20247,3,1,2057,5
-Lost Valley,Lewiston,Maine,480,240,240,45,27,4,99,60
-Shawnee Peak,Bridgton,Maine,25692,3281,1300,245,44,6,110,75
-Sunday River,Newry,Maine,3140,800,2340,870,153,18,155,109
-Ski Mount Abraham,Bethel,Maine,1990,940,1050,650,44,5,115,49
-Black Mountain of Maine,Lewiston,Maine,2380,1000,1380,300,46,2,120,45
-Titcomb Mountain,Farmington,Maine,750,400,350,45,16,3,85,17
-Spruce Mountain Ski Slope,Jay,Maine,310,10,300,20247,12,3,2057,25
-Eaton Mountain,Waterville,Maine,840,220,620,130,18,2,72,15
-Baker Mountain,Bingham,Maine,25692,3281,460,20247,5,1,2057,10
-Blandford Ski Area,Blandford,Massachusetts,1490,1025,465,55,29,5,70,45
-Berkshire East,Greenfield,Massachusetts,1720,540,1180,180,45,6,120,69
-Ski Butternut,Great Barrington,Massachusetts,1764,645,1119,110,22,10,115,65
-Jiminy Peak,Pittsfield,Massachusetts,2375,1125,1140,170,45,8,110,84
-Wachusett Mountain,Worcester,Massachusetts,2006,1006,1000,110,22,7,100,73
-Nashoba Valley,Boston,Massachusetts,422,182,240,59,17,9,55,60
-Blue Hills Ski Area,Boston,Massachusetts,635,326,309,60,8,4,2057,45
-Otis Ridge Ski Camp,Otis,Massachusetts,1700,1300,400,55,11,5,70,40
-Ski Bradford,Haverhill,Massachusetts,272,24,248,48,15,10,2057,58
-Ski Ward,Shrewsbury,Massachusetts,420,210,210,45,9,6,80,55
-Bosquet Ski Area,Pittsfield,Massachusetts,1818,1068,750,200,23,5,83,47
-Chestnut Mountain,Galena,Illinois,1020,600,420,220,19,9,34,60
-Snowstar Winter Sports Park,Moline,Illinois,790,528,262,28,14,6,38,41
-Four Lakes Alpine Snowsports,Naperville,Illinois,500,400,100,9,7,6,24,28
-Villa Olivia,Bartlett,Illinois,500,320,180,15,7,7,25,40
-Mount Crescent,Omaha,Iowa,1500,1200,300,50,11,2,30,39
-Seven Oaks,Boone,Iowa,975,800,175,35,11,4,40,40
-Sleepy Hollows Sports Park,Des Moines,Iowa,938,800,138,80,8,2,2057,25
-Sundown Mountain,Dubuque,Iowa,1059,584,475,55,21,6,45,46
-Bryce Resort,Basye,Virginia,1750,1250,500,25,8,7,30,67
-Massanutten Resort,Harrisonburg,Virginia,2925,1750,1110,70,13,7,35,79
-Homestead Resort,Hot Springs,Virginia,3200,2500,700,45,10,2,50,35
-Canaan Valley Resort,Dryfork,West Virginia,4280,3430,850,91,39,4,150,68
-Winterplace,Ghent,West Virginia,3600,2997,603,90,28,9,100,72
-Oglebay Resort,Wheeling,West Virginia,25692,3281,168,20247,1,1,2057,28
-Cloudmont Resort,Mentone,Alabama,1800,1650,150,9,2,2,0,40
-Anthony Lakes,North Powder,Oregon,8000,7100,900,1100,21,3,300,40
-Coopper Spur,Hood River,Oregon,4350,4000,350,50,10,4,100,39
-Ferguson Ridge,Joseph,Oregon,5840,5200,640,170,8,2,300,20
-Hoodoo,Sisters,Oregon,5703,4668,1035,806,32,5,360,56
-Mount Hood Skibowl,Government Camp,Oregon,5027,3500,1527,960,65,9,300,55
-Spout Springs,Tollgate,Oregon,5450,4920,530,200,17,2,130,64
-Timberline Summit Ski Area,Government Camp,Oregon,4306,4000,306,70,3,2,150,38
-Timberline Lodge,Government Camp,Oregon,8540,4000,1173,1430,35,9,540,85
-Warner Canyon,Lakeview,Oregon,6003,5271,732,200,21,1,50,35
-Willamette Pass,Oakridge,Oregon,6683,5120,1563,555,29,6,430,60
-Crested Butte,Crested Butte,Colorado,12170,9115,3055,1547,121,16,300,113
-Echo Mountain,Evergreen,Colorado,10650,10050,600,226,13,2,275,55
-Granby Ranch,Granby,Colorado,9202,8202,1000,406,40,5,220,84
-Hesperus,Durango,Colorado,8888,8200,688,60,26,1,150,39
-Howelson Hill,Steamboat Springs,Colorado,7136,6696,440,50,17,4,150,30
-Kendall Mountain,Silverton,Colorado,9540,9300,240,16,11,1,200,20
-Monarch,Salida,Colorado,11960,10790,1170,800,63,5,400,94
-Powderhorn Resort,Grand Junction,Colorado,9850,8200,1650,1600,63,5,250,71
-Purgatory Resort,Durango,Colorado,10822,8793,2029,1200,85,10,260,99
-Silverton Mountain,Silverton,Colorado,13487,10400,3087,1819,48,1,450,79
-Sunlight Mountain,Glenwood Springs,Colorado,9895,7885,2010,470,67,3,250,55
-Cranor Hill,Gunnison,Colorado,8500,8100,400,45,4,1,75,17
-Lake City,Lake City,Colorado,8850,8600,250,14,7,1,2057,20
-Beaver Mountain,Logan,Utah,8800,7200,1600,667,47,5,400,50
-Cherry Peak,Richmond,Utah,7050,5775,1265,200,29,3,322,40
-Eagle Point,Beaver,Utah,10600,9100,1500,650,40,5,400,65
-Nordic Valley,Ogden,Utah,6400,5440,960,140,23,4,300,45
-Snowbasin,Huntsville,Utah,9350,6391,2959,3000,104,11,350,99
-Solitude Mountain,Salt Lake City,Utah,10488,7988,2500,1200,80,8,500,115
-Sundance Mountain,Provo,Utah,8250,6100,2150,450,44,5,320,90
-Afton Alps,Afton,Minnesota,700,350,350,300,50,22,60,28
-Andes Tower Hills,Kensington,Minnesota,1620,1330,290,35,15,6,55,45
-Buck Hill,Burnsville,Minnesota,1211,949,262,45,16,9,60,47
-Buena Vista Ski Area,Bemidji,Minnesota,1510,1280,230,30,16,5,78,44
-Chester Bowl Park,Duluth,Minnesota,875,700,175,6,5,1,100,15
-Coffee Mill Ski Area,Wabasha,Minnesota,1150,725,425,40,14,3,48,37
-Detroit Mountain,Detroit Lakes,Minnesota,1607,1443,210,45,21,8,2057,42
-Giants Ridge,Biwabik,Minnesota,1972,1472,500,202,35,7,85,34
-Hyland Hills,Bloomington,Minnesota,1075,900,175,35,13,6,60,35
-Lutsen Mountains,Lutsen,Minnesota,1688,825,863,1000,95,9,115,86
-Mount Itasca,Grand Rapids,Minnesota,25692,3281,1173,20247,43,7,2057,20
-Mount Kato,Mankato,Minnesota,840,600,240,55,19,11,50,49
-Powder Ridge,Kimball,Minnesota,850,540,310,60,15,6,45,50
-Mount Ski Gull,Nisswa,Minnesota,1515,1285,230,40,10,5,50,39
-Spirit Mountain,Duluth,Minnesota,1298,620,678,175,22,8,90,59
-Welch Village,Red Wing,Minnesota,1060,700,360,140,60,11,45,62
-Wild Mountain,Taylors Falls,Minnesota,1113,813,300,100,26,9,50,56
-Abenaki Ski Area,Wolfeboro,New Hampshire,815,600,215,18,7,2,2057,25
-Arrowhead Recreation Area,Claremont,New Hampshire,25692,3281,120,225,9,2,2057,9
-Attitash Mountain Resort,North Conway,New Hampshire,2350,600,1750,20247,68,9,120,56
-Black Mountain Ski Area,Jackson,New Hampshire,2350,1250,1100,143,40,5,125,62
-Bretton Woods,Bretton Woods,New Hampshire,3100,1600,1500,464,62,10,200,96
-Cannon Mountain Ski Area,Franconia,New Hampshire,4180,1850,2330,265,73,10,160,82
-Campton Mountain,Campton,New Hampshire,1505,1192,313,20247,43,2,2057,20
-Cranmore Mountain Resort,North Conway,New Hampshire,2000,600,1200,200,54,10,150,89
-Crotched Mountain Ski and Ride,Manchester,New Hampshire,2066,1050,1016,75,23,5,105,71
-Dartmouth Skiway,Lyme,New Hampshire,1943,975,968,104,30,4,100,53
-Veterans Memorial Recreation Area,Franklin,New Hampshire,25692,3281,220,20247,10,2,2057,64
-Granite Gorge,Keene,New Hampshire,1325,935,390,150,19,3,2057,49
-Gunstock Mountain Resort,Laconia,New Hampshire,2267,867,1400,227,55,6,120,84
-Kanc Recreation Area,Lincoln,New Hampshire,1080,859,221,7,2,1,2057,5
-King Pine Ski Area,Madison,New Hampshire,850,500,350,48,17,6,120,59
-Loon Mountain Resort,Lincoln,New Hampshire,3050,950,2100,370,61,12,163,104
-McIntyre Ski Area,Manchester,New Hampshire,510,340,169,37,10,5,2057,42
-Mt. Eustis Ski Hill,Littleton,New Hampshire,1373,1133,240,20247,43,1,2057,5
-Mount Prospect Ski Tow,Lancaster,New Hampshire,1700,1400,300,20247,43,1,2057,7
-Mount Sunapee Resort,Claremont,New Hampshire,2743,1230,1513,230,66,11,100,79
-Pats Peak Ski Area,Henniker,New Hampshire,1460,690,770,103,28,11,100,75
-Ragged Mountain Resort,Danbury,New Hampshire,2250,1000,1250,250,57,6,100,87
-Red Hill Ski Area,Moultonborough,New Hampshire,820,610,210,20247,9,1,2057,64
-Storrs Hill Ski Area,Lebanon,New Hampshire,580,280,300,20,3,1,2057,15
-Tenney Mountain Resort,Plymouth,New Hampshire,2149,749,1400,110,45,3,140,59
-Waterville Valley Resort,Waterville Valley,New Hampshire,3840,1820,2020,220,50,11,150,69
-Whaleback Mountain,Enfield,New Hampshire,1800,1100,700,85,30,4,110,45
-Wildcat Mountain,Jackson,New Hampshire,4062,1950,2112,225,48,5,207,120
-Bear Creek Mountain Resort,Macungie,Pennsylvania,1100,590,510,86,23,7,30,60
-Blue Knob All Seasons Resort,Claysburg,Pennsylvania,3146,2074,1072,100,34,6,120,70
-Blue Mountain Ski Area,Palmerton,Pennsylvania,1540,458,1082,164,39,13,33,70
-Boyce Park Four Seasons Lodge,Plum,Pennsylvania,1245,1115,130,25,9,5,2057,28
-Camelback Mountain Resort,Scranton,Pennsylvania,2130,1330,800,166,35,16,50,78
-Elk Mountain Ski Resort,Scranton,Pennsylvania,2667,1742,925,180,27,7,60,69
-Hidden Valley Resort,Hidden Valley,Pennsylvania,2875,2405,470,110,26,11,140,61
-Jack Frost - Big Boulder Ski Area,White Haven,Pennsylvania,2000,1400,600,145,35,22,50,68
-Laurel Mountain Ski Resort,Ligonier,Pennsylvania,2800,2000,800,70,20,2,2057,58
-Liberty Mountain Resort,Gettysburg,Pennsylvania,1190,570,620,100,22,9,31,105
-Mount Pleasant of Edinboro,Edinboro,Pennsylvania,1550,1200,350,35,10,2,150,33
-Seven Springs Mountain Resort,Seven Springs,Pennsylvania,2994,2240,750,285,40,14,150,76
-Shawnee Mountain Ski Area,East Stroudsburg,Pennsylvania,1351,700,651,125,23,9,50,68
-Ski Big Bear,Lackawaxen,Pennsylvania,1250,600,650,26,18,7,69,64
-Denton Hill State Park,Ulysses,Pennsylvania,2460,1800,660,20247,43,5,2057,64
-Roundtop Mountain Resort,Lewisberry,Pennsylvania,1335,755,600,103,20,7,30,73
-Spring Mountain Adventure,Schwenksville,Pennsylvania,528,78,450,45,9,6,20,48
-Ski Sawmill Resort,Morris,Pennsylvania,2215,1700,515,15,14,5,24,48
-Montage Mountain Resorts,Scranton,Pennsylvania,1960,960,1000,140,26,9,60,58
-Tussey Mountain Ski and Recreation,State College,Pennsylvania,1750,1230,520,38,7,3,41,62
-Whitetail Resort,Clear Spring,Pennsylvania,1800,865,935,109,25,9,40,64
-Alpine Valley Resort,Elkhorn,Wisconsin,1040,820,220,90,20,12,80,53
-Bruce Mound Winter Sports Area,Merrillan,Wisconsin,1375,1000,375,40,12,5,42,26
-Camp 10 Ski Area,Rhinelander,Wisconsin,1740,1510,230,20247,15,4,2057,38
-Cascade Mountain,Portage,Wisconsin,1270,820,450,175,47,11,56,66
-Christie Mountain,Bruce,Wisconsin,1650,1300,350,45,30,5,48,40
-Christmas Mountain,Wisconsin Dells,Wisconsin,1250,1000,250,40,16,3,20,45
-The Rock Snowpark,Milwaukee,Wisconsin,925,700,225,75,10,5,2057,36
-Devil's Head Resort,Baraboo,Wisconsin,1420,930,490,268,28,10,55,66
-Granite Peak Ski Area,Wausau,Wisconsin,1950,1250,700,220,75,7,75,49
-Kettlebowl Ski Area,Antigo,Wisconsin,1780,1455,325,20247,7,5,2057,5
-Kewaunee Winter Park,Kewaunee,Wisconsin,740,580,160,20247,5,1,2057,15
-Keyes Peak Ski Hill,Florence,Wisconsin,1480,1250,230,20247,5,2,60,12
-Little Switzerland Ski Area,Slinger,Wisconsin,1269,1069,200,50,18,8,45,43
-Mont Du Lac Resort,Superior,Wisconsin,920,640,270,10,11,2,55,40
-Grand Geneva Resort and Spa,Lake Geneva,Wisconsin,1000,789,211,30,20,5,25,55
-Mount Ashwabay Ski and Recreation Area,Bayfield,Wisconsin,25692,3281,317,65,13,2,2057,26
-Mount La Cross,La Crosse,Wisconsin,1010,594,516,100,19,4,40,58
-Navarino Hills,Shiocton,Wisconsin,885,785,100,20247,43,4,2057,64
-Nordic Mountain,Wild Rose,Wisconsin,1137,872,265,60,18,7,80,39
-Nutt Hill Ski Area,Plymouth,Wisconsin,25692,3281,100,10,2,1,2057,64
-Powers Bluff County Park and Winter Recreation Area,Arpin,Wisconsin,1430,1180,250,20247,3,2,2057,10
-Standing Rocks County Park and Winter Recreation Area,Portage,Wisconsin,25692,3281,125,20247,5,1,2057,16
-Sunburst Winter Sports Park,West Bend,Wisconsin,1100,866,214,40,12,9,50,44
-Triangle Sports Area,Green Bay,Wisconsin,710,640,70,20247,2,3,2057,5
-Trollhaugen,Dresser,Wisconsin,1200,920,280,86,24,10,50,55
-Tyrol Basin,Mount Horeb,Wisconsin,1130,870,260,30,16,6,41,48
-Whitecap Mountains Resort,Upson,Wisconsin,1750,1295,400,400,43,5,200,65
-Whitetail Ridge Ski Area,Fort McCoy,Wisconsin,1050,865,185,20247,43,1,2057,37
-Wilmot Mountain Ski Resort,Wilmot,Wisconsin,960,770,190,120,23,11,48,65
-Alpine Valley,White Lake,Michigan,500,126,374,100,25,14,20,48
-Apple Mountain,Freeland,Michigan,820,600,220,80,12,6,52,64
-Big Powderhorn Mountain Resort,Bessemer,Michigan,1800,1200,600,253,45,10,214,69
-Bittersweet Ski Resort,Otsego,Michigan,850,450,400,100,20,12,90,50
-Snow River Mountain Resort,Bessemer,Michigan,1935,1297,638,321,56,17,205,65
-Boyne Highlands Resort,Harbor Springs,Michigan,1290,745,545,435,55,10,140,75
-Caberfae Peaks,Cadillac,Michigan,1569,1060,485,200,34,5,140,59
-Cannonsburg Ski Area,Belmont,Michigan,1100,850,250,100,21,10,100,39
-Crystal Mountain,Thompsonville,Michigan,1132,757,375,102,58,8,132,74
-Hickory Hills Ski Area,Traverse City,Michigan,25692,3281,237,125,8,5,2057,25
-The Homestead,Glen Arbor,Michigan,900,580,320,16,15,5,150,39
-Marquette Mountain Ski Area,Marquette,Michigan,1257,800,457,169,25,4,117,54
-Mont Ripley Ski Area,Hancock,Michigan,1140,700,440,112,25,4,275,52
-Mount Bohemia,Mohawk,Michigan,1500,600,900,585,102,2,273,74
-Mount Brighton,Brighton,Michigan,1330,1100,230,130,26,13,60,64
-Mount Holiday Ski and Recreational Area,Traverse City,Michigan,440,240,200,45,12,4,120,34
-Mount McSauba,Charlevoix,Michigan,650,400,150,80,10,4,2057,18
-Mount Zion Ski Hill,Ironwood,Michigan,1400,1100,300,20,9,2,2057,25
-Mulligan's Hollow Ski Bowl,Grand Haven,Michigan,700,570,130,10,7,5,60,20
-Norway Mountain Resort,Norway,Michigan,1335,835,500,186,17,6,100,45
-Nub's Nob Ski Area,Harbor Springs,Michigan,1338,911,427,248,53,10,123,88
-Otsego Club and Resort,Gaylord,Michigan,1380,1080,300,160,30,5,150,65
-Petoskey Winter Sports Park,Petoskey,Michigan,790,720,70,20247,43,1,2057,64
-Pine Knob,Clarkston,Michigan,1308,1009,300,80,14,6,2057,47
-Pine Mountain Resort,Iron Mountain,Michigan,1650,1150,500,220,31,4,60,49
-Porcupine Mountains Ski Area,Ontonagon,Michigan,1360,720,640,200,19,3,2057,45
-Shanty Creek Resort,Bellaire,Michigan,1125,675,450,70,42,8,160,74
-Ski Brule,Stambaugh,Michigan,1861,1361,500,150,17,11,150,55
-Snow Snake Mountain Ski Area,Harrison,Michigan,1230,1020,210,40,12,6,2057,35
-Timber Ridge,Gobles,Michigan,850,650,200,50,16,8,2057,45
-Treetops Resort,Gaylord,Michigan,1345,1120,225,80,23,5,175,43
-Belleyare Ski Center,Kingston,New York,3429,2024,1405,173,52,8,141,80
-Gore Mountain Ski Resort,Glens Falls,New York,3600,1000,2600,428,109,15,150,94
-Holiday Valley,Buffalo,New York,2250,1500,750,290,58,13,180,85
-Peek'n Peak Resort,Erie,New York,1800,1400,400,130,27,9,105,64
-Catamount Ski Area,Great Barrington,New York,2000,1000,1000,119,36,7,75,30
-Greek Peak Mountain Resort,Virgil,New York,2200,1148,952,220,55,9,122,79
-Titus Mountain Family Ski Center,Malone,New York,2025,825,1200,380,50,10,150,49
-Kissing Bridge,Glenwood,New York,1700,1150,550,700,39,10,120,65
-Holiday Mountain,Monticello,New York,1550,1150,400,37,9,4,50,42
-Bristol Mountain Ski Resort,Rochester,New York,2150,1000,1150,160,35,6,130,79
-Buffalo Ski Center,Colden,New York,3429,2025,500,225,43,6,2057,50
-Big Tupper Ski Area,Tupper Lake,New York,25692,3281,1173,20247,43,7,2057,64
-Four Season Ski Center,Fayetteville,New York,604,545,59,12,4,2,2057,24
-Maple Ski Ridge,Schenectady,New York,1200,750,450,25,10,3,2057,39
-McCauley Mountain Ski Center,Old Forge,New York,2280,1647,633,70,21,5,200,35
-Mount Pisgah Ski Area,Saranac Lake,New York,2060,1770,290,15,5,1,2057,15
-Beartown Ski Area,Plattburgh,New York,1000,850,150,32,9,2,2057,22
-Mount Peter,Warwick,New York,1250,800,450,69,14,5,50,62
-Oak Mountain,Speculator,New York,2400,1650,750,46,22,4,120,40
-Royal Mountain Ski Area,Johnstown,New York,1800,1250,550,35,14,3,90,45
-Song Mountain Resort,Tully,New York,1940,1240,700,93,24,5,125,61
-Snow Ridge Ski Resort,Turin,New York,2000,1350,650,130,21,6,230,48
-Labrador Mountain,Truxton,New York,1825,1125,700,250,23,4,125,61
-Swain Resort,Grove,New York,1970,1320,650,130,35,5,120,65
-Dry Hill Ski Area,Watertown,New York,950,650,300,37,7,3,125,38
-Thunder Ridge Ski Area,Patterson,New York,1270,670,600,90,21,7,2057,57
-West Mountain,Glens Falls,New York,1470,460,1010,124,30,7,80,79
-Willard Mountain,Greenwich,New York,1415,910,505,50,16,5,80,47
-Toggenburg Mountain Ski Center,Fabius,New York,2000,1300,700,85,22,5,130,57
-Woods Valley Ski Area,Rome,New York,1400,900,500,25,21,6,180,39
-Brantling Ski Slopes,Sodus,New York,850,600,250,20,10,5,110,32
-Plattekill Mountain,Roxbury,New York,3500,2400,1100,110,38,4,175,68
-Bromley Mountain Resort,Manchester,Vermont,3284,1950,1334,178,47,9,168,92
-Burke Mountain,Lyndonville,Vermont,3267,1210,2011,178,50,6,217,75
-Cochran's Ski Area,Richmond,Vermont,950,600,350,15,8,3,150,19
-Hard'ack Recreation Area,St. Albans,Vermont,25692,3281,100,20247,43,1,2057,64
-Living Memorial Park,Brattleboro,Vermont,1126,922,204,8,2,1,2057,5
-Lyndon Outing Club,Lyndon,Vermont,1247,814,433,32,10,2,2057,15
-Mad River Glen,Waitsfield,Vermont,3637,1600,2037,115,52,5,230,79
-Jay Peak,Jay,Vermont,3968,1815,2153,385,79,9,350,89
-Magic Mountain,Londonderry,Vermont,2850,1350,1500,205,51,6,150,74
-Middlebury College Snow Bowl,Hancock,Vermont,2720,1720,1000,110,17,3,250,60
-Pico Mountain,Killington,Vermont,3967,2000,1967,468,57,7,250,85
-Suicide Six,Pomfret,Vermont,1200,550,650,100,23,3,110,79
-Searchmont,"Sault Ste. Marie, Ontario",Ontario,912,1470,700,100,21,4,132,59
-Chapman Ski Hill,Durango,Colorado,7297,6522,775,7,1,2,71,15
-Lee's Ski Hill,Ouray,Colorado,7867,7792,75,2,1,1,134,64
-Whitewater Ski Resort,Nelson,British Columbia,6709,4665,2044,1180,46,4,472,64
-Kimberley Alpine Resort,Kimberley,British Columbia,6500,4035,2465,1800,80,5,150,109
-Nakiska,Kananaskis,Alberta,7415,5003,2412,1021,79,6,100,64
-Salmo Ski Area,Salmo,British Columbia,25692,3281,1120,20247,43,7,120,64
-Sasquatch Mountain,Chehalis,British Columbia,25692,3281,1100,300,43,7,2057,64
-Mount Washington Alpine Resort,Courtenay,British Columbia,25692,3281,1663,1700,43,7,432,64
-Powder King,Prince George,British Columbia,5166,3066,2100,1475,37,3,492436,98
-Manning Park,Manning Park,British Columbia,25692,3281,1417,140,43,7,296,64
-Mount Baldy Ski Area,Oliver,British Columbia,25692,3281,1293,600,43,7,256,64
-Harper Mountain,Kamloops,British Columbia,25692,3281,1400,400,43,7,156,64
-Little Ski Hill,McCall,Idaho,5600,5195,405,50,6,1,140,25
+name,state,url,location,summit_elevation,base_elevation,vertical_drop,skiable_area,number_of_trails,number_of_lifts,annual_snowfall,website,coordinates,owner_operator,opening_year,status
+Mohawk Mountain Ski Area,Connecticut,https://en.wikipedia.org/wiki/Mohawk_Mountain_Ski_Area,"Cornwall , Litchfield County, Connecticut , United States",,,650 ft,112 acres (0.175 km²),27,,,https://www.mohawkmtn.com,41°50′12″N 73°18′48″W ﻿ / ﻿ 41.83675°N 73.31342°W ﻿ / 41.83675; -73.31342,,,
+Mount Southington,Connecticut,https://en.wikipedia.org/wiki/Mount_Southington,"Mount Southington, Plantsville, Connecticut",525 feet (160 m),100 feet (30 m),425 feet (130 m),51 acres (0.21 km 2 ),14,,40 inches (100 cm),http://www.mountsouthington.com,41°34′56″N 72°55′33″W ﻿ / ﻿ 41.58235°N 72.92587°W ﻿ / 41.58235; -72.92587,,,Operating
+Powder Ridge Ski Area,Connecticut,https://en.wikipedia.org/wiki/Powder_Ridge_Ski_Area,Besek Mountain,,,550 ft (170 m),80 acres (32 ha),20,,60 inches (150 cm),http://powderridgepark.com/,41°30′07″N 72°44′14″W ﻿ / ﻿ 41.502006°N 72.737172°W ﻿ / 41.502006; -72.737172,,,
+Ski Sundown,Connecticut,https://en.wikipedia.org/wiki/Ski_Sundown,"New Hartford , Connecticut , US",,,625 ft (191 m),,16,,,http://www.skisundown.com/,41.88407°N 72.94523°W,,,
+Baker Mountain,Maine,https://en.wikipedia.org/wiki/Baker_Mountain_(ski_area),"Moscow , Maine , United States",767 feet (234 m),540 feet (160 m),,,5,,,,45°5′5″N 69°54′20″W ﻿ / ﻿ 45.08472°N 69.90556°W ﻿ / 45.08472; -69.90556,,,
+Big Rock,Maine,https://en.wikipedia.org/wiki/Big_Rock_(ski_resort),"Mars Hill , Maine , United States","1,590 feet (480 m)",670 feet (200 m),,,28,,,http://www.bigrockmaine.com/,46°31′20″N 67°49′40″W ﻿ / ﻿ 46.52222°N 67.82778°W ﻿ / 46.52222; -67.82778,,,
+Big Moose,Maine,https://en.wikipedia.org/wiki/Big_Moose_Mountain,"Piscataquis County , Maine , U.S.",,,,,,,,,45°29′03″N 69°42′42″W ﻿ / ﻿ 45.484167°N 69.711667°W ﻿ / 45.484167; -69.711667,,,
+Black Mountain of Maine,Maine,https://en.wikipedia.org/wiki/Black_Mountain_of_Maine,"Rumford, Maine , U.S.",,"1,000 ft (300 m)","1,380 ft (420 m)",,46,,,http://www.skiblackmountain.org,44°34′48″N 70°37′3″W ﻿ / ﻿ 44.58000°N 70.61750°W ﻿ / 44.58000; -70.61750,,,Operating (seasonally)
+Camden Snow Bowl,Maine,https://en.wikipedia.org/wiki/Camden_Snow_Bowl,Ragged Mountain,"1,070 feet (330 m)",220 feet (67 m),850 feet (260 m),105 acres (42 ha),15,,"70 inches (1,800 mm)",https://camdensnowbowl.com/,44°13′02″N 69°08′05″W ﻿ / ﻿ 44.217216°N 69.134667°W ﻿ / 44.217216; -69.134667,,,
+Eaton Mountain,Maine,https://en.wikipedia.org/wiki/Eaton_Mountain,"Skowhegan , Maine , United States",840 feet (260 m),220 feet (67 m),,,18,,,,44°46′5″N 69°37′10″W ﻿ / ﻿ 44.76806°N 69.61944°W ﻿ / 44.76806; -69.61944,,,
+Hermon Mountain,Maine,https://en.wikipedia.org/w/index.php?title=Hermon_Mountain_(ski_area)&action=edit&redlink=1,,,,,,,,,,,,,
+Lonesome Pine Trails,Maine,https://en.wikipedia.org/wiki/Lonesome_Pine_Trails,,,,,,,,,,,,,
+Lost Valley,Maine,https://en.wikipedia.org/wiki/Lost_Valley_Ski_Area,"200 Lost Valley Rd. Auburn , Maine , U.S.",480 ft (146 m),240 ft (73 m),240 ft (73 m),45 acres (18 ha),31 (Including glades) - 22% beginner - 38% intermediate - 28% advanced - 12% expert,,67 inches (170 cm) to 71 inches (180 cm),https://www.lostvalleyski.com/,44°08′10″N 70°16′52″W ﻿ / ﻿ 44.136°N 70.281°W ﻿ / 44.136; -70.281,,1981/12/08,Active
+Mount Abram,Maine,https://en.wikipedia.org/wiki/Mount_Abram_(ski_resort),"Greenwood , Maine , United States","1,990 feet (610 m)",940 feet (290 m),,250 acres (100 ha) trail 650 acres (260 ha) total,44,,,http://www.mtabram.com,44°22′45″N 70°42′25″W ﻿ / ﻿ 44.37917°N 70.70694°W ﻿ / 44.37917; -70.70694,,,
+Mount Jefferson Ski Area,Maine,https://en.wikipedia.org/w/index.php?title=Mount_Jefferson_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Pinnacle Ski Club,Maine,,,,,,,,,,,,,,
+Pleasant Mountain,Maine,https://en.wikipedia.org/wiki/Pleasant_Mountain_Ski_Area,"Bridgton , Maine, US",,,"1,300 ft (400 m)",,44,,,http://www.pleasantmountain.com,44°3′30″N 70°48′55″W ﻿ / ﻿ 44.05833°N 70.81528°W ﻿ / 44.05833; -70.81528,Boyne Resorts,,Operating
+Powderhouse Hill,Maine,https://en.wikipedia.org/wiki/Powderhouse_Hill_(ski_area),"South Berwick , Maine , United States",240 feet (73 m),120 feet (37 m),,,3,,,http://www.powderhousehill.com/,43°14′13″N 70°48′8″W ﻿ / ﻿ 43.23694°N 70.80222°W ﻿ / 43.23694; -70.80222,,,
+Quoggy Jo,Maine,https://en.wikipedia.org/w/index.php?title=Quoggy_Jo&action=edit&redlink=1,,,,,,,,,,,,,
+Saddleback Maine,Maine,https://en.wikipedia.org/wiki/Saddleback_Maine_(ski_resort),"Sandy River Plantation, Maine , U.S.","4,120 feet (1,260 m)","2,120 feet (650 m)","2,000 feet (610 m)",600 acres (2.4 km 2 ),68,,"225 inches (5,700 mm) (annual)",http://www.saddlebackmaine.com,44°56′12″N 070°30′11″W ﻿ / ﻿ 44.93667°N 70.50306°W ﻿ / 44.93667; -70.50306,,,Operating
+Sugarloaf,Maine,https://en.wikipedia.org/wiki/Sugarloaf_(ski_resort),"Carrabassett Valley , Franklin County , Maine United States","4,237 feet (1,291 m)","1,417 feet (432 m)","2,820 feet (860 m)","1,360 acres (550 ha)",176,,200 inches (510 cm) (10 year average),http://www.sugarloaf.com/,45°01′53″N 70°18′47″W ﻿ / ﻿ 45.03139°N 70.31306°W ﻿ / 45.03139; -70.31306,Boyne Resorts,,Operating
+Sunday River,Maine,https://en.wikipedia.org/wiki/Sunday_River_(Maine),"Newry , Maine , U.S.","3,140 ft (957 m)",800 ft (244 m),"2,340 ft (713 m)",870 acres (3.5 km 2 ),135 33% Beginner 36% Intermediate 19% Advanced 12% Expert,,155 in (390 cm),http://www.sundayriver.com/,44°28′24″N 70°51′25″W ﻿ / ﻿ 44.4734°N 70.8569°W ﻿ / 44.4734; -70.8569,Boyne Resorts,,Operating
+Titcomb Mountain,Maine,https://en.wikipedia.org/wiki/Titcomb_Mountain,"Farmington , Maine , United States",750,400,,45 acres (18 ha),16,,85 inches (220 cm)/year,http://www.titcombmountain.com/,44°39′0″N 70°10′15″W ﻿ / ﻿ 44.65000°N 70.17083°W ﻿ / 44.65000; -70.17083,,,
+Berkshire East Ski Resort,Massachusetts,https://en.wikipedia.org/wiki/Berkshire_East_Ski_Resort,"Charlemont / Hawley , Massachusetts , U.S.","1,840 ft (561 m)",520 ft (158 m),"1,180 ft (360 m)",,45,,110 in (279 cm),https://berkshireeast.com/,42°37′15″N 72°52′37″W ﻿ / ﻿ 42.62083°N 72.87694°W ﻿ / 42.62083; -72.87694,,,Active
+Blue Hills Ski Area,Massachusetts,https://en.wikipedia.org/wiki/Blue_Hills_Ski_Area,"Canton , MA",,,309 feet (94 m),"60 acres (240,000 m 2 )",8,,,https://www.bluehillsboston.com/,42°12′55″N 71°07′09″W ﻿ / ﻿ 42.21528°N 71.11917°W ﻿ / 42.21528; -71.11917,,,
+Bousquet Ski Area,Massachusetts,https://en.wikipedia.org/wiki/Bousquet_Ski_Area,"101 Dan Fox Dr Pittsfield, Massachusetts , 01201","1,818 ft (554 m)","1,068 ft (326 m)",750 ft (230 m),200 acres (81 ha),24,,,https://bousquetmountain.com/,42°25′02″N 73°16′44″W ﻿ / ﻿ 42.4171°N 73.2788°W ﻿ / 42.4171; -73.2788,Mill Town Capital,,Operating
+Butternut,Massachusetts,https://en.wikipedia.org/wiki/Ski_Butternut,"Great Barrington , Massachusetts , US","1,800 ft (550 m)",820 ft (250 m),"1,000 ft (300 m)",,22,,115 in (292 cm),http://www.skibutternut.com,42°10′41″N 73°19′01″W ﻿ / ﻿ 42.17806°N 73.31694°W ﻿ / 42.17806; -73.31694,,,
+Easton Ski Area,Massachusetts,https://en.wikipedia.org/wiki/Easton_Ski_Area,"Deerfield , Massachusetts , US",,,,,,,,http://www.eaglebrook.org/,42.5387°N 72.5938°W,,,
+Jiminy Peak,Massachusetts,https://en.wikipedia.org/wiki/Jiminy_Peak_(ski_area),"Hancock , Massachusetts , United States","2,375 ft (724 m)","1,245 ft (379 m)","1,150 ft (351 m)",170 acres (0.69 km 2 ),45,,108 in (270 cm),https://www.jiminypeak.com/,42°33′03″N 73°17′27″W ﻿ / ﻿ 42.55083°N 73.29083°W ﻿ / 42.55083; -73.29083,,,
+Mount Greylock Ski Club,Massachusetts,https://en.wikipedia.org/w/index.php?title=Mount_Greylock_Ski_Club&action=edit&redlink=1,,,,,,,,,,,,,
+Nashoba Valley Ski Area,Massachusetts,https://en.wikipedia.org/wiki/Nashoba_Valley_Ski_Area,"Westford , Massachusetts , US",422 ft,194 ft,240 ft,,17,,,http://www.skinashoba.com/,42°32′31.11″N 71°26′38.77″W ﻿ / ﻿ 42.5419750°N 71.4441028°W ﻿ / 42.5419750; -71.4441028,,,
+Otis Ridge,Massachusetts,https://en.wikipedia.org/wiki/Otis_Ridge,"159 Monterey Rd, Otis, Massachusetts","1,490 ft (514 m)","1,025 ft (315 m)",400 ft (122 m),132 acres,11 trails,,,https://otisridge.com/,42°11′47″N 73°05′56″W ﻿ / ﻿ 42.1964°N 73.0988°W ﻿ / 42.1964; -73.0988,,,
+Ski Bradford,Massachusetts,https://en.wikipedia.org/wiki/Ski_Bradford,"Bradford , Massachusetts , US",272 feet (83 m),,,"48 acres (190,000 m 2 )",15,,,https://skibradford.com/,42.74361°N 71.05889°W,,,
+Ski Ward,Massachusetts,https://en.wikipedia.org/wiki/Ski_Ward,"Shrewsbury, Massachusetts , US",,,220 ft (67 m),,9,,,http://www.skiward.com/,42°18′20″N 71°40′30″W ﻿ / ﻿ 42.30556°N 71.67500°W ﻿ / 42.30556; -71.67500,,,
+Wachusett Mountain,Massachusetts,https://en.wikipedia.org/wiki/Wachusett_Mountain_(ski_area),"Princeton , Massachusetts","2,006 ft (611 m)","1,000 ft (305 m)","1,006 ft (307 m)",110 acres (0.45 km 2 ),26,,100 in (250 cm),http://www.wachusett.com,42°29′58″N 71°53′11″W ﻿ / ﻿ 42.49944°N 71.88639°W ﻿ / 42.49944; -71.88639,,,
+Abenaki Ski Area,New Hampshire,,,,,,,,,,,,,,
+Arrowhead,New Hampshire,https://en.wikipedia.org/wiki/Arrowhead_Recreation_Area,"Claremont, New Hampshire , United States",1080 feet,,,,9,,,http://www.arrowheadnh.com,43°21′46″N 72°20′00″W ﻿ / ﻿ 43.36278°N 72.33333°W ﻿ / 43.36278; -72.33333,,,
+Attitash,New Hampshire,https://en.wikipedia.org/wiki/Attitash_Mountain_Resort,"Bartlett , New Hampshire , US",,,"1,750 ft (530 m)",,68 : 29% beginner : 44% intermediate : 27% advanced,,,http://www.attitash.com,44°04′56″N 71°13′47″W ﻿ / ﻿ 44.08222°N 71.22972°W ﻿ / 44.08222; -71.22972,Vail Resorts,,Operating
+Black Mountain,New Hampshire,https://en.wikipedia.org/wiki/Black_Mountain_Ski_Area,"Jackson, New Hampshire , U.S.",,,"1,100 ft (340 m)",,"45, plus 15 glades",,,http://www.blackmt.com/,44°10′6″N 71°9′52″W ﻿ / ﻿ 44.16833°N 71.16444°W ﻿ / 44.16833; -71.16444,Black Mountain Cooperative,,Operational (seasonally)
+Bretton Woods,New Hampshire,https://en.wikipedia.org/wiki/Bretton_Woods_Mountain_Resort,"Bretton Woods , New Hampshire , USA","3,100 feet (940 m)","1,600 feet (490 m)","1,500 feet (460 m)",468 acres,102 25% Beginner 29% Intermediate 46% Expert,,200 inches (5.1 m),http://brettonwoods.com,44°15′35″N 71°27′44″W ﻿ / ﻿ 44.25972°N 71.46222°W ﻿ / 44.25972; -71.46222,,,
+Cannon Mountain,New Hampshire,https://en.wikipedia.org/wiki/Cannon_Mountain_Ski_Area,"Franconia , New Hampshire , U.S.","4,080 ft (1,240 m) Cannon","1,850 ft (560 m) Mittersill","2,230 ft (680 m) Cannon/Mittersill",265 acres (107 ha),"73 trails, plus the Mittersill backcountry area (86 acres; 35 ha) 21% Beginner 47% Intermediate 32% Expert",,160 inches (4.1 m),http://www.cannonmt.com,44°09′28″N 71°41′56″W ﻿ / ﻿ 44.15778°N 71.69889°W ﻿ / 44.15778; -71.69889,,,
+Campton Mountain,New Hampshire,,,,,,,,,,,,,,
+Cranmore Mountain Resort,New Hampshire,https://en.wikipedia.org/wiki/Cranmore_Mountain_Resort,"North Conway , New Hampshire , US",,,"1,200 ft",,56 - 28% beginner - 44% intermediate - 28% advanced,,,http://www.cranmore.com/,44.05639°N 71.11000°W,,,
+Crotched Mountain,New Hampshire,https://en.wikipedia.org/wiki/Crotched_Mountain,"Hillsborough County , New Hampshire, U.S.",,,,,,,,,42°59′54″N 71°52′25″W ﻿ / ﻿ 42.998294108°N 71.873712297°W ﻿ / 42.998294108; -71.873712297,,,
+Dartmouth Skiway,New Hampshire,https://en.wikipedia.org/wiki/Dartmouth_Skiway,"Holt's Ledge and Winslow Ledge Lyme , New Hampshire , U.S.","1,943 feet (592 m)",975 feet (297 m),968 feet (295 m),100 acres (40 ha),30 25% Novice 50% Intermediate 25% Expert,,,http://skiway.dartmouth.edu,43°47′12″N 72°26′2″W ﻿ / ﻿ 43.78667°N 72.43389°W ﻿ / 43.78667; -72.43389,,,
+Franklin Veterans Memorial Recreation Area,New Hampshire,,,,,,,,,,,,,,
+Granite Gorge,New Hampshire,https://en.wikipedia.org/wiki/Granite_Gorge_Ski_Area,"Roxbury , New Hampshire , USA",,,390 feet (120 m),,19 39% Novice 16% Intermediate 48% Expert,,,http://granitegorge.com,42°58′15″N 72°12′44″W ﻿ / ﻿ 42.97083°N 72.21222°W ﻿ / 42.97083; -72.21222,,,Operating
+Gunstock Mountain Resort,New Hampshire,https://en.wikipedia.org/wiki/Gunstock_Mountain_Resort,"Gilford , New Hampshire , USA","2,267 feet (691 m)",867 feet (264 m),"1,400 feet (430 m)",,55 12% Novice 61% Intermediate 27% Expert,,,http://www.gunstock.com,43°32′29″N 71°22′03″W ﻿ / ﻿ 43.54139°N 71.36750°W ﻿ / 43.54139; -71.36750,,,
+Kanc Rec Area,New Hampshire,,,,,,,,,,,,,,
+King Pine,New Hampshire,https://en.wikipedia.org/wiki/King_Pine,"Madison , New Hampshire, US",,,350 ft (110 m),,17 trails – 44% Beginner – 31% Intermediate – 25% Advanced,,,http://www.kingpine.com/,43°52′17″N 71°05′22″W ﻿ / ﻿ 43.87139°N 71.08944°W ﻿ / 43.87139; -71.08944,,,
+Loon Mountain,New Hampshire,https://en.wikipedia.org/wiki/Loon_Mountain,,,,,,,,,,44°02′09″N 71°37′17″W ﻿ / ﻿ 44.03597°N 71.62144°W ﻿ / 44.03597; -71.62144,,,
+McIntyre Ski Area,New Hampshire,https://en.wikipedia.org/wiki/McIntyre_Ski_Area,"Manchester , New Hampshire , USA",,,200 feet (60 m),,9 90% Beginner 10% Intermediate,,,http://www.mcintyreskiarea.com,43°0′18″N 71°26′24″W ﻿ / ﻿ 43.00500°N 71.44000°W ﻿ / 43.00500; -71.44000,,,
+Mount Eustis,New Hampshire,,,,,,,,,,,,,,
+Mount Prospect,New Hampshire,https://en.wikipedia.org/wiki/Mount_Prospect_Ski_Tow,"Lancaster, New Hampshire , U.S.",,,300 ft (91 m) (ski tow) 700 ft (210 m) (hike),,"3, plus glades",,,https://www.mountprospectskitow.com,44°27′26″N 71°34′37″W ﻿ / ﻿ 44.4572°N 71.5769°W ﻿ / 44.4572; -71.5769,,,Last operated in 2021
+Mount Sunapee Resort,New Hampshire,https://en.wikipedia.org/wiki/Mount_Sunapee_Resort,"Newbury, New Hampshire","2,743 ft (836 m)","1,230 ft (370 m)","1,513 ft (461 m)",230 acres (93 ha),66 26% Beginner 48% Intermediate 26% Expert,,100 inches (250 cm),http://www.mountsunapee.com,43.33056°N 72.08000°W,Vail Resorts,,Operating
+Pats Peak,New Hampshire,https://en.wikipedia.org/wiki/Pats_Peak,"Henniker, New Hampshire , U.S.","1,460 ft (450 m)",690 ft (210 m),770 ft (230 m),"103 acres (420,000 m 2 )",28,,,http://www.patspeak.com,43°09′48″N 71°47′45″W ﻿ / ﻿ 43.16333°N 71.79583°W ﻿ / 43.16333; -71.79583,,,
+Ragged Mountain,New Hampshire,https://en.wikipedia.org/wiki/Ragged_Mountain_Resort,"Danbury , New Hampshire , U.S.",,,"1,250 feet (380 m)",,57,,,http://raggedmountainresort.com,43°29′04″N 71°50′32″W ﻿ / ﻿ 43.48444°N 71.84222°W ﻿ / 43.48444; -71.84222,,,
+Red Hill Ski Club,New Hampshire,,,,,,,,,,,,,,
+Storrs Hill,New Hampshire,,,,,,,,,,,,,,
+Tenney Mountain Ski Resort,New Hampshire,https://en.wikipedia.org/wiki/Tenney_Mountain_Ski_and_Snowboarding_Area,"Plymouth / Groton , Grafton County, New Hampshire","2,149 ft (655 m)",749 ft (228 m),"1,400 ft (430 m)",110 acres (45 ha),45 13% Novice 56% Intermediate 31% Advanced,,,http://www.skitenney.com,43°44′16″N 71°47′01″W ﻿ / ﻿ 43.73778°N 71.78361°W ﻿ / 43.73778; -71.78361,North Country Development Group,,Operating (seasonally)
+The Balsams Wilderness,New Hampshire,https://en.wikipedia.org/wiki/The_Balsams_Grand_Resort_Hotel,"NH 26 , Coös County, New Hampshire , 10 mi. E of Colebrook",,,,,,,,,44.87056°N 71.30778°W,,,
+Waterville Valley Resort,New Hampshire,https://en.wikipedia.org/wiki/Waterville_Valley_Resort,"Waterville Valley , New Hampshire , U.S.","3,840 ft (1,170 m) (lift-served) 3,997 ft (1,218 m) (summit)","1,820 ft (555 m)","2,020 ft (615 m)",265 acres (1.07 km 2 ),62 15% Novice 59% Intermediate 26% Expert,,148 inches (12.3 ft; 3.8 m),https://www.waterville.com/,43°57′55″N 71°31′40″W ﻿ / ﻿ 43.96528°N 71.52778°W ﻿ / 43.96528; -71.52778,,,
+Whaleback,New Hampshire,https://en.wikipedia.org/wiki/Whaleback_(ski_area),"Enfield, New Hampshire","1,800 ft (550 m)","1,100 ft (340 m)",700 ft (210 m),85 acres (34 ha),30,,110 inches (280 cm),http://www.whaleback.com/,43.60139°N 72.18139°W,,,
+Wildcat Mountain,New Hampshire,https://en.wikipedia.org/wiki/Wildcat_Mountain_Ski_Area,"Pinkham's Grant , New Hampshire United States","4,062 feet (1,238 m)","1,950 feet (590 m)","2,112 feet (644 m)",225 acres (91 ha),49 25% Beginner 45% Intermediate 30% Expert,,200 in (5.1 m),http://www.skiwildcat.com,44°15′47″N 71°14′18″W ﻿ / ﻿ 44.26306°N 71.23833°W ﻿ / 44.26306; -71.23833,Vail Resorts,,Operating
+Yawgoo Valley,Rhode Island,https://en.wikipedia.org/wiki/Yawgoo_Valley,"160 Yawgoo Valley Road, Exeter, Rhode Island 02822 U.S.",310 feet,70,,"36 acres (150,000 m 2 )",14,,39 inches annually,https://yawgoo.com/,41.51694°N 71.52944°W,,,
+Brownsville,Vermont,"https://en.wikipedia.org/wiki/Brownsville,_Vermont",,,,,,,,,http://www.westwindsorvt.govoffice2.com,43.46861°N 72.47083°W,,,
+Bellows Falls,Vermont,"https://en.wikipedia.org/wiki/Bellows_Falls,_Vermont",,,,,,,,,https://www.rockinghamvt.org/,43.13333°N 72.44389°W,,,
+Bolton Valley Resort,Vermont,https://en.wikipedia.org/wiki/Bolton_Valley_Resort,"Bolton, Vermont , U.S.","3,150 feet (960 m)","1,446 feet (441 m)","1,625 feet (495 m)",165 acres (0.67 km 2 ),71,,,http://www.boltonvalley.com/,44°25′11″N 72°51′00″W ﻿ / ﻿ 44.419621°N 72.849998°W ﻿ / 44.419621; -72.849998,,,
+Bromley Mountain,Vermont,https://en.wikipedia.org/wiki/Bromley_Mountain,"Peru , Vermont , USA","3,284 feet (1,001 m)","1,950 feet (594 m)","1,334 feet (407 m)",178 acres (72 ha),47,,145 in (368.3 cm),,43°13′40″N 72°56′19″W ﻿ / ﻿ 43.22778°N 72.93861°W ﻿ / 43.22778; -72.93861,,,
+Burke Mountain,Vermont,https://en.wikipedia.org/wiki/Burke_Mountain_(Vermont),"Northeast Kingdom , Vermont , U.S.",,,,,,,,,44°34.25′N 71°53.59′W ﻿ / ﻿ 44.57083°N 71.89317°W ﻿ / 44.57083; -71.89317,,,
+Cochran's Ski Area,Vermont,https://en.wikipedia.org/wiki/Skiing_Cochrans,,,,,,,,,,,,,
+Strafford,Vermont,"https://en.wikipedia.org/wiki/Strafford,_Vermont",,,,,,,,,https://www.straffordvt.org/,43.86583°N 72.37722°W,,,
+St. Albans,Vermont,"https://en.wikipedia.org/wiki/St._Albans_(town),_Vermont",,,,,,,,,http://www.stalbanstown.com,44.81028°N 73.15222°W,,,
+Haystack Mountain,Vermont,https://en.wikipedia.org/wiki/Haystack_Mountain_Ski_Area,"Wilmington , Vermont , US",,,"1,400",,48,,,http://www.hermitageclub.com/,42°55′21″N 72°53′40″W ﻿ / ﻿ 42.9226028°N 72.8945694°W ﻿ / 42.9226028; -72.8945694,,,
+Jay Peak Resort,Vermont,https://en.wikipedia.org/wiki/Jay_Peak_Resort,"Jay, Vermont","3,862 feet (1,177 m)","1,815 feet (553 m)","2,153 feet (656 m)",385 acres (1.56 km 2 ),81,,359 inches (911.86 cm); 29.9 feet (9.11 m),http://www.jaypeakresort.com/,44°55′46″N 72°31′56″W ﻿ / ﻿ 44.92944°N 72.53222°W ﻿ / 44.92944; -72.53222,Pacific Group Resorts,,Operating
+Killington Ski Resort,Vermont,https://en.wikipedia.org/wiki/Killington_Ski_Resort,"Killington , Vermont , U.S.","4,241 ft (1,293 m) NAVD 88","1,165 ft (355 m) (Skyeship)","3,076 ft (938 m)","1,509 acres (6.1 km 2 )",155 – 28% beginner – 33% intermediate – 39% advanced,,250 inches (640 cm),https://www.killington.com/,43°37′34″N 72°47′53″W ﻿ / ﻿ 43.626°N 72.798°W ﻿ / 43.626; -72.798,Independent,,Operating
+Brattleboro,Vermont,"https://en.wikipedia.org/wiki/Brattleboro,_Vermont",,,,,,,,,https://brattleboro.gov/,42.85000°N 72.58222°W,,,
+Lyndon,Vermont,"https://en.wikipedia.org/wiki/Lyndon,_Vermont",,,,,,,,,http://www.lyndonvt.org,44.53583°N 72.00528°W,,,
+Mad River Glen,Vermont,https://en.wikipedia.org/wiki/Mad_River_Glen,"Fayston , Vermont",3637 ft - (1108 m),1600 ft - (487 m),2037 ft - (621 m),,60,,250 in. - (635 cm),http://www.madriverglen.com,44°12′03″N 72°55′28″W ﻿ / ﻿ 44.20083°N 72.92444°W ﻿ / 44.20083; -72.92444,,,
+Magic Mountain,Vermont,"https://en.wikipedia.org/wiki/Magic_Mountain,_Vermont","Londonderry , Windham County , Vermont , United States","2,850 ft (870 m)","1,350 ft (410 m)","1,500 ft (460 m)",205 acres (83 ha),39,,145 inches (12.1 ft; 3.7 m),http://www.magicmtn.com,43°11′34″N 72°45′36″W ﻿ / ﻿ 43.19278°N 72.76000°W ﻿ / 43.19278; -72.76000,,,
+Middlebury College Snow Bowl,Vermont,https://en.wikipedia.org/wiki/Middlebury_College_Snow_Bowl,"Hancock , Vermont , US",2720 ft (808 m),1720 ft (488 m),1000 ft (304 m),600 acres (2.4 km 2 ),17,,200 in (510 cm),http://middleburysnowbowl.com,43°56′N 72°58′W ﻿ / ﻿ 43.94°N 72.96°W ﻿ / 43.94; -72.96,,,
+Mount Snow,Vermont,https://en.wikipedia.org/wiki/Mount_Snow,"Dover , Windham County , Vermont, USA","3,600 ft (1,100 m)","1,900 ft (580 m)",,601 acres (243 ha),86,,150 inches (380 cm),https://www.mountsnow.com,42°57′32″N 72°55′19″W ﻿ / ﻿ 42.959°N 72.922°W ﻿ / 42.959; -72.922,Vail Resorts,,Operating
+Northeast Slopes,Vermont,https://en.wikipedia.org/wiki/Northeast_Slopes,"Corinth , Vermont , USA","1,150 feet (351 m)",810 feet (247 m),340 feet (104 m),35 acres (14 ha),12,,,https://northeastslopes.org,44°4′21″N 72°15′1″W ﻿ / ﻿ 44.07250°N 72.25028°W ﻿ / 44.07250; -72.25028,,,
+Okemo Mountain,Vermont,https://en.wikipedia.org/wiki/Okemo_Mountain,"Ludlow Mountain Ludlow, Vermont , U.S.","3,344 feet (1,019 m)","1,134 feet (346 m)","2,200 feet (670 m)",667 acres (270 ha),123,,16.6 feet (5.1 m),http://www.okemo.com/,43°24′5″N 72°43′0″W ﻿ / ﻿ 43.40139°N 72.71667°W ﻿ / 43.40139; -72.71667,Vail Resorts,,Operating
+Pico Mountain,Vermont,https://en.wikipedia.org/wiki/Pico_Mountain,"Killington , Vermont , United States","3,967 feet (1,209 m)","2,000 feet (610 m)","1,967 feet (600 m)",468 acres (189 ha),58,,250 inches (640 cm),https://www.picomountain.com/,43.66167°N 72.84250°W,,,
+Plymouth Notch,Vermont,https://en.wikipedia.org/wiki/Plymouth_Notch,,,,,,,,,,,,,
+Quechee Lakes Ski Area,Vermont,https://en.wikipedia.org/wiki/Quechee_Lakes_Ski_Area,,,,,,,,,,,,,
+Saskadena Six,Vermont,https://en.wikipedia.org/wiki/Saskadena_Six,"South Pomfret , Vermont","1,200 feet (370 m)",550 feet (170 m),650 feet (200 m),100 acres (40 ha),28,,110 inches (280 cm),http://saskadenasix.com,43°39′50″N 72°32′40″W ﻿ / ﻿ 43.66389°N 72.54444°W ﻿ / 43.66389; -72.54444,,,
+Smugglers' Notch,Vermont,https://en.wikipedia.org/wiki/Smugglers%27_Notch,"Town of Cambridge , near Jeffersonville, Vermont , U.S.","3,640 feet (1,110 m)","1,030 feet (310 m)","2,610 feet (800 m)",,78 19% Easy 50% Intermediate 25% Difficult 6% Extremely difficult,,312 inches (7.9 m),http://www.smuggs.com,44°34′22″N 72°46′34″W ﻿ / ﻿ 44.57278°N 72.77611°W ﻿ / 44.57278; -72.77611,,,
+Stowe Mountain Resort,Vermont,https://en.wikipedia.org/wiki/Stowe_Mountain_Resort,"Mount Mansfield Lamoille County Stowe , Vermont United States","3,719 ft (1,134 m)","1,559 ft (475 m)","2,360 ft (719 m)",485 acres (1.96 km 2 ),116 total - 16% - beginner - 55% - intermediate - 30% - advanced/expert,,224 in (570 cm),https://www.stowe.com,44°31′55″N 72°47′15″W ﻿ / ﻿ 44.53194°N 72.78750°W ﻿ / 44.53194; -72.78750,Vail Resorts,,Operating
+Stratton Mountain Resort,Vermont,https://en.wikipedia.org/wiki/Stratton_Mountain_Resort,"Stratton Mountain , Windham County , Vermont , United States","3,875 ft (1,181 m)","1,872 ft (571 m)","2,003 ft (611 m)",625 acres (2.53 km 2 ),99,,180 inches (15 ft; 4.6 m),https://www.stratton.com/,43°06′51″N 72°54′24″W ﻿ / ﻿ 43.11417°N 72.90667°W ﻿ / 43.11417; -72.90667,Alterra Mountain Company,,Operating
+Sugarbush Resort,Vermont,https://en.wikipedia.org/wiki/Sugarbush_Resort,"Warren , Vermont , US (2 miles ESE), Waitsfield (4 miles E)","4,083 feet (1,244 m)","1,483 feet (452 m)","2,600 feet (790 m)",484 acres (1.96 km 2 )s (2.34 km²),111,,250 inches (640 cm),https://www.sugarbush.com/,44°08′06″N 72°53′09″W ﻿ / ﻿ 44.135098°N 72.885962°W ﻿ / 44.135098; -72.885962,Alterra Mountain Company,,Operating
+Wisp Ski Resort,Maryland,https://en.wikipedia.org/wiki/Wisp_Ski_Resort,"Garrett County, Maryland",3115 ft - (950 m),2415 ft - (736 m),700 ft - (213 m),132 acres (0.53 km 2 ),34,,100 in. -  (254 cm),https://www.wispresort.com/,39°33′29″N 79°21′47″W ﻿ / ﻿ 39.55806°N 79.36306°W ﻿ / 39.55806; -79.36306,,,
+Big Snow American Dream,New Jersey,https://en.wikipedia.org/wiki/Big_Snow_American_Dream,"Meadowlands Sports Complex , East Rutherford , New Jersey",,,,4 acres (1.6 ha),3,,,http://bigsnowamericandream.com,40°48′40″N 74°04′12″W ﻿ / ﻿ 40.81111°N 74.07000°W ﻿ / 40.81111; -74.07000,Snow Operating,,Operating
+Campgaw Mountain,New Jersey,https://en.wikipedia.org/wiki/Campgaw_Mountain,"Bergen County , New Jersey, U.S.",,,,,,,,,41°03′15″N 74°11′57″W ﻿ / ﻿ 41.05426°N 74.19919°W ﻿ / 41.05426; -74.19919,,,
+Hidden Valley,New Jersey,https://en.wikipedia.org/wiki/Hidden_Valley_(New_Jersey),"Vernon Township , Sussex County , New Jersey , United States","1,435 ft (437 m) AMSL",815 ft (248 m),620 ft (189 m),,15 total - 25% easiest - 30% more difficult - 45% most difficult,,,,41°11′8.16″N 74°28′50.16″W ﻿ / ﻿ 41.1856000°N 74.4806000°W ﻿ / 41.1856000; -74.4806000,,,Defunct
+Mountain Creek,New Jersey,https://en.wikipedia.org/wiki/Mountain_Creek,"Vernon Township, New Jersey","454 m (1,490 ft)",137 m (449 ft),,167 acres (68 ha),46,,165 cm (65 in)/year,https://mountaincreek.com/,41°10′52″N 74°30′47″W ﻿ / ﻿ 41.181°N 74.513°W ﻿ / 41.181; -74.513,,,Operating
+Beartown Ski Area,New York,https://en.wikipedia.org/w/index.php?title=Beartown_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Belleayre Ski Center,New York,https://en.wikipedia.org/wiki/Belleayre_Ski_Center,"Highmount , New York","3,429 ft (1,045.2 m)","2,025 ft (617.2 m)","1,404 ft (427.9 m)",171 acres (0.7 km 2 ),62,,,https://www.belleayre.com,42°8′31.97″N 74°30′38.8″W ﻿ / ﻿ 42.1422139°N 74.510778°W ﻿ / 42.1422139; -74.510778,Olympic Regional Development Authority,,Operating
+Big Tupper Ski Area,New York,https://en.wikipedia.org/w/index.php?title=Big_Tupper_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Brantling Ski Slopes,New York,https://en.wikipedia.org/w/index.php?title=Brantling_Ski_Slopes&action=edit&redlink=1,,,,,,,,,,,,,
+Bristol Mountain Ski Resort,New York,https://en.wikipedia.org/wiki/Bristol_Mountain_Ski_Resort,"Bristol Mountain, 5662 NY 64","2,150 feet (660 m)","1,000 feet (300 m)","1,150 feet (350 m)",160 acres (0.65 km 2 ),35,,130 inches (330 cm),https://www.bristolmountain.com/,42°44′42″N 77°24′16″W ﻿ / ﻿ 42.745°N 77.404444°W ﻿ / 42.745; -77.404444,,,
+Buffalo Ski Club,New York,https://en.wikipedia.org/w/index.php?title=Buffalo_Ski_Club&action=edit&redlink=1,,,,,,,,,,,,,
+Catamount Ski Area,New York,https://en.wikipedia.org/wiki/Catamount_Ski_Area,"Egremont , Massachusetts / Hillsdale , New York , USA","2,000 ft (610 m)",,"1,000 ft (300 m)",119 acres (0.48 km 2 ),44,,"75""",http://www.catamountski.com/,42°10′17″N 73°28′40″W ﻿ / ﻿ 42.171457°N 73.477764°W ﻿ / 42.171457; -73.477764,,,Operating
+Dry Hill Ski Area,New York,https://en.wikipedia.org/w/index.php?title=Dry_Hill_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Gore Mountain,New York,https://en.wikipedia.org/wiki/Gore_Mountain_(ski_resort),"North Creek , New York","3,600 ft (1,100 m)",998 ft (460 m) at North Creek Ski Bowl,"2,537 ft (773 m)",428 acres (173 ha),110,,150 inches (3.8 m) / year,http://www.goremountain.com/,43°40′20″N 74°00′25″W ﻿ / ﻿ 43.67222°N 74.00694°W ﻿ / 43.67222; -74.00694,Olympic Regional Development Authority,,Operating
+Greek Peak,New York,https://en.wikipedia.org/wiki/Greek_Peak,"Virgil , New York , United States","2,200 feet (670 m)","1,148 feet (350 m)",952 feet (290 m),220 acres (0.89 km 2 ),55,,122 inches (310 cm),https://www.greekpeak.net,42°30′31″N 76°08′46″W ﻿ / ﻿ 42.5085996°N 76.1460485°W ﻿ / 42.5085996; -76.1460485,,,
+Hickory Ski Center,New York,https://en.wikipedia.org/w/index.php?title=Hickory_Ski_Center&action=edit&redlink=1,,,,,,,,,,,,,
+Holiday Valley,New York,https://en.wikipedia.org/wiki/Holiday_Valley_(ski_resort),"Ellicottville , New York, USA","2,250 feet (690 m)","1,500 feet (460 m)",750 feet (230 m),290 acres (120 ha),58 total,,15 feet (4.6 m),http://www.holidayvalley.com/,42°15′45″N 78°40′5″W ﻿ / ﻿ 42.26250°N 78.66806°W ﻿ / 42.26250; -78.66806,,,
+Holiday Mountain Ski & Fun,New York,https://en.wikipedia.org/w/index.php?title=Holiday_Mountain_Ski_%26_Fun&action=edit&redlink=1,,,,,,,,,,,,,
+Holimont,New York,https://en.wikipedia.org/w/index.php?title=Holimont&action=edit&redlink=1,,,,,,,,,,,,,
+Hunter Mountain,New York,https://en.wikipedia.org/wiki/Hunter_Mountain_(ski_area),"Hunter, New York , U.S.","3,200 ft (975 m)","1,600 ft (488 m)","1,600 feet (490 m)",320 acres (130 ha),"67, beginner 25%, intermediate 30%, advanced 30%, expert 15%",,120 in (305 cm) annual average,https://www.huntermtn.com,42°12′01″N 74°13′49″W ﻿ / ﻿ 42.200278°N 74.230278°W ﻿ / 42.200278; -74.230278,Vail Resorts,,Operating
+Kissing Bridge,New York,https://en.wikipedia.org/w/index.php?title=Kissing_Bridge&action=edit&redlink=1,,,,,,,,,,,,,
+Labrador Mountain,New York,https://en.wikipedia.org/w/index.php?title=Labrador_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+Mount Peter Ski Area,New York,https://en.wikipedia.org/w/index.php?title=Mount_Peter_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+McCauley Mountain,New York,https://en.wikipedia.org/wiki/McCauley_Mountain_(New_York),"SE of Old Forge , New York , USA",,,,,,,,,43°41′33″N 74°57′41″W ﻿ / ﻿ 43.6925676°N 74.9612837°W ﻿ / 43.6925676; -74.9612837,,,
+Oak Mountain,New York,"https://en.wikipedia.org/w/index.php?title=Oak_Mountain_(Hamilton_County,_New_York)&action=edit&redlink=1",,,,,,,,,,,,,
+Peek'n Peak,New York,https://en.wikipedia.org/wiki/Peek%27n_Peak,"Town of French Creek , Chautauqua County , near Findley Lake , New York, USA","1,800 ft (549 m)","1,400 ft (427 m)",400 ft (122 m),130 acres (52.6 ha ),25,,105 inches,https://www.pknpk.com/,42°3′45″N 79°44′12″W ﻿ / ﻿ 42.06250°N 79.73667°W ﻿ / 42.06250; -79.73667,,,
+Plattekill Mountain,New York,https://en.wikipedia.org/wiki/Plattekill_Mountain,"Roxbury, New York","3,500 ft (1,100 m)","2,400 ft (730 m)","1,100 feet (340 m)",,40,,175 in (4.4 m),http://plattekill.com/,42°17′25″N 74°39′13″W ﻿ / ﻿ 42.290251°N 74.653678°W ﻿ / 42.290251; -74.653678,,,
+Royal Mountain,New York,https://en.wikipedia.org/w/index.php?title=Royal_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+Song Mountain Resort,New York,https://en.wikipedia.org/w/index.php?title=Song_Mountain_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Snow Ridge Ski Resort,New York,https://en.wikipedia.org/w/index.php?title=Snow_Ridge_Ski_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Swain,New York,https://en.wikipedia.org/w/index.php?title=Swain_(Ski_Area)&action=edit&redlink=1,,,,,,,,,,,,,
+Sugar Hill,New York,https://en.wikipedia.org/w/index.php?title=Sugar_Hill_(Ski_Area)&action=edit&redlink=1,,,,,,,,,,,,,
+Thunder Ridge Ski Area,New York,https://en.wikipedia.org/wiki/Thunder_Ridge_Ski_Area,"Patterson, New York",880 ft.,,403 ft.,"90 acres (360,000 m 2 )",21 48% easiest 19% more difficult 33% most difficult,,,http://www.thunderridgeski.com/,41.50722°N 73.58111°W,,,Operating
+Titus Mountain,New York,https://en.wikipedia.org/wiki/Titus_Mountain,"Malone, New York /, U.S.","2,025 ft (617 m)",825 ft (251 m),"1,200 ft (370 m)",,53,,150in (279cm),https://www.titusmountain.com/,44.76333°N 74.23528°W,,,
+Toggenburg Mountain,New York,https://en.wikipedia.org/w/index.php?title=Toggenburg_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+West Mountain,New York,https://en.wikipedia.org/wiki/West_Mountain_(ski_area),"59 West Mountain Rd. Queensbury, NY","1,470 ft (450 m)",460 ft (141 m),"1,010 ft (310 m)",126 acres,31,,,http://www.westmtn.net/,43°17′8″N 73°43′42″W ﻿ / ﻿ 43.28556°N 73.72833°W ﻿ / 43.28556; -73.72833,,,Operating
+Willard Mountain,New York,https://en.wikipedia.org/w/index.php?title=Willard_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+Whiteface Mountain,New York,https://en.wikipedia.org/wiki/Whiteface_Mountain,"Wilmington , New York , U.S.",,,,,,,,,44°21′57″N 73°54′10″W ﻿ / ﻿ 44.36583°N 73.90278°W ﻿ / 44.36583; -73.90278,,,
+Windham Mountain,New York,https://en.wikipedia.org/wiki/Windham_Mountain,"Windham, New York , US","3,100 feet (940 m)","1,500 feet (460 m)","1,600 feet (490 m)",285 acres (115 ha),54 total - 20% (12) novice - 48% (25) intermediate - 19% (10) advanced - 13% (7) expert,,"avg 86 inches (2,200 mm) per year",http://www.windhammountain.com/,42°17′55″N 74°15′26″W ﻿ / ﻿ 42.2987°N 74.2573°W ﻿ / 42.2987; -74.2573,"Beall Investment Partners, Kemmons Wilson Hospitality Partners , North Castle Partners, Cloverhill Group, McGuffog and Starker families",,Operating
+Woods Valley Ski Resort,New York,https://en.wikipedia.org/w/index.php?title=Woods_Valley_Ski_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Victor Constant Ski Area,New York,https://en.wikipedia.org/w/index.php?title=Victor_Constant_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Bear Creek Mountain Resort,Pennsylvania,https://en.wikipedia.org/wiki/Bear_Creek_Mountain_Resort,"Longswamp Township, Pennsylvania , U.S.","1,100 feet (340 m)",590 feet (180 m),,"86 acres (350,000 m 2 )",21,,30 in/year,http://www.bcmr.com/,40°28′34″N 75°37′33″W ﻿ / ﻿ 40.47611°N 75.62583°W ﻿ / 40.47611; -75.62583,,,
+Blue Knob All Seasons Resort,Pennsylvania,https://en.wikipedia.org/w/index.php?title=Blue_Knob_All_Seasons_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Blue Mountain Resort,Pennsylvania,https://en.wikipedia.org/wiki/Blue_Mountain_Resort,"Lower Towamensing Township, Carbon County , Pennsylvania","1,540 ft (470 m)",458 ft (140 m),"1,082 ft (330 m)",164 acres (0.66 km 2 ),"40 total 14 easier 4 more difficult 12 most difficult 3 extremely difficult 7 terrain park (1 easier, 3 more difficult, 2 most difficult, 1 extremely difficult)",,33 in (0.84 m),https://www.skibluemt.com/,40°49′20″N 75°30′48″W ﻿ / ﻿ 40.82222°N 75.51333°W ﻿ / 40.82222; -75.51333,,1977,
+Boyce Park,Pennsylvania,https://en.wikipedia.org/wiki/Boyce_Park,"Allegheny County , Pennsylvania",,,,,,,,,40°27′56″N 79°44′43″W ﻿ / ﻿ 40.46556°N 79.74528°W ﻿ / 40.46556; -79.74528,,,
+Camelback Mountain Resort,Pennsylvania,https://en.wikipedia.org/wiki/Camelback_Mountain_Resort,"Pocono Township / Jackson Township , Monroe County , near Tannersville , Pennsylvania , USA","2,133 feet (650 m)",,800 feet (240 m),166 acres (0.67 km 2 ),35 trails 39% Beginner 26% More Difficult 26% Most Difficult 9% Expert,,50 in/yr (1.27 m/yr),www.camelbackresort.com,41°03′05″N 75°21′19″W ﻿ / ﻿ 41.05139°N 75.35528°W ﻿ / 41.05139; -75.35528,,,
+Eagle Rock Resort,Pennsylvania,https://en.wikipedia.org/w/index.php?title=Eagle_Rock_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Elk Mountain,Pennsylvania,https://en.wikipedia.org/wiki/Elk_Mountain_Ski_Area,"Herrick Township , Susquehanna County , near Union Dale , Pennsylvania , U.S.","2,667 ft (813 m)","1,742 ft (531 m)",925 ft (282 m),180 acres (0.73 km 2 ),27 : 25%—easy : 30%—difficult : 45%—more difficult : 0%—extreme,,60 inches (1.5 m),http://www.elkskier.com,41°43′16″N 75°33′32″W ﻿ / ﻿ 41.721°N 75.559°W ﻿ / 41.721; -75.559,,,
+Hidden Valley Four Seasons Resort,Pennsylvania,https://en.wikipedia.org/wiki/Hidden_Valley_Four_Seasons_Resort,"Hidden Valley, Pennsylvania United States","2,875 ft (876 m)","2,405 ft (733 m)",470 ft (140 m),110 acres (45 ha),26 trails,,,http://www.hiddenvalleyresort.com,40°03′29″N 79°15′30″W ﻿ / ﻿ 40.058042°N 79.258277°W ﻿ / 40.058042; -79.258277,Vail Resorts,,Operating
+Jack Frost Big Boulder,Pennsylvania,https://en.wikipedia.org/wiki/Jack_Frost_Ski_Resort,"Kidder Township, Pennsylvania , U.S.","2,175 ft (663 m) (Big Boulder), 2,000 ft (610 m) (Jack Frost)","1,700 ft (520 m) (Big Boulder), 1,400 ft (430 m) (Jack Frost)","475 ft (145 m) (Big Boulder), 600 ft (180 m) (Jack Frost)",,"18 (Big Boulder), 20 (Jack Frost)",,,https://www.jfbb.com,41.111°N 75.652°W,Vail Resorts,,Operating
+Laurel Mountain Ski Resort,Pennsylvania,https://en.wikipedia.org/wiki/Laurel_Mountain_Ski_Resort,"Ligonier Township, Westmoreland County, Pennsylvania , United States","2,766 feet (843 m)","2,005 feet (611 m)",761 feet (232 m),"70 acres (280,000 m 2 )","20 total (10 Beginner, 7 Intermediate, 3 Advanced)",,,http://www.laurelmountainski.com/,,Commonwealth of Pennsylvania (operated by Vail Resorts ),,
+Liberty Mountain Resort,Pennsylvania,https://en.wikipedia.org/wiki/Liberty_Mountain_Resort,"Carroll Valley , Pennsylvania , United States","1,190 feet (360 m)",570 feet (170 m),620 feet (190 m),100 acres (0.40 km 2 ),22 total 27% beginner 41% intermediate 14% advanced 18% expert,,31 in/year (.78 m/year),http://www.libertymountainresort.com,39°45′48.6″N 77°22′30″W ﻿ / ﻿ 39.763500°N 77.37500°W ﻿ / 39.763500; -77.37500,,,
+Montage Mountain Ski Resort,Pennsylvania,https://en.wikipedia.org/wiki/Montage_Mountain_Ski_Resort,"Scranton, Pennsylvania , United States","1,960 ft (600 m)",960 ft (290 m),"1,000 ft (300 m)",140 acres (0.57 km 2 ),26 - 19% - beginner - 46% - intermediate - 19% - advanced - 15% - expert,,60 in (1.5 m),www.montagemountainresorts.com,41°21′12″N 75°39′33″W ﻿ / ﻿ 41.3533°N 75.6592°W ﻿ / 41.3533; -75.6592,,,
+Mountain View at Edinboro,Pennsylvania,https://en.wikipedia.org/wiki/Mountain_View_at_Edinboro,"Washington Township , Erie County, Pennsylvania , United States",1551 feet,,350 feet,,9 total,,"Over 150""",,41°51′04″N 80°04′13″W ﻿ / ﻿ 41.85111°N 80.07028°W ﻿ / 41.85111; -80.07028,,,
+Seven Springs Mountain Resort,Pennsylvania,https://en.wikipedia.org/wiki/Seven_Springs_Mountain_Resort,"Seven Springs, Pennsylvania , United States","2,994 ft (913 m)","2,240 ft (680 m)",750 ft (232 m),285 acres (1.15 km 2 ),40 trails 35% Beginner 40% Intermediate 15% Advanced 10% Expert,,"135 in (3,400 mm)",http://www.7springs.com,40°1′23″N 79°17′34″W ﻿ / ﻿ 40.02306°N 79.29278°W ﻿ / 40.02306; -79.29278,,,
+Shawnee Mountain Ski Area,Pennsylvania,https://en.wikipedia.org/wiki/Shawnee_Mountain_Ski_Area,"Middle Smithfield Township / Smithfield Township, Monroe County, Pennsylvania , U.S.","1,351 ft (412 m)",,700 ft (210 m),125 acres,23 total,,,http://www.shawneemt.com,41°2′27″N 75°5′0″W ﻿ / ﻿ 41.04083°N 75.08333°W ﻿ / 41.04083; -75.08333,,,
+Ski Big Bear,Pennsylvania,https://en.wikipedia.org/wiki/Ski_Big_Bear,,,,,,,,,,,,,
+Ski Denton,Pennsylvania,https://en.wikipedia.org/w/index.php?title=Ski_Denton&action=edit&redlink=1,,,,,,,,,,,,,
+Ski Roundtop,Pennsylvania,https://en.wikipedia.org/wiki/Ski_Roundtop,"Warrington Township , York County, Pennsylvania , United States","1,340 feet (410 m)",740 feet (230 m),600 feet (180 m),103 acres (0.42 km 2 ),22 total 29% Easier 30% More Difficult 31% Most Difficult 10% Extremely Difficult,,,http://www.skiroundtop.com,40.108°N 76.926°W,,,
+Schwenksville,Pennsylvania,"https://en.wikipedia.org/wiki/Schwenksville,_Pennsylvania",,,,,,,,,https://www.schwenksville-pa.org/,40.25639°N 75.46500°W,,,
+Ski Sawmill,Pennsylvania,https://en.wikipedia.org/w/index.php?title=Ski_Sawmill&action=edit&redlink=1,,,,,,,,,,,,,
+Tussey Mountain Ski Area,Pennsylvania,https://en.wikipedia.org/wiki/Tussey_Mountain_Ski_Area,"Boalsburg , Centre County , Pennsylvania , United States","1,819 feet (554 m)",,500 feet (150 m),"38 acres (150,000 m 2 )",14 total,,,http://www.tusseymountain.com,40.7682°N 77.7520°W,,,
+Whitetail Ski Resort,Pennsylvania,https://en.wikipedia.org/wiki/Whitetail_Ski_Resort,"Montgomery Township , Franklin County, Pennsylvania , United States","1,800 feet (550 m)",865 feet (264 m),935 feet (285 m),120 acres (0.49 km 2 ),22 total 27% beginner 50% intermediate 18% advanced 5% terrain park,,,http://www.skiwhitetail.com,39°44′30″N 77°55′58″W ﻿ / ﻿ 39.74167°N 77.93278°W ﻿ / 39.74167; -77.93278,Vail Resorts,,
+Cloudmont Ski & Golf Resort,Alabama,https://en.wikipedia.org/w/index.php?title=Cloudmont_Ski_%26_Golf_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Appalachian Ski Mountain,North Carolina,https://en.wikipedia.org/wiki/Appalachian_Ski_Mountain,"Watauga County , North Carolina , U.S.","4,000 feet (1,219 m)","3,635 feet (1,108 m)",365 feet (111 m),27 acres (11 ha),11,,60 inches (150 cm),http://www.appskimtn.com/,36°10′26″N 81°39′43″W ﻿ / ﻿ 36.174°N 81.662°W ﻿ / 36.174; -81.662,,,
+Cataloochee Ski Area,North Carolina,https://en.wikipedia.org/wiki/Cataloochee_Ski_Area,"Haywood County , North Carolina , U.S.","5,400 feet (1,646 m)","4,660 feet (1,420 m)",740 feet (226 m),,18 total 44% beginner 39% intermediate 17% advanced,,48 inches (120 cm),https://cataloochee.com/,35°33′47″N 83°05′24″W ﻿ / ﻿ 35.563°N 83.090°W ﻿ / 35.563; -83.090,,,
+Sapphire Valley,North Carolina,https://en.wikipedia.org/w/index.php?title=Sapphire_Valley&action=edit&redlink=1,,,,,,,,,,,,,
+Ski Beech,North Carolina,https://en.wikipedia.org/w/index.php?title=Ski_Beech&action=edit&redlink=1,,,,,,,,,,,,,
+Sugar Mountain,North Carolina,https://en.wikipedia.org/w/index.php?title=Sugar_Mountain_(ski_area)&action=edit&redlink=1,,,,,,,,,,,,,
+Wolf Ridge,North Carolina,https://en.wikipedia.org/wiki/Wolf_Ridge,"Madison County , North Carolina , U.S.","4,700 feet (1,433 m)","3,900 feet (1,189 m)",700 feet (213 m),54 acres (22 ha),23 - 4 beginner - 8 intermediate -   3 advanced,,,https://www.hatleypointe.com//,35°57′18″N 82°30′32″W ﻿ / ﻿ 35.955°N 82.509°W ﻿ / 35.955; -82.509,,,
+Ober Gatlinburg,Tennessee,https://en.wikipedia.org/wiki/Ober_Gatlinburg,"Gatlinburg , Tennessee , USA","3,208 feet (978 m)","2,682 feet (817 m)",526 feet (160 m),,11 total - 27% beginner - 55% intermediate - 18% advanced,,,https://www.obermountain.com/,35°42′11″N 83°33′28″W ﻿ / ﻿ 35.70306°N 83.55778°W ﻿ / 35.70306; -83.55778,,,
+Mount Aggie Ski Slope,Texas,https://en.wikipedia.org/w/index.php?title=Mount_Aggie_Ski_Slope&action=edit&redlink=1,,,,,,,,,,,,,
+Bryce Resort,Virginia,https://en.wikipedia.org/wiki/Bryce_Resort,"Basye , Virginia , United States","1,750 ft (530 m)","1,250 ft (380 m)",500 ft (150 m),25 acres (0.0 sq mi; 0.1 km 2 ),12 33% easiest 50% more difficult 17% most difficult,,,http://www.bryceresort.com/Home.aspx,38°49′03″N 78°45′57″W ﻿ / ﻿ 38.81750°N 78.76583°W ﻿ / 38.81750; -78.76583,,,
+Massanutten Ski Resort,Virginia,https://en.wikipedia.org/wiki/Massanutten_Mountain,,,,,,,,,,38°38′34.9″N 78°36′43.3″W ﻿ / ﻿ 38.643028°N 78.612028°W ﻿ / 38.643028; -78.612028,,,
+The Homestead,Virginia,"https://en.wikipedia.org/wiki/The_Homestead_(Hot_Springs,_Virginia)","US 220, Hot Springs, Virginia",,,,,,,,,37°59′43.70″N 79°49′46.72″W ﻿ / ﻿ 37.9954722°N 79.8296444°W ﻿ / 37.9954722; -79.8296444,,,
+Wintergreen Resort,Virginia,https://en.wikipedia.org/wiki/Wintergreen_Resort,"Wintergreen , Nelson County, Virginia , USA","3,515 ft (1,071 m)","2,512 ft (766 m)","1,003 ft (306 m)",129 acres (52 ha),26 total 23% beginner 35% intermediate 42% advanced,,35 in (890 mm),http://www.wintergreenresort.com/,37°55′48″N 78°56′30″W ﻿ / ﻿ 37.93000°N 78.94167°W ﻿ / 37.93000; -78.94167,,,
+Canaan Valley Resort,West Virginia,https://en.wikipedia.org/wiki/Canaan_Valley_Resort_State_Park,"Tucker , West Virginia, United States",,,,,,,,https://wvstateparks.com/park/canaan-valley-resort-state-park/,39°01′25″N 79°27′57″W ﻿ / ﻿ 39.02361°N 79.46583°W ﻿ / 39.02361; -79.46583,Regency Hotel Management Company,1971,
+Oglebay Resort,West Virginia,https://en.wikipedia.org/w/index.php?title=Oglebay_Resort_and_conference_Center&action=edit&redlink=1,,,,,,,,,,,,,
+Snowshoe Mountain,West Virginia,https://en.wikipedia.org/wiki/Snowshoe_Mountain,"Pocahontas County , West Virginia","4,848 ft (1,478 m)","3,348 ft (1,020 m)","1,500 ft (460 m)",244 acres (99 ha),60,,180 inches (460 cm),https://www.snowshoemtn.com/,38°24′32″N 79°59′41″W ﻿ / ﻿ 38.40889°N 79.99472°W ﻿ / 38.40889; -79.99472,Alterra Mountain Company,,Operating
+Timberline Mountain,West Virginia,https://en.wikipedia.org/wiki/Timberline_Mountain,"Canaan Valley , Tucker County, West Virginia","4,268 feet (1300 m)",,1000 feet (304 m),100 acres (0.4 km 2 ),23 total 9 Easier 6 More Difficult 4 Most Difficult 2 Expert Only 2 terrain parks,,200 in (510 cm),https://timberlinemountain.com/,39°02′33″N 79°23′56″W ﻿ / ﻿ 39.0425°N 79.3990°W ﻿ / 39.0425; -79.3990,,,Operating
+Winterplace,West Virginia,https://en.wikipedia.org/wiki/Winterplace,"Ghent , West Virginia","3,600 ft (1,100 m)","2,997 ft (913 m)",603 ft (184 m),90 acres (0.36 km 2 ),28 total 43% easiest 43% more difficult 14% most difficult,,100 inches,http://www.winterplace.com,37°35′24″N 81°06′54″W ﻿ / ﻿ 37.59000°N 81.11500°W ﻿ / 37.59000; -81.11500,,,
+Chestnut Mountain Resort,Illinois,https://en.wikipedia.org/wiki/Chestnut_Mountain,Galena IL,"1,020 ft.",600 ft.,420 ft.,220 acres (0.89 km 2 ),19,,34 inches,https://www.chestnutmtn.com/,,,,
+Ski Four Lakes,Illinois,https://en.wikipedia.org/w/index.php?title=Ski_Four_Lakes&action=edit&redlink=1,,,,,,,,,,,,,
+Raging Buffalo Snowboard Park,Illinois,https://en.wikipedia.org/w/index.php?title=Raging_Buffalo_Snowboard_Park&action=edit&redlink=1,,,,,,,,,,,,,
+Ski Snowstar,Illinois,https://en.wikipedia.org/wiki/Ski_Snowstar,,,,,,,,,,,,,
+Villa Olivia,Illinois,https://en.wikipedia.org/w/index.php?title=Villa_Olivia&action=edit&redlink=1,,,,,,,,,,,,,
+Paoli Peaks,Indiana,https://en.wikipedia.org/wiki/Paoli_Peaks,"Paoli Township , Orange County , Indiana , U.S.",,,300 ft (91 m),,15 - 25% beginner - 55% intermediate - 20% advanced,,25 in (64 cm),http://www.paolipeaks.com,38°33′28″N 86°30′37″W ﻿ / ﻿ 38.55778°N 86.51028°W ﻿ / 38.55778; -86.51028,,,
+Perfect North Slopes,Indiana,https://en.wikipedia.org/wiki/Perfect_North_Slopes,"19074 Perfect Pl Ln, Lawrenceberg, IN 47025",800 ft (240 m),400 ft (120 m),400 ft (120 m),100 acres (40 ha),23 total 5 beginner 10 intermediate 1 advanced intermediate 4 advanced 1 expert 2 terrain parks,,23 in (58 cm),https://www.perfectnorth.com/,39°08′57″N 84°53′12″W ﻿ / ﻿ 39.149208°N 84.886581°W ﻿ / 39.149208; -84.886581,,,Open
+Mt. Crescent Ski Area,Iowa,https://en.wikipedia.org/w/index.php?title=Mt._Crescent_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Seven Oaks Snow Ski Area,Iowa,https://en.wikipedia.org/w/index.php?title=Seven_Oaks_Snow_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Sleepy Hollow Sports Park,Iowa,https://en.wikipedia.org/w/index.php?title=Sleepy_Hollow_Sports_Park&action=edit&redlink=1,,,,,,,,,,,,,
+Sundown Mountain Resort,Iowa,https://en.wikipedia.org/w/index.php?title=Sundown_Mountain_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Alpine Valley,Michigan,https://en.wikipedia.org/w/index.php?title=Alpine_Valley_(ski_area)&action=edit&redlink=1,,,,,,,,,,,,,
+Big Powderhorn Mountain,Michigan,https://en.wikipedia.org/wiki/Big_Powderhorn_Mountain,"Bessemer Township , Michigan",,,,253 Acres,45,,,https://bigpowderhorn.net/,46.50417°N 90.09611°W,,,
+Bittersweet Ski Resort,Michigan,https://en.wikipedia.org/w/index.php?title=Bittersweet_Ski_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Boyne Mountain Resort,Michigan,https://en.wikipedia.org/wiki/Boyne_Mountain_Resort,"Boyne Valley Township, Charlevoix County","1,152 ft (351 m)",719 ft (219 m),433 ft (132 m),175 acres (0.71 km 2 ),60,,,http://www.boyne.com/BoyneMountain/,45°09′50″N 84°55′58″W ﻿ / ﻿ 45.16389°N 84.93278°W ﻿ / 45.16389; -84.93278,Boyne Resorts,,Operating
+Caberfae Peaks Ski & Golf Resort,Michigan,https://en.wikipedia.org/wiki/Caberfae_Peaks_Ski_%26_Golf_Resort,"Caberfae, Michigan","1,533 ft (467 m)","1,181 ft (360 m)",429 feet (131 m),225 acres (0.91 km 2 ),34,,125 inches (320 cm) annual,http://caberfaepeaks.com,44°14′59″N 85°43′30″W ﻿ / ﻿ 44.24972°N 85.72500°W ﻿ / 44.24972; -85.72500,,,
+Cannonsburg Ski Area,Michigan,https://en.wikipedia.org/w/index.php?title=Cannonsburg_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Challenge Mountain,Michigan,https://en.wikipedia.org/w/index.php?title=Challenge_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+Crystal Mountain Resort & Spa,Michigan,https://en.wikipedia.org/wiki/Crystal_Mountain_(Michigan),"Thompsonville , Weldon Township, Michigan","1,132 ft (345 m).",757 ft (231 m).,314 ft (96 m).,"103 acres (420,000 m 2 )",58,,"132"" average per year",http://www.crystalmountain.com,44.52000°N 85.99222°W,,,
+Hickory Hills Ski Area,Michigan,https://en.wikipedia.org/w/index.php?title=Hickory_Hills_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+The Highlands at Harbor Springs,Michigan,https://en.wikipedia.org/wiki/The_Highlands_at_Harbor_Springs,"Pleasantview Township , Emmet County, Michigan , United States","1,300 feet (400 m)",800 feet (240 m),500 feet (150 m),300 acres (1.2 km 2 ),55,,,https://www.highlandsharborsprings.com/,45.47083°N 84.93472°W,Boyne Resorts,,Operating
+The Homestead,Michigan,https://en.wikipedia.org/w/index.php?title=The_Homestead_(resort)&action=edit&redlink=1,,,,,,,,,,,,,
+Marquette Mountain,Michigan,https://en.wikipedia.org/wiki/Marquette_Mountain,"Marquette , Michigan , U.S.","1,257 ft (383 m)",800 ft (244 m),457 ft (139 m),169 acres (0.68 km 2 ),25 - 15% easiest - 50% more difficult - 35% most difficult,,117 in (300 cm),http://www.marquettemountain.com,46°30′29″N 87°25′12″W ﻿ / ﻿ 46.508°N 87.42°W ﻿ / 46.508; -87.42,,,
+Mont Ripley Ski Resort,Michigan,https://en.wikipedia.org/wiki/Mont_Ripley,"Franklin Township, Houghton County, Michigan , United States","1,140 ft (350 m) AMSL",700 ft (210 m) AMSL,440 ft (134 m),112 acres (0.2 sq mi; 0.5 km 2 ),31 16% easiest 35% more difficult 42% most difficult 6% expert only,,275 inches (22.9 ft; 7.0 m),http://www.mtu.edu/mont-ripley,47°08′N 88°34′W ﻿ / ﻿ 47.13°N 88.56°W ﻿ / 47.13; -88.56,Michigan Technological University,,Operating
+Mount Bohemia,Michigan,https://en.wikipedia.org/wiki/Mount_Bohemia,"Grant Township, Keweenaw County , at Lac La Belle , Michigan",,,804 ft (245 m),550 acres,95,,300 in. avg. annually,https://www.mtbohemia.com/,47°23′30″N 88°0′49″W ﻿ / ﻿ 47.39167°N 88.01361°W ﻿ / 47.39167; -88.01361,,,
+Mt. Brighton Ski Resort,Michigan,https://en.wikipedia.org/wiki/Mt._Brighton,,,,,,,,,,,,,
+Mt. Holiday,Michigan,https://en.wikipedia.org/w/index.php?title=Mt._Holiday&action=edit&redlink=1,,,,,,,,,,,,,
+Mt. Holly Ski and Snowboard Resort,Michigan,https://en.wikipedia.org/w/index.php?title=Mt._Holly_Ski_and_Snowboard_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Mt. McSauba Recreation Area,Michigan,https://en.wikipedia.org/w/index.php?title=Mt._McSauba_Recreation_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Mt. Zion Ski Area,Michigan,https://en.wikipedia.org/w/index.php?title=Mt._Zion_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Mulligan's Hollow Ski Bowl,Michigan,https://en.wikipedia.org/wiki/Mulligan%27s_Hollow_Ski_Bowl,,,,,,,,,,,,,
+Norway Mountain Ski and Snowboard Resort,Michigan,https://en.wikipedia.org/w/index.php?title=Norway_Mountain_Ski_and_Snowboard_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Nub's Nob,Michigan,https://en.wikipedia.org/wiki/Nub%27s_Nob,"Michigan , United States","1,338 ft (408 m)",911 ft (278 m),427 ft (130 m),248 acres (1.0 km 2 ),53,,123 inches (310 cm),http://nubsnob.com,45°28′12″N 84°54′11″W ﻿ / ﻿ 45.47°N 84.903°W ﻿ / 45.47; -84.903,,,
+Otsego Club & Resort,Michigan,https://en.wikipedia.org/w/index.php?title=Otsego_Club_%26_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Petoskey Winter Sports Park,Michigan,https://en.wikipedia.org/w/index.php?title=Petoskey_Winter_Sports_Park&action=edit&redlink=1,,,,,,,,,,,,,
+Pine Knob Ski Resort,Michigan,https://en.wikipedia.org/wiki/Pine_Knob,,,,,,,,,,42°44′32″N 83°22′02″W ﻿ / ﻿ 42.7422524°N 83.3671629°W ﻿ / 42.7422524; -83.3671629,,,
+Pine Mountain Resort,Michigan,https://en.wikipedia.org/w/index.php?title=Pine_Mountain_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Porcupine Mountains Ski Area,Michigan,https://en.wikipedia.org/wiki/Porcupine_Mountains_Ski_Area,"Michigan , United States","1,338 ft (408 m)",911 ft (278 m),560 ft (170 m),250 acres (1.0 km 2 ),20,,200 inches (510 cm),https://porkies.ski/,46°48′N 89°40′W ﻿ / ﻿ 46.8°N 89.67°W ﻿ / 46.8; -89.67,,,
+Shanty Creek Resorts,Michigan,https://en.wikipedia.org/w/index.php?title=Shanty_Creek_Resorts&action=edit&redlink=1,,,,,,,,,,,,,
+Ski Brule,Michigan,https://en.wikipedia.org/wiki/Ski_Brule,,,,,,,,,,,,,
+Snow Snake Ski & Golf,Michigan,https://en.wikipedia.org/w/index.php?title=Snow_Snake_Ski_%26_Golf&action=edit&redlink=1,,,,,,,,,,,,,
+Snow River Mountain Resort,Michigan,https://en.wikipedia.org/wiki/Snow_River_Mountain_Resort,"Wakefield Township, Michigan , United States","1,743 ft (531 m)","1,201 ft (366 m)",543 feet (166 m),195 acres (0.79 km 2 ),"Black River Basin: 27
+Jackson Creek Summit: 43",,17 ft (5.2 m) annual,http://www.snowriver.com,46.50000°N 89.97083°W,,,
+Swiss Valley Ski and Snowboard Area,Michigan,https://en.wikipedia.org/w/index.php?title=Swiss_Valley_Ski_and_Snowboard_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Timber Ridge Ski Area,Michigan,https://en.wikipedia.org/wiki/Timber_Ridge_Ski_Area,,,,,,,,,,,,,
+Treetops Resort,Michigan,https://en.wikipedia.org/wiki/Treetops_Resort,"Gaylord , Michigan , USA",,,,,,,,https://www.treetops.com/,,,,
+Afton Alps,Minnesota,https://en.wikipedia.org/wiki/Afton_Alps,"Denmark Township, Washington County",700 feet (210 m),350 feet (110 m),350 ft (107 m),300 acres (120 ha),50 total - 25% beginner - 50% intermediate - 25% advanced,,,http://www.aftonalps.com/,44.85556°N 92.78917°W,Vail Resorts,,Operating
+Andes Tower Hills,Minnesota,https://en.wikipedia.org/w/index.php?title=Andes_Tower_Hills&action=edit&redlink=1,,,,,,,,,,,,,
+Buck Hill,Minnesota,https://en.wikipedia.org/wiki/Buck_Hill,"Burnsville, Minnesota , U.S.","1,211 ft (369 m)",949 ft (289 m),262 ft (80 m),,16 total - 6 easiest - 6 more difficult - 4 most difficult,,60 inches (150 cm),http://www.buckhill.com,44°43′26″N 93°16′59″W ﻿ / ﻿ 44.724°N 93.283°W ﻿ / 44.724; -93.283,,,
+Buena Vista Ski Area,Minnesota,https://en.wikipedia.org/wiki/Buena_Vista_Ski_Area,,,,,,,,,,,,,
+Chester Bowl Park,Minnesota,https://en.wikipedia.org/w/index.php?title=Chester_Bowl_Park&action=edit&redlink=1,,,,,,,,,,,,,
+Coffee Mill Ski Area,Minnesota,https://en.wikipedia.org/w/index.php?title=Coffee_Mill_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Detroit Mountain,Minnesota,https://en.wikipedia.org/w/index.php?title=Detroit_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+Elm Creek,Minnesota,https://en.wikipedia.org/w/index.php?title=Elm_Creek_Winter_Recreation_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Giants Ridge,Minnesota,https://en.wikipedia.org/wiki/Giants_Ridge,"Biwabik, Minnesota","1,972 feet (601 m)","1,472 feet (449 m)",500 ft (152 m),202 acres (82 ha),35 total - 30% beginner - 50% intermediate - 20% advanced,,,https://www.giantsridge.com/,47.575714°N 92.303298°W,,,
+Hyland Ski and Snowboard Area,Minnesota,https://en.wikipedia.org/wiki/Hyland_Ski_and_Snowboard_Area,"Bloomington, Minnesota , U.S.","1,075 ft (328 m)",900 ft (270 m),175 ft (53 m),,13 total - 3 easiest - 4 more difficult - 4 most difficult 2 Freestyle Terrain,,60 in (150 cm),https://www.threeriversparks.org/location/hyland-hills-ski-area,44°50′38″N 93°21′50″W ﻿ / ﻿ 44.844°N 93.364°W ﻿ / 44.844; -93.364,,,
+Lutsen Mountains,Minnesota,https://en.wikipedia.org/wiki/Lutsen_Mountains,"Lutsen Township , Minnesota , Minnesota","1,678 ft (511 m)",905 ft (276 m),773 ft (236 m),593 acres (2.40 km 2 ),95 18 – Easiest 47 – More Difficult 25 – Most Difficult 10 – Expert,,app. 115 in (290 cm),http://www.lutsen.com/,47°39′50″N 90°42′50″W ﻿ / ﻿ 47.664°N 90.714°W ﻿ / 47.664; -90.714,,,
+Mount Itasca,Minnesota,https://en.wikipedia.org/w/index.php?title=Mount_Itasca&action=edit&redlink=1,,,,,,,,,,,,,
+Mount Kato,Minnesota,https://en.wikipedia.org/wiki/Mount_Kato,"Mankato Township, Blue Earth County, Minnesota , U.S.",840 feet (260 m),,240 feet (73 m),"55 acres (220,000 m 2 )",19 total,,50 inches/year,http://www.mountkato.com,44.13139°N 94.03639°W,,,
+Powder Ridge,Minnesota,https://en.wikipedia.org/w/index.php?title=Powder_Ridge&action=edit&redlink=1,,,,,,,,,,,,,
+Ski Gull,Minnesota,https://en.wikipedia.org/w/index.php?title=Ski_Gull&action=edit&redlink=1,,,,,,,,,,,,,
+Spirit Mountain,Minnesota,https://en.wikipedia.org/wiki/Spirit_Mountain_(ski_area),"Duluth, Minnesota","1,298 ft (396 m)",620 ft (190 m),678 ft (207 m),175 acres (0.71 km 2 ),"22 skiing, 12 downhill mountain biking",,90 inches (average) / 138 inches (record),http://www.spiritmt.com,46.71944°N 92.21806°W,,,
+Welch Village,Minnesota,https://en.wikipedia.org/wiki/Welch_Village,"Vasa Township, Goodhue County, Minnesota","1,060 ft (320 m)",700 ft (210 m),360 ft (110 m),140 acres (0.57 km 2 ),50,,45 inches,https://welchvillage.com/,44°33′38″N 92°43′38″W ﻿ / ﻿ 44.56056°N 92.72722°W ﻿ / 44.56056; -92.72722,,,
+Wild Mountain,Minnesota,https://en.wikipedia.org/wiki/Wild_Mountain,"Amador Township, Chisago County, Minnesota",,,,,26,,40 inches,http://www.wildmountain.com/,45.48889°N 92.70556°W,,December 1960,
+Hidden Valley Ski Area,Missouri,https://en.wikipedia.org/wiki/Hidden_Valley_Ski_Area,"Wildwood , Missouri , United States",860 ft (262 m),,320 ft (98 m),65 acres (26 ha),16 total - 25% beginner - 33% intermediate - 19% advanced - 13% terrain parks,,,http://www.hiddenvalleyski.com/,38°32′08″N 90°39′10″W ﻿ / ﻿ 38.535578°N 90.65287°W ﻿ / 38.535578; -90.65287,Vail Resorts,1982 ( 1982 ),Operating
+Snow Creek,Missouri,https://en.wikipedia.org/wiki/Snow_Creek_(ski_resort),"Weston , Missouri , U.S.",,,300 ft (91 m),25 acres (10 ha),12,,,http://www.skisnowcreek.com/,39°28′07″N 94°58′19″W ﻿ / ﻿ 39.468651°N 94.971964°W ﻿ / 39.468651; -94.971964,,,
+Bottineau Winter Park,North Dakota,https://en.wikipedia.org/wiki/Bottineau_Winter_Park,"Bottineau County , North Dakota , U.S.","2,450 ft (747 m) AMSL","2,270 ft (692 m)",180 ft (55 m),40 acres (0.16 km 2 ),9 - 2 -  easiest - 3 - more difficult - 4 - most difficult,,,https://skibwp.com/,48°57′04″N 100°28′23″W ﻿ / ﻿ 48.951°N 100.473°W ﻿ / 48.951; -100.473,,,
+Frost Fire,North Dakota,https://en.wikipedia.org/wiki/Frost_Fire_Ski_and_Snow_Board_Area,"Cavalier County , North Dakota , U.S.","1,400 ft (427 m) AMSL","1,070 ft (326 m)",350 ft (107 m),,10 - 4 -  easiest - 3 - more difficult - 3 - most difficult,,,http://www.frostfirepark.org,48°54′43″N 98°04′05″W ﻿ / ﻿ 48.912°N 98.068°W ﻿ / 48.912; -98.068,,,
+Huff Hills,North Dakota,https://en.wikipedia.org/wiki/Huff_Hills,,,,,,,,,,,,,
+Alpine Valley Ski Area,Ohio,https://en.wikipedia.org/wiki/Alpine_Valley_Ski_Area,"Munson Township , Ohio , US","1,500 ft (460 m)","1,260 ft (380 m)",252 ft (77 m),72 acres (29 ha),9,,120 in (300 cm),http://www.alpinevalleyohio.com/,41°31′49″N 81°15′58″W ﻿ / ﻿ 41.5303°N 81.2662°W ﻿ / 41.5303; -81.2662,Vail Resorts,,Operating
+Big Creek Ski Area,Ohio,https://en.wikipedia.org/w/index.php?title=Big_Creek_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Boston Mills/Brandywine Ski Resort,Ohio,https://en.wikipedia.org/wiki/Boston_Mills/Brandywine_Ski_Resort,"Boston Township / Sagamore Hills Township , Summit County , near Peninsula, Ohio , USA",,,240 ft,79 acres,18,,,http://bmbw.com,41°15′53″N 81°33′52″W ﻿ / ﻿ 41.2648°N 81.5644°W ﻿ / 41.2648; -81.5644 (Boston Mills) 41°17′06″N 81°33′06″W ﻿ / ﻿ 41.2849°N 81.5517°W ﻿ / 41.2849; -81.5517 (Brandywine),EPR Properties,,Operating
+Mad River Mountain,Ohio,https://en.wikipedia.org/wiki/Mad_River_Mountain,"Valley Hi, Ohio ( Jefferson Township, Logan County, Ohio )","1,460 feet (450 m)","1,160 feet (350 m)",,144 acres (0.58 km 2 ),20,,36 inches (91 cm),http://www.skimadriver.com/,40°18′58.74″N 83°40′50.03″W ﻿ / ﻿ 40.3163167°N 83.6805639°W ﻿ / 40.3163167; -83.6805639,,,
+Snow Trails Ski Resort,Ohio,https://en.wikipedia.org/w/index.php?title=Snow_Trails_Ski_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Mystic Miner Ski Resort,South Dakota,https://en.wikipedia.org/wiki/Mystic_Miner_Ski_Resort,"Lawrence County, South Dakota , United States","6,654 feet",,699 feet,,44 total,,,https://deermountainvillage.com/,44°18′30.36″N 103°49′6.39″W ﻿ / ﻿ 44.3084333°N 103.8184417°W ﻿ / 44.3084333; -103.8184417,"Keating Resources, LLC",,
+Great Bear Recreation Park,South Dakota,https://en.wikipedia.org/wiki/Great_Bear_Recreation_Park,"Sioux Falls , South Dakota, USA","1,530 feet (470 m)","1,352 feet (412 m)",178 feet (54 m),,14 total,,,https://www.greatbearpark.com,43°34′55.56″N 96°39′53.88″W ﻿ / ﻿ 43.5821000°N 96.6649667°W ﻿ / 43.5821000; -96.6649667,,,
+Terry Peak Ski Area,South Dakota,https://en.wikipedia.org/wiki/Terry_Peak,"Lawrence County, South Dakota , U.S.","7,064 feet (2,153 m)","5,900 feet (1,798 m)","1,164 feet (355 m)",450 acres (1.8 km 2 ),30 total,,,http://www.terrypeak.com/,44°19′44″N 103°50′06″W ﻿ / ﻿ 44.329°N 103.835°W ﻿ / 44.329; -103.835,,,
+Alpine Valley Resort,Wisconsin,https://en.wikipedia.org/wiki/Alpine_Valley_Resort_(Wisconsin),"Town of Lafayette , Walworth County , Wisconsin , U.S.",,,,90 acres (36 ha),21,,,http://www.alpinevalleyresort.com,42°44′10″N 88°25′41″W ﻿ / ﻿ 42.736°N 88.428°W ﻿ / 42.736; -88.428,,,
+Ausblick Ski Club,Wisconsin,https://en.wikipedia.org/w/index.php?title=Ausblick_Ski_Club&action=edit&redlink=1,,,,,,,,,,,,,
+Badlands Sno-Park,Wisconsin,https://en.wikipedia.org/w/index.php?title=Badlands_Sno-Park&action=edit&redlink=1,,,,,,,,,,,,,
+Book Across the Bay,Wisconsin,https://en.wikipedia.org/wiki/Book_Across_the_Bay,,,,,,,,,,,,,
+Blackhawk Ski Club,Wisconsin,https://en.wikipedia.org/w/index.php?title=Blackhawk_Ski_Club&action=edit&redlink=1,,,,,,,,,,,,,
+Bruce Mound Winter Sports Area,Wisconsin,https://en.wikipedia.org/w/index.php?title=Bruce_Mound_Winter_Sports_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Camp 10,Wisconsin,https://en.wikipedia.org/w/index.php?title=Camp_10&action=edit&redlink=1,,,,,,,,,,,,,
+Cascade Mountain,Wisconsin,https://en.wikipedia.org/wiki/Cascade_Mountain_(ski_area),"Portage, Wisconsin",1270 ft,820 ft,450 ft,175 acres,48,,,http://www.cascademountain.com/,43°30′14.14″N 89°31′4.86″W ﻿ / ﻿ 43.5039278°N 89.5180167°W ﻿ / 43.5039278; -89.5180167,,,Operating
+Christie Mountain,Wisconsin,https://en.wikipedia.org/w/index.php?title=Christie_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+Christmas Mountain Village,Wisconsin,https://en.wikipedia.org/w/index.php?title=Christmas_Mountain_Village&action=edit&redlink=1,,,,,,,,,,,,,
+Crystal Ridge,Wisconsin,https://en.wikipedia.org/w/index.php?title=Crystal_Ridge&action=edit&redlink=1,,,,,,,,,,,,,
+Devils Head Resort,Wisconsin,https://en.wikipedia.org/wiki/Devils_Head_Resort,"Town of Merrimac , Wisconsin","1,490 ft",990 ft,500 ft,268 acres (1.08 km 2 ),30,,55 in,https://www.devilsheadresort.com/ski-resort-mountain-sauk-merrimac-wi-wisconsin/,43.42306°N 89.62694°W,,,
+Fox Hill Ski Area,Wisconsin,https://en.wikipedia.org/w/index.php?title=Fox_Hill_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Granite Peak,Wisconsin,https://en.wikipedia.org/wiki/Granite_Peak_Ski_Area,"Rib Mountain CDP , Town of Rib Mountain , Marathon County , Wisconsin , U.S.","1,950 ft (594 m)","1,250 ft (381 m)",700 ft (213 m),,58,,,https://www.skigranitepeak.com/,44°55′43″N 89°40′57″W ﻿ / ﻿ 44.92861°N 89.68250°W ﻿ / 44.92861; -89.68250,,,
+Heiliger Huegel Ski Club,Wisconsin,https://en.wikipedia.org/w/index.php?title=Heiliger_Huegel_Ski_Club&action=edit&redlink=1,,,,,,,,,,,,,
+Kettlebowl,Wisconsin,https://en.wikipedia.org/wiki/Kettlebowl,"Town of Langlade , Langlade County, Wisconsin , USA",,,,,5 total 80% beginner 20% intermediate,,,https://kettlebowl.org,45°16′16.7628″N 88°54′7.1238″W ﻿ / ﻿ 45.271323000°N 88.901978833°W ﻿ / 45.271323000; -88.901978833,,,
+Kewaunee County Winter Park Ski Hill,Wisconsin,https://en.wikipedia.org/w/index.php?title=Kewaunee_County_Winter_Park_Ski_Hill&action=edit&redlink=1,,,,,,,,,,,,,
+Keyes Peak,Wisconsin,https://en.wikipedia.org/w/index.php?title=Keyes_Peak&action=edit&redlink=1,,,,,,,,,,,,,
+Little Switzerland Ski Area,Wisconsin,https://en.wikipedia.org/wiki/Little_Switzerland_(Wisconsin),"Slinger, Wisconsin","1,269ft","1,069ft",200ft,50ac,18,,"45""",http://littleswitz.com,43.33778°N 88.27889°W,,,
+Mont Du Lac,Wisconsin,https://en.wikipedia.org/w/index.php?title=Mont_Du_Lac&action=edit&redlink=1,,,,,,,,,,,,,
+The Mountain Top at Grand Geneva Resort,Wisconsin,https://en.wikipedia.org/w/index.php?title=The_Mountain_Top_at_Grand_Geneva_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Mt. Ashwabay,Wisconsin,https://en.wikipedia.org/w/index.php?title=Mt._Ashwabay&action=edit&redlink=1,,,,,,,,,,,,,
+Mt. LaCrosse,Wisconsin,https://en.wikipedia.org/w/index.php?title=Mt._LaCrosse&action=edit&redlink=1,,,,,,,,,,,,,
+Navarino Slopes,Wisconsin,https://en.wikipedia.org/w/index.php?title=Navarino_Slopes&action=edit&redlink=1,,,,,,,,,,,,,
+Nordic Mountain,Wisconsin,https://en.wikipedia.org/w/index.php?title=Nordic_Mountain&action=edit&redlink=1,,,,,,,,,,,,,
+Nutt Hill,Wisconsin,https://en.wikipedia.org/w/index.php?title=Nutt_Hill&action=edit&redlink=1,,,,,,,,,,,,,
+Powers Bluff,Wisconsin,https://en.wikipedia.org/wiki/Powers_Bluff,"Arpin, Wisconsin",,,,,,,,,,,,
+Standing Rocks,Wisconsin,https://en.wikipedia.org/w/index.php?title=Standing_Rocks&action=edit&redlink=1,,,,,,,,,,,,,
+Sunburst Ski Area,Wisconsin,https://en.wikipedia.org/w/index.php?title=Sunburst_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Telemark Lodge,Wisconsin,https://en.wikipedia.org/wiki/Telemark_Lodge,,,,,,,,,,,,,
+Triangle Sports Area,Wisconsin,https://en.wikipedia.org/w/index.php?title=Triangle_Sports_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Trollhaugen,Wisconsin,https://en.wikipedia.org/wiki/Trollhaugen,,,,,,,,,,,,,
+Tyrol Basin,Wisconsin,https://en.wikipedia.org/wiki/Tyrol_Basin,"Town of Vermont, Wisconsin","1,130 ft",830 ft,300 ft,"32 acres (130,000 m 2 )",22,,,http://tyrolbasin.com,43°02′N 89°46′W ﻿ / ﻿ 43.04°N 89.77°W ﻿ / 43.04; -89.77,,,
+Whitecap Mountains,Wisconsin,https://en.wikipedia.org/wiki/Whitecap_Mountains,,,,,,,,,,,,,
+Whitetail Ridge,Wisconsin,https://en.wikipedia.org/w/index.php?title=Whitetail_Ridge&action=edit&redlink=1,,,,,,,,,,,,,
+Wilmot Mountain,Wisconsin,https://en.wikipedia.org/wiki/Wilmot_Mountain,"Wilmot, Wisconsin , U.S.",960 ft (293 m),770 ft (235 m),190 ft (58 m),120 acres (0.49 km 2 ),23,,48 in (120 cm),http://www.wilmotmountain.com,42.50000°N 88.18889°W,,,
+Arizona Snowbowl,Arizona,https://en.wikipedia.org/wiki/Arizona_Snowbowl,"Coconino County, Arizona , United States","11,500 ft (3,505 m)","9,200 ft (2,805 m)","2,300 ft (700 m)",777 acres (3.14 km 2 ),55 (Including hike-to terrain) – 37% easiest – 42% more difficult – 21% most difficult,,260 in (660 cm) / year,https://www.snowbowl.ski/,35°19′48″N 111°42′18″W ﻿ / ﻿ 35.330°N 111.705°W ﻿ / 35.330; -111.705,,,
+Elk Ridge Ski Area,Arizona,https://en.wikipedia.org/w/index.php?title=Elk_Ridge_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Mount Lemmon Ski Valley,Arizona,https://en.wikipedia.org/wiki/Mount_Lemmon_Ski_Valley,"Pima County, Arizona , USA","9,157 feet (2,791 m)","8,200 feet (2,499 m)",,200 acres (0.81 km 2 ),21 20% beginner 38% intermediate 42% advanced/expert,,180 in/year (457.2 cm/year),http://www.skithelemmon.com/,32°27′08″N 110°47′02″W ﻿ / ﻿ 32.45222°N 110.78389°W ﻿ / 32.45222; -110.78389,,,
+Sunrise Park Resort,Arizona,https://en.wikipedia.org/wiki/Sunrise_Park_Resort,"Apache County, Arizona , United States","11,100 feet (3,400 m)","9,200 feet (2,800 m)","1,900 ft (580 m)","1,200 acres (4.9 km 2 )",67 total 46% beginner 28% intermediate 25% advanced/expert,,250 in/year ( 6.35 m/year),https://www.sunrise.ski/,33°58′24″N 109°33′53″W ﻿ / ﻿ 33.97333°N 109.56472°W ﻿ / 33.97333; -109.56472,,,
+Arapahoe Basin,Colorado,https://en.wikipedia.org/wiki/Arapahoe_Basin,"White River National Forest Summit County , Colorado , U.S.","13,050 ft (3,978 m)","10,780 ft (3,286 m)","2,530 ft (771 m)","1,428 acres (5.78 km 2 )",145 : 7% Easiest : 20% More Difficult : 49% Most Difficult : 24% Extreme,,350 in (890 cm),http://arapahoebasin.com,39°38′30″N 105°52′18″W ﻿ / ﻿ 39.64167°N 105.87167°W ﻿ / 39.64167; -105.87167,,,
+Aspen/Snowmass,Colorado,https://en.wikipedia.org/wiki/Aspen/Snowmass,,,,,,,,,,,,,
+Beaver Creek Resort,Colorado,https://en.wikipedia.org/wiki/Beaver_Creek_Resort,"Eagle County, Colorado , U.S.","11,440 feet (3,490 m)","8,100 feet (2,500 m)","3,340 feet (1,020 m)","2,082 acres (8.43 km 2 )",167 – 28% beginner – 38% intermediate – 34% advanced/expert,,323 inches (820 cm) per yr,https://www.beavercreek.com/,39°37′53″N 106°31′18″W ﻿ / ﻿ 39.63139°N 106.52167°W ﻿ / 39.63139; -106.52167,Vail Resorts,,Operating
+Breckenridge Ski Resort,Colorado,https://en.wikipedia.org/wiki/Breckenridge_Ski_Resort,"White River National Forest Summit County, Colorado","12,998 feet (3,962 m)","9,600 feet (2,900 m)","3,398 feet (1,036 m)","2,908 acres (11.77 km 2 )",187 total - 14% beginner - 31% intermediate - 19% advanced - 36% expert,,355 in (900 cm) per year,http://www.breckenridge.com/,39°28′48″N 106°04′01″W ﻿ / ﻿ 39.480°N 106.067°W ﻿ / 39.480; -106.067,Vail Resorts,,Operating
+Chapman Hill Ski Area,Colorado,https://en.wikipedia.org/w/index.php?title=Chapman_Hill_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Copper Mountain Resort,Colorado,https://en.wikipedia.org/wiki/Copper_Mountain_(Colorado),"White River National Forest Summit County, Colorado , U.S.","12,313 ft (3,753 m)","9,712 ft (2,960 m)","2,601 ft (793 m)","2,465 acres (10.0 km 2 )",140+ total : 21% easiest : 25% intermediate : 36% advanced : 18% expert,,310 in (790 cm),http://www.coppercolorado.com,39°30′06″N 106°09′23″W ﻿ / ﻿ 39.50167°N 106.15639°W ﻿ / 39.50167; -106.15639,POWDR,,
+Cranor Ski Area,Colorado,https://en.wikipedia.org/w/index.php?title=Cranor_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Crested Butte Mountain Resort,Colorado,https://en.wikipedia.org/wiki/Crested_Butte_Mountain_Resort,"Gunnison County, Colorado , USA","12,162 feet (3,707 m)","9,375 feet (2,858 m)","3,055 ft (931 m)","1,547 acres (6.26 km 2 )",121 23% beginner 57% intermediate 20% advanced/expert,,300 inches (7.6 m) per year,https://www.skicb.com/,38°53′59″N 106°57′54″W ﻿ / ﻿ 38.89972°N 106.96500°W ﻿ / 38.89972; -106.96500,Vail Resorts,,Operating
+Echo Mountain Resort,Colorado,https://en.wikipedia.org/wiki/Echo_Mountain_Resort,"Clear Creek County, Colorado , United States","10,650 ft (3,250 m)","10,050 ft (3,060 m)",600 ft (180 m),226+ acres,13 total - 3 easiest - 6 more difficult - 4 most difficult,,275 in/year,https://echomtn.com/,39°41′6″N 105°31′10″W ﻿ / ﻿ 39.68500°N 105.51944°W ﻿ / 39.68500; -105.51944,,,
+Eldora Mountain Resort,Colorado,https://en.wikipedia.org/wiki/Eldora_Mountain_Resort,"Boulder County , Colorado , U.S.","10,600 ft (3,231 m)","9,360 ft (2,853 m)","1,240 ft (378 m)",680 acres (2.8 km 2 ),53 total – 20% easiest – 50% more difficult – 30% most difficult,,300 inches (25 ft; 7.6 m),https://www.eldora.com/,39°56′15″N 105°35′1″W ﻿ / ﻿ 39.93750°N 105.58361°W ﻿ / 39.93750; -105.58361,POWDR,,
+Hesperus Ski Area,Colorado,https://en.wikipedia.org/wiki/Hesperus_Ski_Area,"Hesperus La Plata County , Colorado","8,888 ft (2,709 m)","8,200 ft (2,500 m)",>700 ft (210 m),60 acres (0.2 km 2 ),26 – 30% easiest – 20% more difficult – 50% experts only,,150 inches (380 cm),https://www.ski-hesperus.com/,37°17′52″N 108°03′18″W ﻿ / ﻿ 37.29778°N 108.05500°W ﻿ / 37.29778; -108.05500,,,
+Howelsen Hill Ski Area,Colorado,https://en.wikipedia.org/wiki/Howelsen_Hill_Ski_Area,"Steamboat Springs , Colorado , U.S.","7,136 ft (2,175 m)","6,696 ft (2,041 m)",440 ft (134 m),50 acres (0.2 km 2 ),17 alpine  9 nordic,,170 in (432 cm),https://steamboatsprings.net/131/Howelsen-Hill-Ski-Area,40°28′59″N 106°50′20″W ﻿ / ﻿ 40.483°N 106.839°W ﻿ / 40.483; -106.839,"Steamboat Springs, Colorado (Parks & Recreation)",,Operating
+Kendall Mountain Ski Area,Colorado,https://en.wikipedia.org/wiki/Kendall_Mountain_Ski_Area,,,,,,,,,,,,,
+Keystone Resort,Colorado,https://en.wikipedia.org/wiki/Keystone_Resort,"White River National Forest Summit County, Colorado , United States","12,408 feet (3,782 m)","9,280 feet (2,830 m)","3,128 feet (953 m)","3,148 acres (12.7 km 2 )",135 total (19% beginner 32% intermediate 49% advanced),,230 inches (19.2 ft; 5.8 m),https://www.keystoneresort.com/,39°36′18″N 105°57′15″W ﻿ / ﻿ 39.60500°N 105.95417°W ﻿ / 39.60500; -105.95417,Vail Resorts,,Operating
+Lake City Ski Hill,Colorado,https://en.wikipedia.org/w/index.php?title=Lake_City_Ski_Hill&action=edit&redlink=1,,,,,,,,,,,,,
+Loveland Ski Area,Colorado,https://en.wikipedia.org/wiki/Loveland_Ski_Area,"Arapahoe National Forest Clear Creek County , Colorado , U.S.","13,010 ft (3,965 m) (Basin) 11,250 ft (3,429 m) (Valley)","10,800 ft (3,292 m) (Basin) 10,400 ft (3,170 m) (Valley)","2,210 ft (674 m) (Basin) 850 ft (259 m) (Valley)","1,800 acres (7.3 km 2 )",94 total : 13% beginner : 41% intermediate : 46% advanced/expert,,"422 inches (1,070 cm)",http://www.skiloveland.com,39°40′48″N 105°53′49″W ﻿ / ﻿ 39.680°N 105.897°W ﻿ / 39.680; -105.897,,,
+Monarch Ski Area,Colorado,https://en.wikipedia.org/wiki/Monarch_Ski_Area,"Chaffee County , Colorado , United States","11,960 feet (3,650 m)","10,790 feet (3,290 m)",,800 acres (3.2 km 2 ),63 total 14% beginner 28% Intermediate 27% Advanced 31% Expert,,400 in/year (1016 cm/year),https://skimonarch.com/,38°30′45″N 106°19′57″W ﻿ / ﻿ 38.51250°N 106.33250°W ﻿ / 38.51250; -106.33250,,,
+Powderhorn Resort,Colorado,https://en.wikipedia.org/wiki/Powderhorn_Resort,"Mesa County, Colorado , United States","9,850 feet (3,000 m)","8,200 ft","1,650 ft","1,600 acres (6.5 km 2 )",63 total 20% beginner 50% intermediate 30% advanced/expert,,250 in/year,https://www.powderhorn.com/,39°3′47″N 108°9′20″W ﻿ / ﻿ 39.06306°N 108.15556°W ﻿ / 39.06306; -108.15556,,,
+Purgatory Resort,Colorado,https://en.wikipedia.org/wiki/Purgatory_Resort,"La Plata County, Colorado , United States","10,822 ft (3,299 m)","8,793 ft (2,680 m)","2,029 ft (618 m)","1,650 acres (6.7 km 2 )",105 total 22% beginner 35% intermediate 43% advanced,,260 inches,https://www.purgatory.ski/,37°37′47″N 107°48′52″W ﻿ / ﻿ 37.62972°N 107.81444°W ﻿ / 37.62972; -107.81444,,,
+Silverton Mountain,Colorado,https://en.wikipedia.org/wiki/Silverton_Mountain,"Storm Peak Silverton, Colorado , US","13,487 feet (4,111 m)","10,400 feet (3,200 m)",,1819 acres,,,450-500 in,https://silvertonmountain.com/,37°53′05″N 107°39′55″W ﻿ / ﻿ 37.88470°N 107.66529°W ﻿ / 37.88470; -107.66529,,,
+Ski Cooper,Colorado,https://en.wikipedia.org/wiki/Ski_Cooper,"Eagle / Lake counties, Colorado , USA","11,700 feet (3,566 m)","10,500 feet (3,200 m)","1,200 feet (366 m)","470 acres (1.9 km 2 ) lift served 2,400 acres (9.7 km 2 ) snowcat served",60 total - 31% beginner - 35% intermediate - 34% advanced/expert,,250 inches (640 cm),https://www.skicooper.com/,39°21′36″N 106°18′07″W ﻿ / ﻿ 39.360°N 106.302°W ﻿ / 39.360; -106.302,,,
+Ski Granby Ranch,Colorado,https://en.wikipedia.org/w/index.php?title=Ski_Granby_Ranch&action=edit&redlink=1,,,,,,,,,,,,,
+Steamboat Ski Resort,Colorado,https://en.wikipedia.org/wiki/Steamboat_Ski_Resort,"Routt County , Colorado, United States.","10,568 feet (3,221 m)","6,900 feet (2,103 m)","3,668 feet (1,118 m)","3,741 acres (15.1 km 2 )",170 total - 14% beginner - 42% intermediate - 44% advanced,,400 inches (33.3 ft; 10.2 m),https://www.steamboat.com,40°27′32″N 106°48′11″W ﻿ / ﻿ 40.459°N 106.803°W ﻿ / 40.459; -106.803,Alterra Mountain Company,,Operating
+Sunlight Ski Area,Colorado,https://en.wikipedia.org/wiki/Sunlight_Ski_Area,"White River National Forest , Garfield County, Colorado , U.S.","9,895 feet (3,016 m)","7,885 feet (2,403 m)","2,010 feet (613 m)",680 acres (2.8 km 2 ),67 total - 20% beginner - 55% intermediate - 20% advanced - 5% expert,,250 in (635 cm),https://sunlightmtn.com/,39°23′59.3″N 107°20′21.4″W ﻿ / ﻿ 39.399806°N 107.339278°W ﻿ / 39.399806; -107.339278,,,
+Telluride Ski Resort,Colorado,https://en.wikipedia.org/wiki/Telluride_Ski_Resort,"Telluride , Colorado , United States","13,150 ft (4,010 m)","8,725 ft (2,659 m)","4,425 ft (1,349 m) including hike-to  3,845 ft (1,172 m) lift-served","2,000 acres (8.1 km 2 )",127 23% beginner 36% intermediate 41% advanced/expert,,330 in/year (838 cm/year),http://tellurideskiresort.com,37°56′11″N 107°49′13″W ﻿ / ﻿ 37.93639°N 107.82028°W ﻿ / 37.93639; -107.82028,,,Operating
+Vail Ski Resort,Colorado,https://en.wikipedia.org/wiki/Vail_Ski_Resort,"Vail , Eagle County , Colorado , United States","11,570 ft (3,527 m)","8,120 ft (2,475 m)","3,450 ft (1,052 m)","5,317 acres (8.3 mi 2 ; 21.5 km 2 )",195 total 18% beginner 29% intermediate 53% advanced,,354 in (29.5 ft; 9.0 m),http://www.vail.com/,39°38′20″N 106°22′26″W ﻿ / ﻿ 39.639°N 106.374°W ﻿ / 39.639; -106.374,Vail Resorts,,Operating
+Winter Park Resort,Colorado,https://en.wikipedia.org/wiki/Winter_Park_Resort,"Grand County , Colorado , U.S.","12,060 feet (3,676 m)","9,000 feet (2,743 m)","3,060 feet (933 m)","3,081 acres (12.5 km 2 )",167 total 8% beginner 18% intermediate 19% advanced 52% most difficult 3% expert,,370 in (30.8 ft; 9.4 m),https://www.winterparkresort.com/,39°53′13″N 105°45′45″W ﻿ / ﻿ 39.88694°N 105.76250°W ﻿ / 39.88694; -105.76250,City and County of Denver,,Operating
+Wolf Creek ski area,Colorado,https://en.wikipedia.org/wiki/Wolf_Creek_ski_area,"Mineral County, Colorado , USA","11,904 feet (3,628 m)","10,300 feet (3,100 m)",,"1,600 acres (6.5 km 2 )",77 20% Beginner 35% Intermediate 25% Advanced 20% Expert,,430 in/year (10.9 m/year),https://wolfcreekski.com/,37°28′20″N 106°47′36″W ﻿ / ﻿ 37.47222°N 106.79333°W ﻿ / 37.47222; -106.79333,,,
+Bald Mountain,Idaho,https://en.wikipedia.org/wiki/Bald_Mountain_Ski_Area,"Clearwater County , Idaho , U.S.","4,400 ft (1,341 m)","3,716 ft (1,133 m) 4,000 ft (1,219 m) main lodge",684 ft (208 m),140 acres (0.57 km 2 ),15 - 25% easiest - 40% more difficult - 35% most difficult,,100 inches (250 cm),http://www.skibaldmountain.com/about.html,46°34′N 115°52′W ﻿ / ﻿ 46.57°N 115.87°W ﻿ / 46.57; -115.87,,,
+Bogus Basin,Idaho,https://en.wikipedia.org/wiki/Bogus_Basin,"Boise National Forest Boise County , Idaho , U.S.","7,582 ft (2,311 m) AMSL","5,790 ft (1,765 m) Pine Creek - (Chair 6) 6,150 ft (1,875 m) main base area - (Chair 1)","1,790 ft (546 m)","2,600 acres (10.5 km 2 )",90 - 22% easiest - 45% more difficult - 33% most difficult,,250 in (640 cm),https://www.bogusbasin.org,43°45′50″N 116°06′14″W ﻿ / ﻿ 43.764°N 116.104°W ﻿ / 43.764; -116.104,,,Operating
+Brundage Mountain,Idaho,https://en.wikipedia.org/wiki/Brundage_Mountain,"Payette National Forest Adams & Valley counties, Idaho , U.S.","7,640 ft (2,330 m)","5,840 ft (1,780 m) Centennial 6,000 ft (1,830 m) main base area","1,800 ft (550 m)","1,500 acres (610 ha)",46 - 20% easiest - 50% more difficult - 30% most difficult,,300–350 in (760–890 cm),http://www.brundage.com,45°00′18″N 116°09′18″W ﻿ / ﻿ 45.005°N 116.155°W ﻿ / 45.005; -116.155,,,
+Cottonwood Butte,Idaho,https://en.wikipedia.org/wiki/Cottonwood_Butte,"Idaho County , Idaho , U.S.","5,730 ft (1,747 m) 5,566 ft (1,697 m) - lift","4,721 ft (1,439 m)",845 ft (258 m),260 acres (1.1 km 2 ),7,,45 in (110 cm),http://www.cottonwoodbutte.org/,46°04′32″N 116°27′10″W ﻿ / ﻿ 46.0755°N 116.4528°W ﻿ / 46.0755; -116.4528,,,
+Kelly Canyon,Idaho,https://en.wikipedia.org/wiki/Kelly_Canyon,"Targhee National Forest Jefferson County & Madison County , Idaho , United States","6,600 feet (2,012 m)","5,600 feet (1,707 m)","1,000 feet (305 m)",640 acres (2.6 km 2 ),26 - 35% easiest - 45% more difficult - 20% most difficult,,200 inches (510 cm),http://www.kellycanyonresort.com/,43°38′45″N 111°37′48″W ﻿ / ﻿ 43.64583°N 111.63000°W ﻿ / 43.64583; -111.63000,,,
+Little Ski Hill,Idaho,https://en.wikipedia.org/wiki/Little_Ski_Hill,"Adams County , Idaho , U.S.","5,600 ft (1,707 m)","5,195 ft (1,583 m)",405 ft (123 m),50 acres (20 ha),,,,http://www.littleskihill.org/,44°55′48″N 116°09′47″W ﻿ / ﻿ 44.93000°N 116.16306°W ﻿ / 44.93000; -116.16306,,,
+Lookout Pass,Idaho,https://en.wikipedia.org/wiki/Lookout_Pass_Ski_and_Recreation_Area,"Shoshone County , Idaho & Mineral County , Montana United States","6,150 ft (1,870 m)","4,500 ft (1,370 m) Timber Wolf chair 4,720 ft (1,440 m) Main base area","1,650 ft (500 m)","1,023 acres (4.1 km 2 )",52 - 14% beginner - 42% intermediate - 42% advanced - 2% expert,,"400 in (1,020 cm)",http://www.skilookout.com,47°27′11″N 115°42′25″W ﻿ / ﻿ 47.453°N 115.707°W ﻿ / 47.453; -115.707,,,
+Lost Trail Powder Mountain,Idaho,https://en.wikipedia.org/wiki/Lost_Trail_Powder_Mountain,"Lost Trail Pass Lemhi County , Idaho & Ravalli County , Montana","8,200 ft (2,500 m)","6,400 ft (1,950 m) lowest lift - #3 7,000 ft (2,134 m) main base area","1,800 ft (550 m)",900 acres (3.6 km 2 ),60+ - 20% easiest - 60% more difficult - 20% most difficult,,300 in (760 cm),http://www.losttrail.com,45°41′31″N 113°57′07″W ﻿ / ﻿ 45.692°N 113.952°W ﻿ / 45.692; -113.952,,,
+Magic Mountain,Idaho,https://en.wikipedia.org/wiki/Magic_Mountain_Resort,"Sawtooth National Forest Twin Falls Co. , Idaho , U.S.","7,240 ft (2,207 m)","6,540 ft (1,993 m)",700 ft (213 m),120 acres (0.49 km 2 ),11,,230 inches (580 cm),http://www.magicmountainresort.com/,42°11′17.9″N 114°17′10.0″W ﻿ / ﻿ 42.188306°N 114.286111°W ﻿ / 42.188306; -114.286111,,,
+Pebble Creek,Idaho,"https://en.wikipedia.org/wiki/Pebble_Creek,_Idaho","Caribou National Forest Bannock County , Idaho , U.S.","9,271 ft (2,826 m) 8,560 ft (2,609 m) - lifts","6,360 ft (1,939 m)","2,911 ft (887 m) 2,200 ft (671 m) - lifts","1,100 acres (4.5 km 2 )",54 - 12% beginner - 35% intermediate - 53% advanced,,250 inches (640 cm),http://www.pebblecreekskiarea.com,42°46′41″N 112°09′36″W ﻿ / ﻿ 42.778°N 112.160°W ﻿ / 42.778; -112.160,,,
+Sandpoint,Idaho,"https://en.wikipedia.org/wiki/Sandpoint,_Idaho",,,,,,,,,https://www.sandpointidaho.gov,48.28222°N 116.56139°W,,,
+Pomerelle,Idaho,https://en.wikipedia.org/wiki/Pomerelle,"Sawtooth National Forest Cassia County , Idaho , U.S.","8,762 ft (2,671 m)","7,760 ft (2,365 m)","1,002 ft (305 m)",500 acres (2.0 km 2 ),24 – 20% easiest – 50% more difficult – 30% most difficult,,500 inches (41.7 ft; 12.7 m),http://www.pomerelle.com,42°19′05″N 113°36′29″W ﻿ / ﻿ 42.318°N 113.608°W ﻿ / 42.318; -113.608,,,
+Rotarun,Idaho,https://en.wikipedia.org/wiki/Rotarun_Ski_Area,"25 Rodeo Drive Blaine County, Idaho , U.S.","5,895 feet (1,797 m)","5,420 feet (1,652 m)",475 feet (145 m),,,,,http://rotarun.org,43°29′51.0″N 114°21′57.6″W ﻿ / ﻿ 43.497500°N 114.366000°W ﻿ / 43.497500; -114.366000,,,
+Schweitzer Mountain,Idaho,https://en.wikipedia.org/wiki/Schweitzer_Mountain,"Bonner County , Idaho , U.S.","6,400 ft (1,951 m)","3,960 ft (1,207 m) lowest chair - Stella 4,700 ft (1,433 m) main village","2,440 ft (744 m)","2,900 acres (11.7 km 2 )",92 - 20% beginner - 40% intermediate - 35% advanced - 5% expert,,300 in (760 cm),https://www.schweitzer.com/,48°22′01″N 116°37′23″W ﻿ / ﻿ 48.367°N 116.623°W ﻿ / 48.367; -116.623,Alterra Mountain Company,,
+Silver Mountain,Idaho,https://en.wikipedia.org/wiki/Silver_Mountain_(Idaho),"Kellogg , Idaho , U.S.","6,297 ft (1,919 m) Kellogg Peak","4,100 ft (1,250 m) lowest chairlift - (#4) 5,650 ft (1,722 m) Mountain Haus (gondola summit & lodge) 2,300 ft (701 m) (gondola base & village)","2,197 ft (670 m)","1,600 acres (6.5 km 2 )",67 - 20% beginner - 40% intermediate - 30% advanced - 10% expert,,300 in (760 cm),http://www.silvermt.com,47°29′42″N 116°08′06″W ﻿ / ﻿ 47.495°N 116.135°W ﻿ / 47.495; -116.135,,,
+Snowhaven,Idaho,https://en.wikipedia.org/wiki/Snowhaven,"Idaho County , Idaho , U.S.","5,600 ft (1,707 m)","5,200 ft (1,585 m)",400 ft (122 m),40 acres (16 ha),9 - 75% beginner - 25% intermediate,,60 in (150 cm),http://grangeville.us/snowhaven-ski-and-tubing-hill/,45°52′8.4″N 116°5′24″W ﻿ / ﻿ 45.869000°N 116.09000°W ﻿ / 45.869000; -116.09000,,,
+Soldier Mountain,Idaho,https://en.wikipedia.org/wiki/Soldier_Mountain,"Sawtooth National Forest Camas County, Idaho , U.S.","7,177 feet (2,188 m)","5,756 feet (1,754 m)","1,421 feet (433 m)","1,180 acres (4.8 km 2 )",36 - 28% easiest - 25% more difficult - 47% most difficult,,100 inches (250 cm),https://soldiermountain.com/,43°29′06″N 114°49′48″W ﻿ / ﻿ 43.485°N 114.830°W ﻿ / 43.485; -114.830,,,
+Sun Valley,Idaho,https://en.wikipedia.org/wiki/Bald_Mountain_(Idaho),"Ketchum and Sun Valley Blaine County , Idaho , U.S.","9,150 ft (2,789 m)","5,750 ft (1,753 m) River Run","3,400 ft (1,036 m)","2,054 acres (8.3 km 2 )",75 - 36% easiest - 42% more difficult - 22% most difficult,,220 in (18 ft; 560 cm),http://www.sunvalley.com,43°39′18″N 114°24′33″W ﻿ / ﻿ 43.65500°N 114.40917°W ﻿ / 43.65500; -114.40917,,,
+Tamarack,Idaho,https://en.wikipedia.org/wiki/Tamarack_Resort,"Valley County , Idaho , U.S.","7,660 ft (2,335 m)","4,900 ft (1,494 m)","2,760 ft (841 m)","1,100 acres (4.5 km 2 )",50 – 17% novice – 45% intermediate – 38% advanced,,300 in (760 cm),http://www.tamarackidaho.com,44°40′16″N 116°07′23″W ﻿ / ﻿ 44.671°N 116.123°W ﻿ / 44.671; -116.123,,,
+Bear Paw Ski Bowl,Montana,https://en.wikipedia.org/wiki/Bear_Paw_Ski_Bowl,"Hill County, Montana",5850 ft,4990 ft,860,80 acres,24,,"140""",https://www.bearpawskibowl.org/,48°9′51.84″N 109°40′12.79″W ﻿ / ﻿ 48.1644000°N 109.6702194°W ﻿ / 48.1644000; -109.6702194,Chippewa Cree Tribe of Rocky Boy,1960 ( 1960 ),Active
+Big Sky,Montana,https://en.wikipedia.org/wiki/Big_Sky_Resort,"Big Sky , Madison County , Montana United States","11,166 ft (3,403 m)","6,800 ft (2,073 m) Lone Moose 7,500 ft (2,286 m) Mountain Village","4,350 ft (1,326 m) total","5,850 acres (23.7 km 2 )",320+ - 15% beginner - 25% intermediate - 60% advanced,,,bigskyresort.com,45°16′30″N 111°25′55″W ﻿ / ﻿ 45.275°N 111.4319°W ﻿ / 45.275; -111.4319,Boyne Resorts,,Operating
+Blacktail Mountain,Montana,https://en.wikipedia.org/wiki/Blacktail_Mountain_Ski_Area,"Lakeside , Montana",6789 ft,5236 ft,1553 ft,,26 - 15% beginner - 70% intermediate - 15% advanced,,250 inches,http://www.blacktailmountain.com/,48°00′47″N 114°14′49″W ﻿ / ﻿ 48.01306°N 114.24694°W ﻿ / 48.01306; -114.24694,,,
+Bridger Bowl,Montana,https://en.wikipedia.org/wiki/Bridger_Bowl_Ski_Area,"Gallatin National Forest Gallatin County , Montana United States","8,700 feet (2,650 m)","6,100 feet (1,860 m)","2,600 feet (790 m)","2,000 acres (8.1 km 2 )",75,,350 in (29.2 ft; 8.9 m),https://bridgerbowl.com,45°49′05″N 110°53′49″W ﻿ / ﻿ 45.818°N 110.897°W ﻿ / 45.818; -110.897,,,
+Discovery,Montana,https://en.wikipedia.org/wiki/Discovery_Ski_Area,"Granite County, Montana","8,158 feet (2,487 m)","6,480 feet (1,980 m)",,"2,200 acres (8.9 km 2 )",67,,"215 """,http://www.skidiscovery.com/,46°15′23″N 113°14′31″W ﻿ / ﻿ 46.25639°N 113.24194°W ﻿ / 46.25639; -113.24194,,,
+Great Divide,Montana,https://en.wikipedia.org/wiki/Great_Divide_Montana,"Marysville , Montana","7,233 ft (2,205 m)","5,730 ft (1,750 m)",1500 ft,,140,,180 inches (460 cm),http://www.skigd.com,46°44′59″N 112°18′15″W ﻿ / ﻿ 46.7497°N 112.3043°W ﻿ / 46.7497; -112.3043,,,
+Lost Trail Powder Mountain,Montana,https://en.wikipedia.org/wiki/Lost_Trail_Powder_Mountain,"Lost Trail Pass Lemhi County , Idaho & Ravalli County , Montana","8,200 ft (2,500 m)","6,400 ft (1,950 m) lowest lift - #3 7,000 ft (2,134 m) main base area","1,800 ft (550 m)",900 acres (3.6 km 2 ),60+ - 20% easiest - 60% more difficult - 20% most difficult,,300 in (760 cm),http://www.losttrail.com,45°41′31″N 113°57′07″W ﻿ / ﻿ 45.692°N 113.952°W ﻿ / 45.692; -113.952,,,
+Maverick Mountain,Montana,https://en.wikipedia.org/wiki/Maverick_Mountain_Ski_Area,"Polaris, Montana","8,250 ft (2,510 m)","6,500 ft (2,000 m)","1,750 ft",210 acres (0.85 km 2 ),24,,"180""",http://skimaverick.com,45°26′06″N 113°07′46″W ﻿ / ﻿ 45.43500°N 113.12944°W ﻿ / 45.43500; -113.12944,,,
+Montana Snowbowl,Montana,https://en.wikipedia.org/wiki/Montana_Snowbowl,"Missoula County, Montana","7,600 ft (2,315 m)","5,000 ft (1,525 m)","2,600 ft (790 m)","950 acres (3.8 km 2 ), lift served, skiable",39,,300 inches (760 cm),http://www.montanasnowbowl.com,47°01′N 114°00′W ﻿ / ﻿ 47.02°N 114.0°W ﻿ / 47.02; -114.0,,,
+Moonlight Basin,Montana,https://en.wikipedia.org/wiki/Moonlight_Basin,"Big Sky, Montana","11,166 feet (3,403.4 m)","7,000 feet (2,100 m)",,"1,900 acres (769 ha)",76+,,400 inches,http://www.bigskyresort.com/,45°18′51″N 111°27′03″W ﻿ / ﻿ 45.31417°N 111.45083°W ﻿ / 45.31417; -111.45083,,,
+Red Lodge Mountain,Montana,https://en.wikipedia.org/wiki/Red_Lodge_Mountain,"Carbon County, Montana","9,416 ft (2,870 m)","7,016 ft (2,138 m)","2,400 ft (732 m)","1,600 acres (6.5 km 2 )",65 - 17% easiest - 45% more difficult - 38% most difficult,,250 in (640 cm),http://www.redlodgemountain.com,45°11′28″N 109°20′06″W ﻿ / ﻿ 45.191°N 109.335°W ﻿ / 45.191; -109.335,,,
+Showdown,Montana,https://en.wikipedia.org/wiki/Showdown_Ski_Area,"Meagher County, Montana , near Neihart, Montana","8,200 ft (2,500 m)","6,800 ft (2,100 m)",1400 ft,640 acres (2.6 km 2 ),39,,20 feet (6.1 m),http://www.showdownmontana.com/,46°50′19″N 110°42′32″W ﻿ / ﻿ 46.83861°N 110.70889°W ﻿ / 46.83861; -110.70889,,,
+Teton Pass,Montana,https://en.wikipedia.org/wiki/Teton_Pass_Ski_Area,"Teton County , Montana , U.S.","7,200 ft (2,195 m)","6,190 ft (1,887 m)","1,000 ft (305 m)",114 acres (0.46 km 2 ),26,,250 in (21 ft; 6.4 m),https://www.skitetonmt.com/,47°55′41″N 112°48′55″W ﻿ / ﻿ 47.92806°N 112.81528°W ﻿ / 47.92806; -112.81528,,,
+Turner Mountain,Montana,https://en.wikipedia.org/wiki/Turner_Mountain_Ski_Resort,"Lincoln County, Montana , U.S.","5,952 ft (1,814 m)","3,842 ft (1,171 m)","2,110 ft (643 m)",,20,,250 inches (640 cm),http://www.skiturner.com,48°36′18″N 115°37′48″W ﻿ / ﻿ 48.605°N 115.63°W ﻿ / 48.605; -115.63,,,
+Whitefish Mountain Resort,Montana,https://en.wikipedia.org/wiki/Whitefish_Mountain_Resort,"The Big Mountain Flathead National Forest Flathead County , Montana , U.S.","6,817 ft (2,078 m)","4,464 ft (1,361 m)","2,353 ft (717 m)","3,020 acres (12.2 km 2 )",93 - 15% beginner - 35% intermediate - 40% advanced - 10% expert,,300 inches (25 ft; 760 cm),http://www.skiwhitefish.com/,48°30′N 114°20′W ﻿ / ﻿ 48.50°N 114.34°W ﻿ / 48.50; -114.34,,,
+Yellowstone Club,Montana,https://en.wikipedia.org/wiki/Yellowstone_Club,,,,,,,,,,,,,
+Angel Fire Resort,New Mexico,https://en.wikipedia.org/wiki/Angel_Fire_Resort,"Angel Fire, New Mexico , United States","10,677 feet (3,254 m)","8,600 feet (2,600 m)",,560 acres (2.3 km 2 ),80 21% Beginner 56% Intermediate 23% Expert,,210 inches (530 cm),http://www.angelfireresort.com,36°23′15″N 105°16′24″W ﻿ / ﻿ 36.38750°N 105.27333°W ﻿ / 36.38750; -105.27333,,,
+Pajarito Mountain,New Mexico,https://en.wikipedia.org/wiki/Pajarito_Mountain_Ski_Area,"Los Alamos County, New Mexico , United States","10,440 feet (3,180 m)","9,000 feet (2,700 m)",,280 acres (1.1 km 2 ),40 20% Beginner 50% Intermediate 30% Advanced/Expert,,125 in/year (3.17 m/year),http://www.pajarito.ski/,35°53′39″N 106°23′25″W ﻿ / ﻿ 35.89417°N 106.39028°W ﻿ / 35.89417; -106.39028,,,
+Red River Ski Area,New Mexico,https://en.wikipedia.org/w/index.php?title=Red_River_Ski_Area&action=edit&redlink=1,,,,,,,,,,,,,
+Sandia Peak,New Mexico,https://en.wikipedia.org/wiki/Sandia_Peak_Ski_Area,"Bernalillo County , New Mexico , U.S.","10,378 feet (3,163 m)","8,678 feet (2,645 m)","1,700 feet (520 m)",200 acres (0.81 km 2 ),35 total  - 23% beginner - 49% intermediate - 29% advanced,,125 inches (10.4 ft; 3.2 m),http://www.sandiapeak.com,35°12′25.22″N 106°24′48.41″W ﻿ / ﻿ 35.2070056°N 106.4134472°W ﻿ / 35.2070056; -106.4134472,,,
+Sipapu,New Mexico,https://en.wikipedia.org/wiki/Sipapu_(ski_area),"Taos County , New Mexico , USA","9,255 ft (2,821 m)","8,200 ft (2,500 m)","1,055 ft (322 m)",215 acres (87 ha),41 - 20% beginner - 40% intermediate - 25% advanced - 15% expert,,"185 in (4,700 mm)",http://www.sipapunm.com/,36°09′15″N 105°32′55″W ﻿ / ﻿ 36.154211°N 105.548508°W ﻿ / 36.154211; -105.548508,,,
+Ski Apache,New Mexico,https://en.wikipedia.org/wiki/Ski_Apache,"Lincoln County, New Mexico , USA","11,500 ft (3,500 m)","9,600 ft (2,900 m)","1,900 ft (579 m)",750 acres,55 total 20% beginner 60% intermediate 20% advanced,,,https://skiapache.com/,33.39722°N 105.79917°W,,,
+Ski Cloudcroft,New Mexico,https://en.wikipedia.org/wiki/Ski_Cloudcroft,"Cloudcroft , Otero County , New Mexico , U.S.","9,100 feet (2,774 m)","8,400 feet (2,560 m)",700 feet (213 m),74 acres (0.30 km 2 ),25 total - 32% beginner - 28% intermediate - 32% advanced - 8% expert,,120 inches (10.0 ft; 3.0 m),https://skicloudcroft.net/,32°57′2.55″N 105°42′26.07″W ﻿ / ﻿ 32.9507083°N 105.7072417°W ﻿ / 32.9507083; -105.7072417,,,
+Ski Santa Fe,New Mexico,https://en.wikipedia.org/wiki/Ski_Santa_Fe,"Santa Fe County , New Mexico , U.S.","12,075 feet (3,680 m)","10,350 feet (3,155 m)","1,725 feet (526 m)",660 acres (2.7 km 2 ),88 total - 20% beginner - 40% intermediate - 40% advanced,,225 inches (18.8 ft; 5.7 m),http://www.skisantafe.com,35°47′46.77″N 105°48′4.61″W ﻿ / ﻿ 35.7963250°N 105.8012806°W ﻿ / 35.7963250; -105.8012806,,,
+Taos Ski Valley,New Mexico,"https://en.wikipedia.org/wiki/Taos_Ski_Valley,_New_Mexico","Taos County , New Mexico , U.S.","12,481 ft (3,804 m)","9,200 ft (2,804 m)","3,281 ft (1,000 m)","1,294 acres (5.2 km 2 )",110 - 24% beginner - 25% intermediate - 51% advanced/expert,,300 in (760 cm),https://www.skitaos.com/,36°35′24″N 105°26′13″W ﻿ / ﻿ 36.59000°N 105.43694°W ﻿ / 36.59000; -105.43694,"Louis Bacon (Taos Ski Valley, Inc.)",,
+Alta,Utah,https://en.wikipedia.org/wiki/Alta_Ski_Area,"Alta, Utah , U.S.","11,068 ft (3,374 m)","8,530 ft (2,600 m)","2,538 ft (774 m)","2,614 acres (10.58 km 2 )",116+ total 15% easiest 30% more difficult 55% most difficult,,545 in (45.4 ft; 13.8 m),http://www.alta.com,40°34′51″N 111°38′14″W ﻿ / ﻿ 40.58083°N 111.63722°W ﻿ / 40.58083; -111.63722,,,
+Beaver Mountain,Utah,https://en.wikipedia.org/wiki/Beaver_Mountain,"Cache National Forest Logan Canyon , Utah , United States","8,800 ft (2,682 m)","7,200 ft (2,195 m)","1,600 ft (488 m)",664 acres (2.69 km 2 ),47 35% easiest 40% more difficult 25% most difficult,,"400 in (1,020 cm)",http://www.skithebeav.com/,41°58′05″N 111°32′28″W ﻿ / ﻿ 41.968°N 111.541°W ﻿ / 41.968; -111.541,,,
+Brian Head,Utah,https://en.wikipedia.org/wiki/Brian_Head_Ski_Resort,"Brian Head, Utah","10,920 ft (3,330 m)","9,600 ft (2,900 m)","1,707 ft (520 m)",665 acres (269 ha),71 35% beginner 35% intermediate 20% advanced 10% expert,,360 in (910 cm) per year,,37°41′N 112°50′W ﻿ / ﻿ 37.683°N 112.833°W ﻿ / 37.683; -112.833,Mountain Capital Partners,,
+Brighton,Utah,https://en.wikipedia.org/wiki/Brighton_Ski_Resort,"Brighton, Utah , U.S.","10,750 feet (3,277 m)","8,755 feet (2,669 m)","1,750 feet (533 m)","1,050 acres (4.2 km 2 )",66 total 21% beginner 40% intermediate 39% expert/advanced,,700 inches (58.3 ft; 17.8 m),https://www.brightonresort.com/,40°36′0″N 111°35′0″W ﻿ / ﻿ 40.60000°N 111.58333°W ﻿ / 40.60000; -111.58333,Boyne Resorts,,Operating
+Cherry Peak Resort,Utah,https://en.wikipedia.org/wiki/Cherry_Peak_Resort,"Cherry Canyon Cache County, Utah United States",7050 ft - (2149 m),5775 ft - (1760 m),1265 ft - (386 m),200 acres (0.81 km 2 ),29 30% easiest 45% more difficult 25% most difficult,,322 in. - (818 cm),http://www.skicherrypeak.com,41°55′35″N 111°45′24″W ﻿ / ﻿ 41.92639°N 111.75667°W ﻿ / 41.92639; -111.75667,,,
+Deer Valley,Utah,https://en.wikipedia.org/wiki/Deer_Valley,"Wasatch Range Summit County, Utah United States","9,570 ft (2,920 m)","6,530 ft (1,990 m)","3,040 ft (930 m)","4,300 acres (1,700 ha)",202 35% easiest 44% more difficult 21% most difficult,,Base: <150 inches (380 cm) Peak: 294 inches (750 cm),http://www.deervalley.com/,40°37′22″N 111°29′22″W ﻿ / ﻿ 40.62278°N 111.48944°W ﻿ / 40.62278; -111.48944,Alterra Mountain Company,,Operating
+Eagle Point Ski Resort,Utah,https://en.wikipedia.org/wiki/Eagle_Point_Ski_Resort,"Beaver, Utah United States",,,,,41,,,http://www.skieaglepoint.com,38°19′14″N 112°23′30″W ﻿ / ﻿ 38.32056°N 112.39167°W ﻿ / 38.32056; -112.39167,,,
+Nordic Valley,Utah,"https://en.wikipedia.org/wiki/Nordic_Valley,_Utah",,,,,,,,,,41.30583°N 111.85722°W,,,
+Park City Mountain Resort,Utah,https://en.wikipedia.org/wiki/Park_City_Mountain_Resort,"Park City , Utah , United States","10,026 ft (3,056 m)","6,900 ft (2,100 m)","3,200 ft (980 m)","7,300 acres (11.4 sq mi; 29.5 km 2 )",324 7% easiest 49% more difficult 44% most difficult,,355 inches (29.6 ft; 9.0 m),https://www.parkcitymountain.com/,40°39′3″N 111°30′27″W ﻿ / ﻿ 40.65083°N 111.50750°W ﻿ / 40.65083; -111.50750,Vail Resorts,,Operating
+Powder Mountain,Utah,https://en.wikipedia.org/wiki/Powder_Mountain,"Cache , Weber counties, Utah , United States","8,900 ft (2,713 m) lift-served 9,422 ft (2,872 m) via hiking","6,900 ft (2,103 m)","2,205 ft (672 m) lift-served 2,522 ft (769 m) via hiking","8,000 acres (32.4 km 2 ) 4,200 acres (17.0 km 2 ) lift-served",162; 25% beginner 40% intermediate 35% advanced,,360 in (30 ft; 9.1 m) per year,https://www.powdermountain.com,41°22′48″N 111°46′49″W ﻿ / ﻿ 41.38000°N 111.78028°W ﻿ / 41.38000; -111.78028,,,
+Snowbasin,Utah,https://en.wikipedia.org/wiki/Snowbasin,"Mount Ogden Weber County , Utah , U.S.","9,350 ft (2,850 m)","6,391 ft (1,948 m)","2,959 ft (902 m)","3,000 acres (12.1 km 2 )",104 20% easiest 50% more difficult 30% most difficult,,350 inches (29.2 ft; 8.9 m),http://www.snowbasin.com,41°12′58″N 111°51′25″W ﻿ / ﻿ 41.216°N 111.857°W ﻿ / 41.216; -111.857,,,
+Snowbird,Utah,"https://en.wikipedia.org/wiki/Snowbird,_Utah","Wasatch National Forest Little Cottonwood Canyon Salt Lake County , Utah United States","11,000 ft (3,353 m)","7,760 ft (2,365 m) lowest chairlift 8,100 feet (2,469 m) main base area","3,240 ft (988 m)","2,500 acres (10.1 km 2 )",169  27% easiest 38% more difficult 35% most difficult,,"500 in (1,270 cm), average record: 838 in (2,130 cm), (2023, as of the 4th of June)",https://www.snowbird.com/,40°34′52″N 111°39′23″W ﻿ / ﻿ 40.58111°N 111.65639°W ﻿ / 40.58111; -111.65639,,,
+Solitude,Utah,https://en.wikipedia.org/wiki/Solitude_Mountain_Resort,"Brighton, Utah , United States","10,488 ft (3,197 m)","7,988 ft (2,435 m)","2,494 ft (760 m)","1,200 acres (4.9 km 2 )",80,,"500 inches (1,300 cm)",https://www.solitudemountain.com/,40°36′54.5″N 111°35′20.1″W ﻿ / ﻿ 40.615139°N 111.588917°W ﻿ / 40.615139; -111.588917,Alterra Mountain Company,,Operating
+Sundance,Utah,https://en.wikipedia.org/wiki/Sundance_Resort,"Uinta National Forest Utah County , Utah","8,250 ft (2,515 m)","6,100 ft (1,859 m)","2,150 ft (655 m)",450 acres (1.8 km 2 ),44,,,https://www.sundanceresort.com,40°23′31″N 111°34′44″W ﻿ / ﻿ 40.392°N 111.579°W ﻿ / 40.392; -111.579,,,
+Woodward Park City,Utah,https://en.wikipedia.org/w/index.php?title=Woodward_Park_City&action=edit&redlink=1,,,,,,,,,,,,,
+Shell,Wyoming,"https://en.wikipedia.org/wiki/Shell,_Wyoming",,,,,,,,,,44.53444°N 107.78444°W,,,
+Beartooth Basin Summer Ski Area,Wyoming,https://en.wikipedia.org/wiki/Beartooth_Basin_Summer_Ski_Area,"Beartooth National Forest Park County , Wyoming , U.S.","10,900 ft (3,320 m) AMSL",,,600 acres (2.4 km 2 ),9,,,http://www.beartoothbasin.com/,44°58′30″N 109°26′06″W ﻿ / ﻿ 44.975°N 109.435°W ﻿ / 44.975; -109.435,,,
+Grand Targhee,Wyoming,https://en.wikipedia.org/wiki/Grand_Targhee_Resort,"Alta, Wyoming , U.S.","9,862 ft (3,006 m)","7,408 ft (2,258 m)","2,454 ft (748 m)","3,000 acres (12.1 km 2 ) (1,000 acres (4 km 2 ) reserved for cat skiing )",93,,"500 inches (1,270 cm)",http://www.grandtarghee.com,43°47′20″N 110°57′25″W ﻿ / ﻿ 43.789°N 110.957°W ﻿ / 43.789; -110.957,,,
+Hogadon,Wyoming,https://en.wikipedia.org/wiki/Hogadon_Ski_Area,"Casper Mountain , Natrona County, Wyoming","8,000 feet (2,438 m)","7,370 feet (2,246 m)",,"60 acres (240,000 m 2 )",27+,,"140""",http://hogadon.net/,42°44′41.86″N 106°20′21.94″W ﻿ / ﻿ 42.7449611°N 106.3394278°W ﻿ / 42.7449611; -106.3394278,,,
+Jackson Hole,Wyoming,https://en.wikipedia.org/wiki/Jackson_Hole_Mountain_Resort,"Teton Village , Wyoming , U.S.","10,450 ft (3,185 m)","6,311 ft (1,924 m)","continuous 4,139 ft (1,262 m)","2,500 acres (10 km 2 ) inbounds 3,000 acres (12 km 2 ) backcountry",116 10% easiest 40% more difficult 50% most difficult,,"459 inches (1,170 cm)",https://jacksonhole.com/,43°35′N 110°53′W ﻿ / ﻿ 43.59°N 110.89°W ﻿ / 43.59; -110.89,,,Operating
+Ten Sleep,Wyoming,"https://en.wikipedia.org/wiki/Ten_Sleep,_Wyoming",,,,,,,,,http://www.townoftensleep.com/,44.03500°N 107.44833°W,,,
+Cokeville,Wyoming,"https://en.wikipedia.org/wiki/Cokeville,_Wyoming",,,,,,,,,,42.08500°N 110.95556°W,,,
+Cody,Wyoming,"https://en.wikipedia.org/wiki/Cody,_Wyoming",,,,,,,,,https://codywy.gov,44.50778°N 109.04611°W,,1896,
+Snow King Mountain,Wyoming,https://en.wikipedia.org/wiki/Snow_King_Mountain,"Jackson , Wyoming , U.S.","7,808 ft (2,380 m)","6,237 ft (1,901 m)","1,571 ft (479 m)",400 acres (1.6 km 2 ),35,,"500 in (1,270 cm)",http://www.snowkingmountain.com/,43°28′19″N 110°45′40″W ﻿ / ﻿ 43.472°N 110.761°W ﻿ / 43.472; -110.761,,,Active
+Snowy Range,Wyoming,https://en.wikipedia.org/wiki/Snowy_Range_Ski_Area,"Snowy Range , Albany County, Wyoming","9,663 feet (2,945 m)","8,798 feet (2,682 m)",865 ft,250 acres (101 ha),27,,250 inches (635 cm),https://www.snowyrangeski.com/,41°20′28″N 106°11′00″W ﻿ / ﻿ 41.341231°N 106.183441°W ﻿ / 41.341231; -106.183441,,,
+White Pine,Wyoming,https://en.wikipedia.org/wiki/White_Pine_Ski_Resort,"Wind River Range , Sublette County, Wyoming","9,500 feet (2,896 m)","8,450 feet (2,576 m)",,,25+,,,http://www.whitepineski.com/,42°58′40.22″N 109°45′29.42″W ﻿ / ﻿ 42.9778389°N 109.7581722°W ﻿ / 42.9778389; -109.7581722,,,
+Arctic Valley,Alaska,https://en.wikipedia.org/wiki/Arctic_Valley_Ski_Area,"Anchorage, Alaska , USA","4,000 ft (1,200 m)","2,500 ft (760 m)","1,500 ft (460 m)",320 acres (1.3 km 2 ),24 - 10% Beginner - 40% Intermediate - 50% Advanced,,,https://arcticvalley.org,61°14′48″N 149°39′02″W ﻿ / ﻿ 61.24667°N 149.65056°W ﻿ / 61.24667; -149.65056,,,
+Alyeska,Alaska,https://en.wikipedia.org/wiki/Alyeska_Resort,"Girdwood, Anchorage , Alaska","2,750 ft (840 m) lift served; 3,939 ft (1,200 m) (summit)",250 ft (80 m),"2,500 ft (760 m) lift served; 3,200 ft (975 m) total","1,400 acres (5.7 km 2 )",73 - 11% easiest - 52% more difficult - 37% most difficult,,"650 in (1,650 cm) - top 512 in (1,300 cm) - mid 208 in (530 cm) - base",https://www.alyeskaresort.com/,60°58′14″N 149°05′54″W ﻿ / ﻿ 60.9705°N 149.0982°W ﻿ / 60.9705; -149.0982,,,
+Eaglecrest,Alaska,https://en.wikipedia.org/wiki/Eaglecrest_Ski_Area,"Douglas Island , Alaska United States",2750,1130,1620 ft,640 acres (2.6 km 2 ),36 - 20% easiest - 40% more difficult - 40% most difficult,,350 in,http://skieaglecrest.com/,58°16′34″N 134°30′55″W ﻿ / ﻿ 58.27611°N 134.51528°W ﻿ / 58.27611; -134.51528,,,
+Hilltop,Alaska,https://en.wikipedia.org/wiki/Hilltop_Ski_Area,"Anchorage , Alaska , US",,,294 ft (90 m),"30 acres (120,000 m 2 )",5 or 6,,,http://www.hilltopskiarea.org/,61°08′27″N 149°44′42″W ﻿ / ﻿ 61.14083°N 149.74500°W ﻿ / 61.14083; -149.74500,,,
+Majestic Heli Ski,Alaska,https://en.wikipedia.org/w/index.php?title=Majestic_Heli_Ski&action=edit&redlink=1,,,,,,,,,,,,,
+Moose Mountain,Alaska,https://en.wikipedia.org/wiki/Moose_Mountain_(Alaska),"Goldstream , near Fairbanks, Alaska , US",,,,,,,,,64°56′26″N 147°59′26″W ﻿ / ﻿ 64.94056°N 147.99056°W ﻿ / 64.94056; -147.99056,,,
+Mount Eyak,Alaska,https://en.wikipedia.org/wiki/Mount_Eyak,"Cordova , Alaska",1261 ft,412 ft,849 ft,,10,,350 inches,,60°33′0″N 145°45′0″W ﻿ / ﻿ 60.55000°N 145.75000°W ﻿ / 60.55000; -145.75000,,,
+Ski Land,Alaska,https://en.wikipedia.org/wiki/Skiland,"Fairbanks , Alaska","2,435 ft (740 m)","1,408 ft (430 m)","1,027 ft (310 m) lift served",530 acres (2.1 km 2 ),46 - 20% easiest - 50% more difficult - 30% most difficult,,,http://www.skilandfairbanks.com/,65°02′56″N 147°24′33″W ﻿ / ﻿ 65.04889°N 147.40917°W ﻿ / 65.04889; -147.40917,,,
+Skeetawk,Alaska,https://en.wikipedia.org/wiki/Skeetawk,Hatcher Pass,,,300,,,,,,61°44′33.6″N 149°13′50.5″W ﻿ / ﻿ 61.742667°N 149.230694°W ﻿ / 61.742667; -149.230694,,,
+Alpine Meadows,California,https://en.wikipedia.org/wiki/Alpine_Meadows_(ski_resort),"Ward Peak Tahoe National Forest , Placer County, California","8,637 ft (2,633 m)","6,835 ft (2,083 m)","1,802 ft (549 m)","2,400 acres (9.7 km 2 )",100 total - 25% beginner - 40% intermediate - 35% advanced,,"495 in (1,260 cm)",https://www.palisadestahoe.com,39°09′50″N 120°14′20″W ﻿ / ﻿ 39.164°N 120.239°W ﻿ / 39.164; -120.239,,,
+Alta Sierra,California,https://en.wikipedia.org/w/index.php?title=Alta_Sierra_Ski_Resort&action=edit&redlink=1,,,,,,,,,,,,,
+Badger Pass,California,https://en.wikipedia.org/wiki/Badger_Pass_Ski_Area,"Yosemite National Park , California","8,000 ft (2,400 m)","7,200 ft (2,200 m)",800 ft (240 m),90 acres (36 ha),10 total 35% easiest 50% more difficult 15% most difficult,,300 in (7.6 m),http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/,37°39′43″N 119°39′49″W ﻿ / ﻿ 37.66194°N 119.6636°W ﻿ / 37.66194; -119.6636,,,
+Bear Mountain,California,https://en.wikipedia.org/wiki/Bear_Mountain_(ski_area),Bear Mountain San Bernardino National Forest,"8,805 ft (2,684 m)","7,140 ft (2,180 m)","1,665 ft (507 m)",198 acres (80 ha),26 total 15% beginner 15% low intermediate 40% intermediate 30% advanced,,100 in (250 cm),http://www.bigbearmountainresort.com/,34°13′36″N 116°51′37″W ﻿ / ﻿ 34.2267°N 116.8602°W ﻿ / 34.2267; -116.8602,Alterra Mountain Company,,Operating
+Bear Valley,California,https://en.wikipedia.org/wiki/Bear_Valley_(resort),"Alpine County, California , U.S.","8,500 ft (2,590 m)","6,600 ft (2,010 m)","1,900 ft (580 m)","1,680 acres (2.6 mi 2 ; 6.8 km 2 )",67 total 25% beginner 40% intermediate 35% advanced,,359 inches (29.9 ft; 9.1 m),https://www.bearvalley.com/,38°29′31″N 120°02′38″W ﻿ / ﻿ 38.492°N 120.044°W ﻿ / 38.492; -120.044,,,
+Boreal Mountain,California,https://en.wikipedia.org/wiki/Boreal_Mountain_Resort,Boreal Ridge,"7,700 ft (2,300 m)","7,200 ft (2,200 m)",500 ft,380 acres (150 ha),41 total 30% beginner 55% intermediate 15% advanced,,"400 in (1,000 cm)",http://www.rideboreal.com,39°19′54″N 120°21′04″W ﻿ / ﻿ 39.3317°N 120.3511°W ﻿ / 39.3317; -120.3511,,,
+Buckhorn Ski Club,California,https://en.wikipedia.org/wiki/Buckhorn_Ski_Club,Waterman Mountain San Gabriel Mountains Angeles National Forest,"7,903 ft (2,409 m)","7,203 ft (2,195 m)",680 ft (210 m),40 acres (16 ha),5,,180 in (460 cm),http://www.orgsites.com/ca/buckhorn/index.html,34°20′40″N 117°54′52″W ﻿ / ﻿ 34.34457°N 117.91437°W ﻿ / 34.34457; -117.91437,,,
+China Peak,California,https://en.wikipedia.org/wiki/China_Peak,Chinese Peak,"8,709 ft (2,655 m)","7,030 ft (2,140 m)",,"1,200 acres (490 ha)",45,,300 in (760 cm),http://www.skichinapeak.com,37°13′47″N 119°09′30″W ﻿ / ﻿ 37.2297°N 119.1583°W ﻿ / 37.2297; -119.1583,,,
+Coppervale Ski Area,California,https://en.wikipedia.org/wiki/Coppervale_Ski_Area,Coppervale Ski Area,"5,827 ft (1,776 m)","5,250 m (17,220 ft)",577 ft (176 m),,8,,,,40°20′42″N 120°54′14″W ﻿ / ﻿ 40.345°N 120.904°W ﻿ / 40.345; -120.904,,,
+Dodge Ridge,California,https://en.wikipedia.org/wiki/Dodge_Ridge_Ski_Area,Dodge Ridge,"8,200 ft (2,500 m)","6,600 ft (2,000 m)","1,600 ft (490 m)",862 acres (349 ha),62 total 20% beginner 40% intermediate 34% advanced,,"300 to 500 in (760 to 1,270 cm)",http://www.dodgeridge.com/,38°11′23″N 119°57′23″W ﻿ / ﻿ 38.1896°N 119.9564°W ﻿ / 38.1896; -119.9564,,,
+Donner Ski Ranch,California,https://en.wikipedia.org/wiki/Donner_Ski_Ranch,Donner Summit Tahoe National Forest,"7,781 ft (2,372 m)","7,031 ft (2,143 m)",750 ft (230 m),435 acres (176 ha),52 total 25% beginner 50% intermediate 25% advanced,,"412 in (1,050 cm)",http://www.donnerskiranch.com/,39°19′5.93″N 120°19′48.07″W ﻿ / ﻿ 39.3183139°N 120.3300194°W ﻿ / 39.3183139; -120.3300194,,,
+Granlibakken,California,https://en.wikipedia.org/wiki/Granlibakken,One-half mile inland of northwestern shore of Lake Tahoe,,,,,,,,,39°09′20″N 120°09′18″W ﻿ / ﻿ 39.1556°N 120.1551°W ﻿ / 39.1556; -120.1551,Parson family,1928,
+Heavenly Mountain,California,https://en.wikipedia.org/wiki/Heavenly_Mountain_Resort,"El Dorado- Toiyabe National Forests El Dorado County, California / Douglas County, Nevada / Alpine County, California","10,067 ft (3,068 m)","6,255 ft (1,907 m)","3,812 ft (1,162 m)","4,800 acres (19.4 km 2 )",97 total 20% Easier 45% More Difficult 35% Most Difficult,,360 inches (30 ft; 9.1 m),https://www.skiheavenly.com,38°56′07″N 119°56′24″W ﻿ / ﻿ 38.9353°N 119.9400°W ﻿ / 38.9353; -119.9400,Vail Resorts,,Operating
+Homewood Mountain,California,https://en.wikipedia.org/wiki/Homewood_Mountain_Resort,Ellis Peak Tahoe National Forest,"2,402 m (7,881 ft)","1,899 m (6,230 ft)","503 m (1,650 ft)","1,260 acres (510 ha)",60 total - 15% beginner - 50% intermediate - 35% advanced,,"400 in (1,000 cm)",http://www.skihomewood.com/,39°04′58″N 120°10′32″W ﻿ / ﻿ 39.0827°N 120.1755°W ﻿ / 39.0827; -120.1755,,,
+June Mountain,California,https://en.wikipedia.org/wiki/June_Mountain_ski_area,June Mountain Inyo National Forest,"10,090 ft (3,080 m)","7,545 ft (2,300 m)","2,545 ft (776 m)","1,500 acres (610 ha)",41 total 15% beginner 40% intermediate 45% advanced,,250 in (640 cm),http://www.junemountain.com,37°46′06″N 119°05′26″W ﻿ / ﻿ 37.7683°N 119.0906°W ﻿ / 37.7683; -119.0906,Alterra Mountain Company,,Operating
+Kirkwood Mountain,California,https://en.wikipedia.org/wiki/Kirkwood_Mountain_Resort,"Thimble Peak Covered Wagon Peak Alpine County, CA Amador County, CA","9,800 ft (3,000 m)","7,800 ft (2,400 m)","2,000 ft (610 m)","2,300 acres (930 ha)",65+ total 12% beginner 30% intermediate 58% advanced/expert,,"~500 in (1,300 cm)",https://www.kirkwood.com/,38°41′02″N 120°04′05″W ﻿ / ﻿ 38.684°N 120.068°W ﻿ / 38.684; -120.068,Vail Resorts,,Operating
+Mammoth Mountain,California,https://en.wikipedia.org/wiki/Mammoth_Mountain_Ski_Area,"Mammoth Mountain Sierra Nevada Mono & Madera Counties , California","11,053 ft (3,369 m)","7,953 ft (2,424 m)  at Eagle Lodge","3,100 ft (940 m)","3,500 acres (1,420 ha)",175 named 15% beginner 48% intermediate 37% advanced,,"400 in (1,020 cm)",https://www.mammothmountain.com/,37°37′50″N 119°01′57″W ﻿ / ﻿ 37.63056°N 119.03250°W ﻿ / 37.63056; -119.03250,Alterra Mountain Company,,Operating
+Mount Baldy Ski Lifts,California,https://en.wikipedia.org/wiki/Mount_Baldy_Ski_Lifts,"Mount San Antonio and Telegraph Peak , California , U.S.","8,600 ft (2,620 m)","6,500 ft (1,980 m)","2,100 ft (640 m)",800 acres (3.2 km 2 ),26 total 15% beginner 31% intermediate 54% advanced,,170 in (14 ft; 430 cm),http://mtbaldyresort.com,34°16′N 117°37′W ﻿ / ﻿ 34.27°N 117.62°W ﻿ / 34.27; -117.62,,,
+Mount Shasta Ski Park,California,https://en.wikipedia.org/wiki/Mount_Shasta_Ski_Park,"Mount Shasta , California","7,536 feet (2,297 m)","5,500 feet (1,700 m)",,636 acres (257 ha),38 total 20% beginner 55% intermediate 25% advanced,,275 in (700 cm),http://www.skipark.com,41°19′15″N 122°12′14″W ﻿ / ﻿ 41.32083°N 122.20389°W ﻿ / 41.32083; -122.20389,,,
+Mount Waterman,California,https://en.wikipedia.org/wiki/Mount_Waterman,Waterman Mountain San Gabriel Mountains Angeles National Forest,"8,030 ft (2,450 m)","7,000 ft (2,100 m)","1,030 ft (310 m)",150 acres (61 ha),27 total 20% beginner 20% intermediate 60% advanced,,180 in (460 cm),http://www.mtwaterman.org/,34°20′59″N 117°55′43″W ﻿ / ﻿ 34.349722°N 117.928611°W ﻿ / 34.349722; -117.928611,,,
+Mountain High,California,https://en.wikipedia.org/wiki/Mountain_High,"Big Pines , Los Angeles County , California","8,200 feet (2,500 m) (East) 8,000 feet (2,400 m) (West) 7,800 ft (2,400 m) (North)","6,600 feet (2,000 m) (East) 7,000 feet (2,100 m) (West) 7,200 ft (2,200 m) (North)","1,600 ft (490 m)",290 acres (1.2 km 2 ),59 total 20% easiest 42% More difficult 34% Most difficult 3% Experts only,,,http://www.mthigh.com,34°22′29″N 117°41′36″W ﻿ / ﻿ 34.37472°N 117.69323°W ﻿ / 34.37472; -117.69323,,,
+Northstar California,California,https://en.wikipedia.org/wiki/Northstar_California,"Placer County, California","8,610 ft (2,620 m)","6,330 ft (1,930 m)","2,280 ft (690 m)","3,170 acres (12.8 km 2 )",100 total 13% beginner 60% intermediate 27% advanced,,350 in (890 cm),https://northstarcalifornia.com,39°15′50″N 120°07′30″W ﻿ / ﻿ 39.264°N 120.125°W ﻿ / 39.264; -120.125,Vail Resorts,,Operating
+Palisades Tahoe,California,https://en.wikipedia.org/wiki/Palisades_Tahoe,"1960 Olympic Valley Road Olympic Valley, California","9,050 feet (2,758 m)","6,200 feet (1,890 m)","2,850 feet (869 m)","3,600 acres (14.6 km 2 )",177+,,400 inches (33.3 ft; 10.2 m),http://www.palisadestahoe.com,39°11′46″N 120°14′06″W ﻿ / ﻿ 39.196°N 120.235°W ﻿ / 39.196; -120.235,Alterra Mountain Company,,Operating
+Sierra-at-Tahoe,California,https://en.wikipedia.org/wiki/Sierra-at-Tahoe,Twin Bridges,"8,852 ft (2,698 m)","6,640 ft (2,020 m)","2,212 ft (674 m)","2,000 acres (810 ha)",46 total 25% beginner 50% intermediate 25% advanced,,"480 in (1,200 cm)",http://www.sierraattahoe.com,38°48′01″N 120°04′50″W ﻿ / ﻿ 38.8002°N 120.0806°W ﻿ / 38.8002; -120.0806,,,
+Snow Summit,California,https://en.wikipedia.org/wiki/Snow_Summit,Snow Summit,"8,174 ft (2,491 m)","6,965 ft (2,123 m)","1,209 ft (369 m)",240 acres (97 ha),31 total 10% beginner 25% low intermediate 40% intermediate 25% advanced,,100 in (250 cm),http://www.snowsummit.com,34°13′43″N 116°53′28″W ﻿ / ﻿ 34.2286°N 116.8911°W ﻿ / 34.2286; -116.8911,Alterra Mountain Company,,Operating
+Snow Valley,California,https://en.wikipedia.org/wiki/Snow_Valley_Mountain_Resort,"Running Springs San Bernardino County, California","7,841 ft (2,390 m)","6,800 ft (2,100 m)","1,041 ft (317 m)",240 acres (97 ha),29 total 14% easiest 45% More difficult 31% Most difficult 10% Experts only,,150 inches (380 cm),https://bbmr.com,34°13′24″N 117°02′15″W ﻿ / ﻿ 34.223375°N 117.037423°W ﻿ / 34.223375; -117.037423,Alterra Mountain Company,,Operating
+Soda Springs,California,https://en.wikipedia.org/wiki/Soda_Springs_Mountain_Resort,California,"7,352 feet (2,240 m)","6,700 feet (2,040 m)",652 feet (200 m),200 acres (81 ha),19 53% Easier 16% More difficult 32% Most Difficult,,232 in (590 cm),https://www.skisodasprings.com,39.3213°N 120.3802°W,,,
+Sugar Bowl,California,https://en.wikipedia.org/wiki/Sugar_Bowl_Ski_Resort,"629 Sugar Bowl Rd, Norden, CA 95724","8,383 ft (2,555 m)","6,883 ft (2,098 m)",,"1,650 acres (670 ha)",103 total 17% beginner 45% intermediate 38% advanced,,"500 in (1,300 cm)",http://www.sugarbowl.com,39°18′16″N 120°20′09″W ﻿ / ﻿ 39.30444°N 120.33583°W ﻿ / 39.30444; -120.33583,,,
+Tahoe Donner Downhill,California,https://en.wikipedia.org/wiki/Tahoe_Donner_Downhill,Tahoe Donner,"7,400 ft (2,300 m)","6,750 ft (2,060 m)",600 ft (180 m),120 acres (49 ha),14 total 30% beginner 40% intermediate 30% advanced,,,http://www.skitahoedonner.com,39°21′18″N 120°15′32″W ﻿ / ﻿ 39.3549°N 120.2590°W ﻿ / 39.3549; -120.2590,,,
+Diamond Peak,Nevada,https://en.wikipedia.org/wiki/Diamond_Peak_(ski_area),"Incline Village , Nevada , U.S.","8,540 ft (2,603 m) AMSL","6,700 ft (2,042 m)","1,840 ft (561 m)",655 acres (2.65 km 2 ),30 – 18% easiest – 46% more difficult – 36% most difficult,,,https://www.diamondpeak.com/,39°15′14″N 119°55′26″W ﻿ / ﻿ 39.254°N 119.924°W ﻿ / 39.254; -119.924,,,
+Elko Snobowl Ski and Bike Park,Nevada,https://en.wikipedia.org/w/index.php?title=Elko_Snobowl_Ski_and_Bike_Park&action=edit&redlink=1,,,,,,,,,,,,,
+Las Vegas Ski and Snowboard Resort (Lee Canyon),Nevada,https://en.wikipedia.org/wiki/Lee_Canyon_(Ski_and_Snowboard_Resort),"Clark County , Nevada","11,289 ft (3,441 m)","8,510 ft (2,590 m)",,385 acres (156 ha),24 15% easiest 45% more difficult 40% most difficult,,"161 in (4,100 mm) Annual",,36°18′06″N 115°40′51″W ﻿ / ﻿ 36.301638°N 115.680759°W ﻿ / 36.301638; -115.680759,,,
+Mount Rose,Nevada,https://en.wikipedia.org/wiki/Mount_Rose_Ski_Tahoe,Nevada,"9,700 feet (2,955 m)","8,260 feet (2,520 m)","1,800 feet (550 m)","1,200 acres (4.9 km 2 )",70+ 20% beginner 30% intermediate 40% advanced 10% expert,,350 in (29.2 ft; 8.9 m),http://www.skirose.com/,39°19′45″N 119°53′09″W ﻿ / ﻿ 39.32917°N 119.88583°W ﻿ / 39.32917; -119.88583,,,
+Sky Tavern Ski Area,Nevada,https://en.wikipedia.org/wiki/Sky_Tavern_Ski_Area,Nevada,"8,240 feet (2,510 m)","7,340 feet (2,235 m)",900 feet (275 m),200 acres (81 ha),14,,,https://www.skytavern.org,39.337322°N 119.876012°W,,,
+Anthony Lakes,Oregon,https://en.wikipedia.org/wiki/Anthony_Lakes_(ski_area),"Blue Mountains , Baker and Union counties , Oregon , U.S.","8,000 feet (2,438 m)","7,100 feet (2,164 m)",900 feet (274 m),"1,100 acres (4.5 km 2 )",21 20% easiest 38% more difficult 42% most difficult,,300 inches (25 ft; 7.6 m),http://www.anthonylakes.com/,44°57′50″N 118°14′06″W ﻿ / ﻿ 44.964°N 118.235°W ﻿ / 44.964; -118.235,,,
+Cooper Spur,Oregon,https://en.wikipedia.org/wiki/Cooper_Spur_ski_area,"Mount Hood , Oregon , US","4,350 ft (1,330 m)","4,000 ft (1,200 m)",,50 acres (0.2 km 2 ),10,,8.3 ft (2.5 m),http://www.cooperspur.com/,45°24′44″N 121°36′18″W ﻿ / ﻿ 45.41228°N 121.60501°W ﻿ / 45.41228; -121.60501,,,
+Ferguson Ridge,Oregon,https://en.wikipedia.org/wiki/Ferguson_Ridge_Ski_Area,"Wallowa Mountains , Oregon , US","5,840 feet (1,780 m)","5,200 feet (1,600 m)",,170 acres (69 ha),8,,25 ft (7.5 m),http://www.skifergi.com,45.28209°N 117.11285°W,,,
+Hoodoo,Oregon,https://en.wikipedia.org/wiki/Hoodoo_(ski_area),"Santiam Pass , Oregon , U.S.","5,703 ft (1,738 m)","4,668 ft (1,423 m)","1,035 ft (315 m)",806 acres (3.26 km 2 ),32,,360 in (30.0 ft; 9.1 m),http://skihoodoo.com/,44°24′32″N 121°52′19″W ﻿ / ﻿ 44.409°N 121.872°W ﻿ / 44.409; -121.872,,,
+Mount Ashland,Oregon,https://en.wikipedia.org/wiki/Mount_Ashland_Ski_Area,"Mount Ashland , Oregon","7,500 feet (2,286 m)","6,350 feet (1,940 m)",,240 acres (97 ha),23 total 15% beginner 35% intermediate 50% advanced plus open bowl skiing,,368 in (930 cm),http://www.mtashland.com,42°5′0″N 122°43′0″W ﻿ / ﻿ 42.08333°N 122.71667°W ﻿ / 42.08333; -122.71667,,,
+Mount Bachelor,Oregon,https://en.wikipedia.org/wiki/Mount_Bachelor_ski_area,"Deschutes County, Oregon , United States","9,065 ft (2,763 m) Summit Express","5,700 ft (1,737 m) Northwest Express 6,350 ft (1,940 m) Pine Marten Express","3,365 ft (1,026 m) lift-served","4,323 acres (17.5 km 2 )",101 total - 15% novice - 35% intermediate - 30% advanced - 20% expert,,462 inches (38.5 ft; 11.7 m),https://www.mtbachelor.com,44°00′11″N 121°40′37″W ﻿ / ﻿ 44.003°N 121.677°W ﻿ / 44.003; -121.677,POWDR,,Operating
+Mount Hood Meadows,Oregon,https://en.wikipedia.org/wiki/Mount_Hood_Meadows,"Mount Hood , Oregon","7,300 feet (2,225 m)","4,523 feet (1,379 m)","2,777 feet (846 m)","2,150 acres (8.7 km 2 )",87,,"430 inches (1,100 cm)",http://www.skihood.com/,45°19′44″N 121°39′45″W ﻿ / ﻿ 45.32889°N 121.66250°W ﻿ / 45.32889; -121.66250,,,
+Mount Hood Skibowl,Oregon,https://en.wikipedia.org/wiki/Mount_Hood_Skibowl,"Mount Hood , Clackamas County, Oregon , US","5,027 feet (1,532 m)","3,500 feet (1,067 m)",,960 acres (388 ha),65 20% beginner 40% intermediate 40% advanced,,yearly snowfall: 25 ft (7.62 m) average pack: 8 ft (2.44 m),https://www.skibowl.com/,45°18′07″N 121°46′24″W ﻿ / ﻿ 45.30189°N 121.773212°W ﻿ / 45.30189; -121.773212,,,
+Timberline Lodge,Oregon,https://en.wikipedia.org/wiki/Timberline_Lodge_ski_area,"Mount Hood , Clackamas County, Oregon , US","8,540 ft (2,603 m)","4,000 ft (1,219 m)","4,540 ft (1,384 m)","1,685 acres (682 ha)",35,,yearly snowfall: 45 ft (14 m) average pack: 15 ft (4.6 m),http://www.timberlinelodge.com/,45°20′N 121°43′W ﻿ / ﻿ 45.33°N 121.71°W ﻿ / 45.33; -121.71,,,
+Warner Canyon,Oregon,https://en.wikipedia.org/wiki/Warner_Canyon,"Lake County , Oregon , US","6,683 feet (2,037 m)","5,683 feet (1,732 m)",780,300 acres (120 ha),22,,"150 inches (3,800 mm)",https://www.warnercanyonski.com/,42°14′15″N 120°17′45″W ﻿ / ﻿ 42.23749°N 120.29583°W ﻿ / 42.23749; -120.29583,,,
+Willamette Pass,Oregon,https://en.wikipedia.org/wiki/Willamette_Pass_Resort,"Cascade Range , Klamath County, Oregon United States","6,683 ft (2,037 m)","5,120 ft (1,561 m)","1,563 ft (476 m)",555 acres (2.25 km 2 ),29 total - 20% Beginner - 45% Intermediate - 35% Advanced / Expert,,430 in (10.9 m) per year,http://www.willamettepass.ski,43°36′00″N 122°02′10″W ﻿ / ﻿ 43.60°N 122.036°W ﻿ / 43.60; -122.036,,,Operating
+49 Degrees North,Washington,https://en.wikipedia.org/wiki/49_Degrees_North_Ski_Area,"Colville National Forest Stevens County , Washington","5,774 ft (1,760 m)","3,923 ft (1,196 m)","1,851 ft (564 m)","2,325 acres (9.4 km 2 )",82 – 30% easiest – 40% more difficult – 25% most difficult – 5% experts only,,301 inches (760 cm),http://www.ski49n.com/,48°18′04″N 117°33′47″W ﻿ / ﻿ 48.301°N 117.563°W ﻿ / 48.301; -117.563,,,
+Badger Mountain,Washington,https://en.wikipedia.org/wiki/Badger_Mountain_Ski_Area,"Douglas County, Washington , USA","3,470 ft (1,060 m)","3,145 ft (959 m)",,"10 acres (40,000 m 2 )",5-7? -31% easiest -19% more difficult -15% mixed difficulty -35% most difficult,,10 ft (3.0 m),http://www.skibadgermt.com/,47°36′46″N 120°07′47″W ﻿ / ﻿ 47.61273°N 120.12978°W ﻿ / 47.61273; -120.12978,,,
+Crystal Mountain,Washington,https://en.wikipedia.org/wiki/Crystal_Mountain_(Washington),"Mount Baker-Snoqualmie National Forest Pierce County , Washington , U.S.","7,012 ft (2,137 m) 6,992 ft (2,131 m) - lifts","3,912 ft (1,192 m) 4,400 ft (1,341 m) - lifts","3,100 ft (945 m) 2,592 ft (790 m) - lifts","2,600 acres (10.5 km 2 ) lift serviced: 2,300 acres (9.3 km 2 ) inbounds backcountry: 300 acres (1.2 km 2 )",80 (57 designated trails) - 11% easiest - 54% more difficult - 35% most difficult,,350 in (29.2 ft; 8.9 m),https://www.crystalmountainresort.com/,46°56′N 121°29′W ﻿ / ﻿ 46.93°N 121.48°W ﻿ / 46.93; -121.48,Alterra Mountain Company,December 1962 ; 63 years ago ( 1962-12 ),Operating
+Echo Valley,Washington,https://en.wikipedia.org/wiki/Echo_Valley_Ski_Area,"Chelan County, Washington , USA",3900 ft,3000 ft,,"70 acres (280,000 m 2 )",,,,https://skiechovalley.com/,47°56′09″N 120°03′22″W ﻿ / ﻿ 47.93583°N 120.05611°W ﻿ / 47.93583; -120.05611,,,
+Hurricane Ridge,Washington,https://en.wikipedia.org/wiki/Hurricane_Ridge_Ski_and_Snowboard_Area,"Olympic National Park , Washington , U.S.","5,500 feet (1,676 m)","4,800 feet (1,463 m)",700 feet (213 m),,10,,400 inches (33.3 ft; 10.2 m),http://www.hurricaneridge.net,47°58′16″N 123°29′35″W ﻿ / ﻿ 47.971°N 123.493°W ﻿ / 47.971; -123.493,,,
+Leavenworth Ski Hill,Washington,https://en.wikipedia.org/wiki/Leavenworth_Ski_Hill,"Leavenworth , Washington , United States",,,,,,,,http://www.skileavenworth.com/,47°36′51″N 120°40′13″W ﻿ / ﻿ 47.61427°N 120.67027°W ﻿ / 47.61427; -120.67027,,,
+Loup Loup Ski Bowl,Washington,https://en.wikipedia.org/wiki/Loup_Loup_Ski_Bowl,"Loup Loup Pass , Okanogan County , Washington , USA","5,280 ft (1,610 m)","4,040 ft (1,230 m)",,550 acres (2.2 km 2 ),10,,12.5 ft (3.8 m),http://www.skitheloup.com/,48°23′41″N 119°54′46″W ﻿ / ﻿ 48.39472°N 119.91278°W ﻿ / 48.39472; -119.91278,,,
+Meany Lodge,Washington,https://en.wikipedia.org/wiki/Meany_Lodge,"near Stampede Pass , Washington , US","3,200 ft (980 m)","2,800 ft (850 m)",440',54 acres,32 (4 groomed),,NWS weather report,http://www.meanylodge.org,47°16′49″N 121°19′14″W ﻿ / ﻿ 47.28028°N 121.32056°W ﻿ / 47.28028; -121.32056,,,
+Mission Ridge,Washington,https://en.wikipedia.org/wiki/Mission_Ridge_Ski_Area,"Chelan County , Washington","6,820 feet (2,079 m)","4,570 feet (1,393 m)","2,250 feet (686 m)","2,000 acres (8.1 km 2 )",36 10% easiest 60% more difficult 30% most difficult,,200 inches (16.7 ft; 5.1 m),http://www.missionridge.com,47°17′31″N 120°23′56″W ﻿ / ﻿ 47.292°N 120.399°W ﻿ / 47.292; -120.399,,,
+Mt. Baker,Washington,https://en.wikipedia.org/wiki/Mt._Baker_Ski_Area,"Glacier, Washington , U.S.","5,089 ft (1,551 m)","3,500 ft (1,067 m) White Salmon Base Area 4,300 ft (1,310 m) Heather Meadows Base Area","1,589 ft (484 m)","1,000 acres (4.0 km 2 )",31 - 24% easiest - 45% more difficult - 31% most difficult,,641 in (53.4 ft; 16.3 m),https://www.mtbaker.us,48°51′43″N 121°39′14″W ﻿ / ﻿ 48.862°N 121.654°W ﻿ / 48.862; -121.654,,,
+Mount Spokane,Washington,https://en.wikipedia.org/wiki/Mount_Spokane_Ski_and_Snowboard_Park,"Mount Spokane State Park , Spokane County , Washington , U.S.","5,889 ft (1,795 m)","4,400 ft (1,340 m) lodge 2 base area 3,818 ft (1,164 m) lowest lift base, #4","2,071 ft (631 m)","1,704 acres (6.9 km 2 )",52 (16 night runs) - 23% easiest - 62% more difficult - 15% most difficult,,250 in (640 cm),https://www.mtspokane.com,47°55′19″N 117°05′49″W ﻿ / ﻿ 47.922°N 117.097°W ﻿ / 47.922; -117.097,,,
+Sahalie Ski Club,Washington,https://en.wikipedia.org/w/index.php?title=Sahalie_Ski_Club&action=edit&redlink=1,,,,,,,,,,,,,
+Sitzmark Ski Area,Washington,https://en.wikipedia.org/wiki/Sitzmark_Ski_Area,"Okanogan County , Washington , U.S.","4,950 ft (1,510 m)","4,300 ft (1,300 m)",650 ft (200 m),80 acres (0.3 km 2 ),10 - 2 easiest - 4 more difficult - 5 most difficult,,"60 inches (1,500 mm)",https://www.facebook.com/SitzmarkSkiArea/,48°51′54″N 119°09′50″W ﻿ / ﻿ 48.865°N 119.164°W ﻿ / 48.865; -119.164,,,
+Ski Bluewood,Washington,https://en.wikipedia.org/wiki/Ski_Bluewood,"Umatilla National Forest Columbia County , Washington , U.S.","5,670 ft (1,728 m)","4,545 ft (1,385 m)","1,125 ft (343 m)",530 acres (2.1 km 2 ),24 - 27% easiest - 43% more difficult - 30% most difficult,,300 inches (760 cm),http://www.bluewood.com,46°04′55″N 117°51′04″W ﻿ / ﻿ 46.082°N 117.851°W ﻿ / 46.082; -117.851,,,
+Stevens Pass,Washington,https://en.wikipedia.org/wiki/Stevens_Pass_Ski_Area,"King County , near Skykomish , Washington , U.S.","5,845 ft (1,782 m) Cowboy Mountain 5,600 ft (1,700 m) Big Chief Mountain","4,061 ft (1,238 m) main base area 3,821 ft (1,165 m) Mill Valley","1,800 ft (549 m)","1,125 acres (4.55 km 2 )",37 - 11% easiest - 54% more difficult - 35% most difficult,,"450 in (38 ft; 1,100 cm)",https://www.stevenspass.com/,47°44′41″N 121°5′20″W ﻿ / ﻿ 47.74472°N 121.08889°W ﻿ / 47.74472; -121.08889,Vail Resorts,1937,Operating
+The Summit at Snoqualmie,Washington,https://en.wikipedia.org/wiki/The_Summit_at_Snoqualmie,"Snoqualmie Pass , Washington , U.S.","5,420 ft (1,652 m) (Alpental)","2,610 ft (796 m) (Summit East)","2,280 ft (695 m) Alpental – 2,280 ft (695 m) Summit Central – 1,025 ft (312 m) West – 765 ft (233 m) East – 1,100 ft (335 m)","1,914 acres (7.7 km 2 ) (combined)",62 (combined) - 14% easiest - 45% more difficult - 41% most difficult,,435 inches (36.3 ft; 11.0 m),http://www.summitatsnoqualmie.com/,47°25′26″N 121°24′58″W ﻿ / ﻿ 47.424°N 121.416°W ﻿ / 47.424; -121.416,Boyne Resorts,,Operating
+White Pass,Washington,https://en.wikipedia.org/wiki/White_Pass_Ski_Area,"White Pass , Washington","6,500 ft (1,980 m)","4,500 ft (1,370 m)","2,000 ft (610 m)","1,402 acres (5.7 km 2 )",45 - 30% Beginner - 50% Intermediate - 20% Advanced,,350 in (29 ft; 890 cm),https://skiwhitepass.com/,46°38′17″N 121°23′28″W ﻿ / ﻿ 46.638°N 121.391°W ﻿ / 46.638; -121.391,,,
