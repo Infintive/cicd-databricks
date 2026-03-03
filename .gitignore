@@ -2,3 +2,4 @@
 **/.databricks/
 **/.databricks/**
 *.pyc
+bundles/**/.databricks/**

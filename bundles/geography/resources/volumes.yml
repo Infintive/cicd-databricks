@@ -1,8 +1,13 @@
   resources:
     volumes:
       landing:
-        catalog_name: ${var.env}_bronze
+        catalog_name: ${bundle.target}_inf
         schema_name: ${resources.schemas.bronze.name}
         name: landing
+        grants:
+          - principal: inf-developers
+            privileges:
+              - READ_VOLUME
+              - WRITE_VOLUME
         lifecycle:
           prevent_destroy: false

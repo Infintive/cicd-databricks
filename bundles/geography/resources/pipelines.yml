@@ -6,10 +6,10 @@ resources:
         - glob:
             include: ../src/transformations/**
       serverless: true
-      catalog: ${var.env}_bronze
+      catalog: ${bundle.target}_inf
       schema: ${resources.schemas.bronze.name}
       root_path: ../src
       configuration:
-        catalog_name: ${var.env}_bronze
+        catalog_name: ${bundle.target}_inf
         schema_name: ${resources.schemas.bronze.name}
         volume_name: ${resources.volumes.landing.name}

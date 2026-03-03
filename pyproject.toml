@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "hello-world"
+name = "infinitive"
 version = "0.1.0"
-description = "Simple hello world package."
-authors = ["Your Name <you@example.com>"]
+description = "Application logic for Infinitives data transformation pipelines"
+authors = ["Infinitive <tyler.tracey@infinitive.com>"]
 readme = "README.md"
-packages = [{ include = "hello_world", from = "src" }]
+packages = [{ include = "infinitive", from = "src" }]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<4.0"
