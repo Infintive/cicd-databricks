@@ -48,8 +48,12 @@ jobs:
 
       - name: Validate bundle
         working-directory: bundles/geography
-        run: databricks bundle validate -t "$ENVIRONMENT" --var env="$ENVIRONMENT"
+        run: databricks bundle validate -t "$ENVIRONMENT"
+
+      - name: Plan bundle
+        working-directory: bundles/geography
+        run: databricks bundle plan -t "$ENVIRONMENT" --format json
 
       - name: Deploy bundle
         working-directory: bundles/geography
-        run: databricks bundle deploy -t "$ENVIRONMENT" --var env="$ENVIRONMENT" --auto-approve
+        run: databricks bundle deploy -t "$ENVIRONMENT" --auto-approve
