@@ -2,6 +2,7 @@ resources:
   pipelines:
     bronze_pipeline:
       name: ${bundle.name}_bronze_pipeline
+      allow_duplicate_names: true
       tags:
         env: ${bundle.target}
         bundle: ${bundle.name}
