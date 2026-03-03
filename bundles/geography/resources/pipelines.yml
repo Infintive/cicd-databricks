@@ -10,6 +10,6 @@ resources:
       schema: ${resources.schemas.bronze.name}
       root_path: ../src
       configuration:
-        catalog_name: ${var.env}_bronze
+        catalog_name: ${var.env}_inf
         schema_name: ${resources.schemas.bronze.name}
         volume_name: ${resources.volumes.landing.name}
