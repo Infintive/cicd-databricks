@@ -16,9 +16,9 @@ sync:
 #     path: ../../src/dist/
 
 variables:
-  env:
-    description: The environment (dev, stg, prd)
-    default: dev
+  # env:
+  #   description: The environment (dev, stg, prd)
+  #   default: dev
   development_mode:
     description: The mode to run in when in development
     default: production

@@ -4,20 +4,20 @@ resources:
     ## This will be used to create the domain schema in the Databricks catalog.
     bronze:
       name: bronze_${bundle.name}
-      catalog_name: ${var.env}_inf
+      catalog_name: ${bundle.target}_inf
       lifecycle:
         prevent_destroy: false
     ## Define the silver schema resource. 
     ## This will be used to create the domain schema in the Databricks catalog.
     silver:
       name: silver_${bundle.name}
-      catalog_name: ${var.env}_inf
+      catalog_name: ${bundle.target}_inf
       lifecycle:
         prevent_destroy: false
     ## Define the gold schema resource. 
     ## This will be used to create the domain schema in the Databricks catalog.
     gold:
       name: gold_${bundle.name}
-      catalog_name: ${var.env}_inf
+      catalog_name: ${bundle.target}_inf
       lifecycle:
         prevent_destroy: false
