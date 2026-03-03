@@ -30,6 +30,10 @@ variables:
       git_provider: github
       git_branch: main
 
+permissions:
+  - service_principal_name: inf-sandbox-sp
+    level: CAN_MANAGE
+
 targets:
 
   dev: &target_env
