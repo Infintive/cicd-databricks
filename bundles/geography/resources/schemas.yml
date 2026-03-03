@@ -5,6 +5,10 @@ resources:
     bronze:
       name: bronze_${bundle.name}
       catalog_name: ${bundle.target}_inf
+      grants:
+        - principal: inf-developers
+          privileges:
+            - USE_SCHEMA
       lifecycle:
         prevent_destroy: false
     ## Define the silver schema resource. 
@@ -12,6 +16,10 @@ resources:
     silver:
       name: silver_${bundle.name}
       catalog_name: ${bundle.target}_inf
+      grants:
+        - principal: inf-developers
+          privileges:
+            - USE_SCHEMA
       lifecycle:
         prevent_destroy: false
     ## Define the gold schema resource. 
@@ -19,5 +27,9 @@ resources:
     gold:
       name: gold_${bundle.name}
       catalog_name: ${bundle.target}_inf
+      grants:
+        - principal: inf-developers
+          privileges:
+            - USE_SCHEMA
       lifecycle:
         prevent_destroy: false
