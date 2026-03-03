@@ -21,7 +21,7 @@ variables:
   #   default: dev
   deployment_principal:
     description: Service principal used to deploy the bundle (include full name).
-    default: inf-sandbox-sp
+    default: 67b3fe2f-3a54-4668-ac37-463024ef6a01
   development_mode:
     description: The mode to run in when in development
     default: production
@@ -46,9 +46,9 @@ targets:
     mode: ${var.development_mode}
     workspace:
       root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
-    permissions:
-      - group_name: inf-developers
-        level: CAN_MANAGE
+    # permissions:
+    #   - group_name: inf-developers
+    #     level: CAN_MANAGE
 
   stg: 
     <<: *target_env
