@@ -2,7 +2,7 @@ resources:
   pipelines:
     bronze_pipeline:
       name: ${bundle.target}_${bundle.name}_bronze_pipeline
-      custom_tags:
+      tags:
         env: ${bundle.target}
         bundle: ${bundle.name}
         owner: ${workspace.current_user.userName}
