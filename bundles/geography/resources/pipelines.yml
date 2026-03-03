@@ -6,7 +6,7 @@ resources:
         - glob:
             include: ../src/transformations/**
       serverless: true
-      catalog: ${var.env}_bronze
+      catalog: ${var.env}_inf
       schema: ${resources.schemas.bronze.name}
       root_path: ../src
       configuration:
