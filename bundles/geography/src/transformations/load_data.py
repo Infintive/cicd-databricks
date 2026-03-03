@@ -10,4 +10,11 @@ print(f"{catalog}, {schema}, {volume}")
 def cities():
   return spark.readStream.format("cloudFiles") \
     .option("cloudFiles.format", "csv") \
-    .load(f"/Volumes/{catalog}/{schema}/{volume}/")
+    .load(f"/Volumes/{catalog}/{schema}/{volume}/cities.csv")
+
+
+@dlt.table
+def resorts():
+  return spark.readStream.format("cloudFiles") \
+    .option("cloudFiles.format", "csv") \
+    .load(f"/Volumes/{catalog}/{schema}/{volume}/resorts.csv")
