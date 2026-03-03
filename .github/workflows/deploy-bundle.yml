@@ -52,4 +52,4 @@ jobs:
 
       - name: Deploy bundle
         working-directory: bundles/geography
-        run: databricks bundle deploy -t "$ENVIRONMENT" --var env="$ENVIRONMENT" --auto-approve
+        run: databricks bundle destroy -t "$ENVIRONMENT" --var env="$ENVIRONMENT" --auto-approve
