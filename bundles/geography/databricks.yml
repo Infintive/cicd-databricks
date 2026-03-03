@@ -19,6 +19,9 @@ variables:
   # env:
   #   description: The environment (dev, stg, prd)
   #   default: dev
+  deployment_principal:
+    description: Service principal used to deploy the bundle (include full name).
+    default: inf-sandbox-sp
   development_mode:
     description: The mode to run in when in development
     default: production
@@ -31,7 +34,9 @@ variables:
       git_branch: main
 
 permissions:
-  - service_principal_name: inf-sandbox-sp
+  - service_principal_name: ${var.deployment_principal}
+    level: CAN_MANAGE
+  - group_name: inf-developers
     level: CAN_MANAGE
 
 targets:
