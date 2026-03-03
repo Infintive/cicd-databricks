@@ -52,7 +52,7 @@ jobs:
 
       - name: Plan bundle
         working-directory: bundles/geography
-        run: databricks bundle plan -t "$ENVIRONMENT" --format json
+        run: databricks bundle plan -t "$ENVIRONMENT" --output json
 
       - name: Deploy bundle
         working-directory: bundles/geography
