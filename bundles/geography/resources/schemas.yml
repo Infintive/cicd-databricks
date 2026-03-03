@@ -9,6 +9,7 @@ resources:
         - principal: inf-developers
           privileges:
             - USE_SCHEMA
+            - SELECT
       lifecycle:
         prevent_destroy: false
     ## Define the silver schema resource. 
@@ -20,6 +21,7 @@ resources:
         - principal: inf-developers
           privileges:
             - USE_SCHEMA
+            - SELECT
       lifecycle:
         prevent_destroy: false
     ## Define the gold schema resource. 
@@ -31,5 +33,6 @@ resources:
         - principal: inf-developers
           privileges:
             - USE_SCHEMA
+            - SELECT
       lifecycle:
         prevent_destroy: false

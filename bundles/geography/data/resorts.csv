@@ -1,4 +1,4 @@
-Resort,City,State,Peak elevation (ft),Base elevation (ft),Vertical drop (ft),Skiable acreage,Total trails,Total lifts,Avg annual snowfall (in),Lift ticket (USD)
+resort,city,state,peak_elevation,base_elevation,vertical_drop,skiable_acreage,total_trails,total_lifts,avg_annual_snowfall,lift_ticket
 Ski Bromont,Bromont,Quebec,1854,590,1264,450,141,9,190,54
 Apex Mountain Resort,Penticton,British Columbia,7197,5197,2000,1112,79,4,236,65
 Canyon Ski Area,Red Deer,Alberta,2950,2412,538,80,23,6,45,35
