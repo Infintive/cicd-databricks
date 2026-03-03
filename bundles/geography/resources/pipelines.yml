@@ -1,7 +1,7 @@
 resources:
   pipelines:
     bronze_pipeline:
-      name: ${bundle.target}_${bundle.name}_bronze_pipeline
+      name: ${bundle.name}_bronze_pipeline
       tags:
         env: ${bundle.target}
         bundle: ${bundle.name}
