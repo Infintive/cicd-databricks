@@ -1,7 +1,11 @@
 resources:
   pipelines:
     bronze_pipeline:
-      name: ${bundle.name}_bronze_pipeline
+      name: ${bundle.target}_${bundle.name}_bronze_pipeline
+      custom_tags:
+        env: ${bundle.target}
+        bundle: ${bundle.name}
+        owner: ${workspace.current_user.userName}
       libraries:
         - glob:
             include: ../src/transformations/**
