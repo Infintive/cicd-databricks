@@ -1,10 +1,5 @@
 import dlt
-from pyspark.sql import SparkSession, functions as F
-
-spark = SparkSession.builder.getOrCreate()
-catalog = spark.conf.get("catalog_name")
-bronze_schema = spark.conf.get("bronze_schema_name")
-silver_schema = spark.conf.get("silver_schema_name")
+from pyspark.sql import functions as F
 
 
 def _elevation_feet(column):
@@ -16,10 +11,9 @@ def _elevation_feet(column):
 @dlt.table(name="resorts_silver")
 def resorts_silver():
 	"""Transform bronze resorts data into a clean silver table."""
-
-	bronze_table = f"{catalog}.{bronze_schema}.resorts"
+	bronze_table = dlt.read_stream("resorts")
 	return (
-		spark.readStream.table(bronze_table)
+		bronze_table
 		.withColumn("name", F.trim(F.col("name")))
 		.withColumn("state", F.trim(F.col("state")))
 		.withColumn("location", F.trim(F.col("location")))
