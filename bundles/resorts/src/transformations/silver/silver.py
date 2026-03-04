@@ -82,14 +82,5 @@ def resorts_silver():
 		.withColumn("annual_snowfall", _numeric_from_text("annual_snowfall", "int"))
 		.withColumn("_lat", lat_col)
 		.withColumn("_lon", lon_col)
-		.withColumn(
-			"coordinates",
-			F.expr(
-				"CASE WHEN _lat IS NOT NULL AND _lon IS NOT NULL "
-				"THEN ST_GeogFromText(concat('POINT (', _lon, ' ', _lat, ')')) "
-				"ELSE CAST(NULL AS GEOGRAPHY) END"
-			),
-		)
-		# .drop("_lat", "_lon")
 		.filter(F.col("name").isNotNull())
 	)
