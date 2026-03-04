@@ -12,9 +12,9 @@ resources:
             include: ../src/transformations/**
       serverless: true
       catalog: ${bundle.target}_inf
-      schema: ${resources.schemas.bronze.name}
+      schema: ${resources.schemas.resorts.name}
       root_path: ../src/transformations
       configuration:
         catalog_name: ${bundle.target}_inf
-        schema_name: ${resources.schemas.bronze.name}
+        schema_name: ${resources.schemas.resorts.name}
         volume_name: ${resources.volumes.landing.name}
