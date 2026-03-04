@@ -19,21 +19,21 @@ resources:
         schema_name: ${resources.schemas.bronze.name}
         volume_name: ${resources.volumes.landing.name}
 
-    # silver_pipeline:
-    #   name: ${bundle.name}_silver_pipeline
-    #   allow_duplicate_names: true
-    #   tags:
-    #     env: ${bundle.target}
-    #     bundle: ${bundle.name}
-    #     owner: ${workspace.current_user.userName}
-    #   libraries:
-    #     - glob:
-    #         include: ../src/transformations/**
-    #   serverless: true
-    #   catalog: ${bundle.target}_inf
-    #   schema: ${resources.schemas.silver.name}
-    #   root_path: ../src
-    #   configuration:
-    #     catalog_name: ${bundle.target}_inf
-    #     bronze_schema_name: ${resources.schemas.bronze.name}
-    #     silver_schema_name: ${resources.schemas.silver.name}
+    silver_pipeline:
+      name: ${bundle.name}_silver_pipeline
+      allow_duplicate_names: true
+      tags:
+        env: ${bundle.target}
+        bundle: ${bundle.name}
+        owner: ${workspace.current_user.userName}
+      libraries:
+        - glob:
+            include: ../src/transformations/**
+      serverless: true
+      catalog: ${bundle.target}_inf
+      schema: ${resources.schemas.silver.name}
+      root_path: ../src
+      configuration:
+        catalog_name: ${bundle.target}_inf
+        bronze_schema_name: ${resources.schemas.bronze.name}
+        silver_schema_name: ${resources.schemas.silver.name}

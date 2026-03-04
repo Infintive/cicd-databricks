@@ -1,28 +1,29 @@
-# import dlt
-# from pyspark.sql import SparkSession, functions as F
+import dlt
+from pyspark.sql import SparkSession, functions as F
 
-# spark = SparkSession.builder.getOrCreate()
-# catalog = spark.conf.get("catalog_name")
-# bronze_schema = spark.conf.get("bronze_schema_name")
+spark = SparkSession.builder.getOrCreate()
+catalog = spark.conf.get("catalog_name")
+bronze_schema = spark.conf.get("bronze_schema_name")
+silver_schema = spark.conf.get("silver_schema_name")
 
 
-# @dlt.table(name="resorts_silver")
-# def resorts_silver():
-#     """Transform bronze resorts data into a clean silver table."""
+def _elevation_feet(column):
+	cleaned = F.regexp_replace(F.col(column), ",", "")
+	digits = F.regexp_extract(cleaned, r"(\d+)", 1)
+	return F.when(F.length(digits) > 0, digits.cast("int")).otherwise(F.lit(None).cast("int"))
 
-#     bronze_table = f"{catalog}.{bronze_schema}.resorts"
-#     return (
-#         spark.readStream.table(bronze_table)
-#         .withColumn("resort", F.trim(F.col("resort")))
-#         .withColumn("city", F.trim(F.col("city")))
-#         .withColumn("state", F.trim(F.col("state")))
-#         .withColumn("peak_elevation", F.col("peak_elevation").cast("int"))
-#         .withColumn("base_elevation", F.col("base_elevation").cast("int"))
-#         .withColumn("vertical_drop", F.col("vertical_drop").cast("int"))
-#         .withColumn("skiable_acreage", F.col("skiable_acreage").cast("int"))
-#         .withColumn("total_trails", F.col("total_trails").cast("int"))
-#         .withColumn("total_lifts", F.col("total_lifts").cast("int"))
-#         .withColumn("avg_annual_snowfall", F.col("avg_annual_snowfall").cast("int"))
-#         .withColumn("lift_ticket", F.col("lift_ticket").cast("int"))
-#         .filter(F.col("resort").isNotNull())
-#     )
+
+@dlt.table(name="resorts_silver")
+def resorts_silver():
+	"""Transform bronze resorts data into a clean silver table."""
+
+	bronze_table = f"{catalog}.{bronze_schema}.resorts"
+	return (
+		spark.readStream.table(bronze_table)
+		.withColumn("name", F.trim(F.col("name")))
+		.withColumn("state", F.trim(F.col("state")))
+		.withColumn("location", F.trim(F.col("location")))
+		.withColumn("summit_elevation", _elevation_feet("summit_elevation"))
+		.withColumn("base_elevation", _elevation_feet("base_elevation"))
+		.filter(F.col("name").isNotNull())
+	)
