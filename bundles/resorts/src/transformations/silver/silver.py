@@ -84,10 +84,11 @@ def resorts_silver():
 		.withColumn("_lon", lon_col)
 		.withColumn(
 			"coordinates",
-			F.when(
-				F.col("_lat").isNotNull() & F.col("_lon").isNotNull(),
-				F.expr("ST_Point(_lon, _lat)"),
-			).otherwise(F.lit(None).cast("geography")),
+			F.expr(
+				"CASE WHEN _lat IS NOT NULL AND _lon IS NOT NULL "
+				"THEN ST_GeogFromText(concat('POINT (', _lon, ' ', _lat, ')')) "
+				"ELSE CAST(NULL AS GEOGRAPHY) END"
+			),
 		)
 		# .drop("_lat", "_lon")
 		.filter(F.col("name").isNotNull())
