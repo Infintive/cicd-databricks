@@ -9,11 +9,11 @@ resources:
         owner: ${workspace.current_user.userName}
       libraries:
         - glob:
-            include: ../src/transformations/bronze.py
+            include: ../src/transformations/bronze/**
       serverless: true
       catalog: ${bundle.target}_inf
       schema: ${resources.schemas.bronze.name}
-      root_path: ../src
+      root_path: ../src/transformations/bronze
       configuration:
         catalog_name: ${bundle.target}_inf
         schema_name: ${resources.schemas.bronze.name}
@@ -28,11 +28,11 @@ resources:
         owner: ${workspace.current_user.userName}
       libraries:
         - glob:
-            include: ../src/transformations/silver.py
+            include: ../src/transformations/silver/**
       serverless: true
       catalog: ${bundle.target}_inf
       schema: ${resources.schemas.silver.name}
-      root_path: ../src
+      root_path: ../src/transformations/silver
       configuration:
         catalog_name: ${bundle.target}_inf
         bronze_schema_name: ${resources.schemas.bronze.name}
