@@ -9,7 +9,7 @@ resources:
         owner: ${workspace.current_user.userName}
       libraries:
         - glob:
-            include: ../src/transformations/**
+            include: ../src/transformations/bronze.py
       serverless: true
       catalog: ${bundle.target}_inf
       schema: ${resources.schemas.bronze.name}
@@ -28,7 +28,7 @@ resources:
         owner: ${workspace.current_user.userName}
       libraries:
         - glob:
-            include: ../src/transformations/**
+            include: ../src/transformations/silver.py
       serverless: true
       catalog: ${bundle.target}_inf
       schema: ${resources.schemas.silver.name}
