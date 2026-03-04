@@ -11,7 +11,7 @@ def _elevation_feet(column):
 @dlt.table(name="resorts_silver")
 def resorts_silver():
 	"""Transform bronze resorts data into a clean silver table."""
-	bronze_table = dlt.read_stream("resorts")
+	bronze_table = dlt.read_stream("resorts_bronze")
 	return (
 		bronze_table
 		.withColumn("name", F.trim(F.col("name")))
