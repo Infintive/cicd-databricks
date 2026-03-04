@@ -13,7 +13,7 @@ resources:
       serverless: true
       catalog: ${bundle.target}_inf
       schema: ${resources.schemas.resorts.name}
-      root_path: ../src/transformations
+      root_path: ../src/
       configuration:
         catalog_name: ${bundle.target}_inf
         schema_name: ${resources.schemas.resorts.name}
