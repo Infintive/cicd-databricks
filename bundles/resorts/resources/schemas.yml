@@ -26,13 +26,13 @@ resources:
         prevent_destroy: false
     ## Define the gold schema resource. 
     ## This will be used to create the domain schema in the Databricks catalog.
-    gold:
-      name: gold_${bundle.name}
-      catalog_name: ${bundle.target}_inf
-      grants:
-        - principal: inf-developers
-          privileges:
-            - USE_SCHEMA
-            - SELECT
-      lifecycle:
-        prevent_destroy: false
+    # gold:
+    #   name: gold_${bundle.name}
+    #   catalog_name: ${bundle.target}_inf
+    #   grants:
+    #     - principal: inf-developers
+    #       privileges:
+    #         - USE_SCHEMA
+    #         - SELECT
+    #   lifecycle:
+    #     prevent_destroy: false
