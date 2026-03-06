@@ -2,7 +2,7 @@
     volumes:
       landing:
         catalog_name: ${bundle.target}_inf
-        schema_name: ${resources.schemas.bronze.name}
+        schema_name: ${resources.schemas.resorts.name}
         name: landing
         grants:
           - principal: inf-developers

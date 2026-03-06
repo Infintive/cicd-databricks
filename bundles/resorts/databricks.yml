@@ -1,5 +1,5 @@
 bundle:
-  name: geography
+  name: resorts
 
 include:
   - resources/*/*.yml
@@ -16,12 +16,6 @@ sync:
 #     path: ../../src/dist/
 
 variables:
-  # env:
-  #   description: The environment (dev, stg, prd)
-  #   default: dev
-  # deployment_principal:
-  #   description: Service principal used to deploy the bundle (include full name).
-  #   default: 67b3fe2f-3a54-4668-ac37-463024ef6a01
   development_mode:
     description: The mode to run in when in development
     default: production
@@ -33,12 +27,6 @@ variables:
       git_provider: github
       git_branch: main
 
-# permissions:
-#   - service_principal_name: ${var.deployment_principal}
-#     level: CAN_MANAGE
-#   - group_name: inf-developers
-#     level: CAN_MANAGE
-
 targets:
 
   dev: &target_env
@@ -46,9 +34,6 @@ targets:
     mode: ${var.development_mode}
     workspace:
       root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
-    # permissions:
-    #   - group_name: inf-developers
-    #     level: CAN_MANAGE
 
   stg: 
     <<: *target_env

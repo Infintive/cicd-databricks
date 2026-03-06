@@ -47,13 +47,13 @@ jobs:
           path: src/dist
 
       - name: Validate bundle
-        working-directory: bundles/geography
+        working-directory: bundles/resorts
         run: databricks bundle validate -t "$ENVIRONMENT"
 
       - name: Plan bundle
-        working-directory: bundles/geography
+        working-directory: bundles/resorts
         run: databricks bundle plan -t "$ENVIRONMENT" --output json
 
       - name: Deploy bundle
-        working-directory: bundles/geography
-        run: databricks bundle destroy -t "$ENVIRONMENT" --auto-approve
+        working-directory: bundles/resorts
+        run: databricks bundle deploy -t "$ENVIRONMENT" --auto-approve
